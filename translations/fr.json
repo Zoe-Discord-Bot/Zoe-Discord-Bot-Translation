@@ -146,7 +146,7 @@
     "cleanChannelOptionEnable": "Activé (%s dans le canal%s)",
     "optionRegionDisable": "Aucune(désactivé)",
     "infocardsOptionDesc": "Envoie des stats quand un joueur commence une partie",
-    "infocardsOptionLongDescEnable": "Option en activation : **%s**\n\nActiver cette option va créer à chaque game commencée par un joueur un message avec des stats sur sa partie.\nCes messages seront automatiquement supprimé.\n\n :white_check_mark: : Active cette option.\n :x: : Annule l'activation.",
+    "infocardsOptionLongDescEnable": "Option en activation  : **%s**\n\nActiver cette option va créer à chaque game commencée par un joueur un message avec des stats sur sa partie.\nCes messages seront automatiquement supprimé.\n\n :white_check_mark: : Active cette option.\n :x: : Annule l'activation.",
     "infocardsOptionLongDescDisable": "Option que vous souhaitez désactiver : **%s**\n\nDésactiver cette option arrêtera l'envoie de statistiques à chaque début de partie dans le canal d'information.\n\n**Etes vous sûr de désactiver cette option ?**\n\n:white_check_mark: : **Désactive** cette option\n:x: : Stop la désactivation",
     "cleanChannelOptionBeenDisable": "D'accord, l'option a été désactivée.",
     "cleanChannelOptionStillEnable": "Okay, l'option est toujours activé.",
