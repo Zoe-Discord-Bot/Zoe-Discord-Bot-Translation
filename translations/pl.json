@@ -258,9 +258,12 @@
     "addingSystemEndMessage": "Domyślna podstawowa zakończona. Dziękujemy za skorzystanie z usług :D",
     "rankChannelFilterOptionAll": "Wszystkie przedstawione typy",
     "rankChannelFilterOptionChanged": "Ok, opcja serwera została poprawnie zaktualizowana.",
-    "rankChannelFilterOptionLoLDesc": "Wysyłaj tylko wiadomości LoL w kanale rangi",
-    "rankChannelFilterOptionTFTDesc": "Wysyłaj tylko wiadomości TFT w kanale rangowym",
+    "rankChannelFilterOptionLoLDesc": "Wysyłaj tylko wiadomości dotyczące LoL'a na kanale rang.",
+    "rankChannelFilterOptionTFTDesc": "Wysyłaj tylko wiadomości TFT na kanale rang",
     "rankChannelFilterOptionNotChanged": "To jest już opcja serwera.",
     "rankChannelFilterOptionAllDesc": "Wysyłaj wszystkie typy wiadomości w kanale rangowym (LoL i TFT)",
-    "rankChannelFilterOptionLongDesc": "Opcja : **%s** \n\nTa opcja pozwala na dodanie filtra na to, jakiego typu wiadomości są wysyłane wewnątrz kanału rangi.\n\nOto moje opcje : "
+    "rankChannelFilterOptionLongDesc": "Opcja : **%s** \n\nTa opcja pozwala na dodanie filtra na to, jakiego typu wiadomości są wysyłane wewnątrz kanału rangi.\n\nOto moje opcje : ",
+    "rankChannelFilterOptionTFT": "Pokazane tylko TFT",
+    "rankChannelFilterOptionLoL": "Pokazany tylko LoL",
+    "rankChannelFilterOptionDesc": "Filtruje wiadomości na kanale rang w zależności od gry (LoL i TFT)"
 }
