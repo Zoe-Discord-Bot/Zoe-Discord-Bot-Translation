@@ -139,13 +139,13 @@
     "cleanChannelOptionInfoMessageAll": "Info : Od teraz włączone, wszystkie wiadomości wysłane tutaj będą usuwane po 3 sekundach.",
     "cleanChannelOptionSettedDoneMessage": "Idealnie ! Kanał został ustawiony poprawnie. Proszę sprawdź czy posiadam potrzebne uprawnienia (Zarządzanie wiadomościami, Czytanie czatu, Czytanie historii czatu).",
     "cleanChannelOptionSelectInfoChannel": "Wybrałeś kanał informacyjny, ten config jest niemożliwy do zainstalowania. Konfiguracja została przerwana.",
-    "cleanChannelOptionOneTextChannelRequired": "",
+    "cleanChannelOptionOneTextChannelRequired": "Nie oznaczyłeś docelowego kanału tekstowego. Konfiguracja została anulowana.",
     "cleanChannelOptionResponseTimeOut": "",
-    "optionDisable": "",
-    "optionEnable": "",
-    "cleanChannelOptionEnable": "",
-    "optionRegionDisable": "",
-    "infocardsOptionDesc": "",
+    "optionDisable": "Wyłącz",
+    "optionEnable": "Włącz",
+    "cleanChannelOptionEnable": "Włącz (%s na tym kanale %s)",
+    "optionRegionDisable": "Jakikolwiek (wyłącz)",
+    "infocardsOptionDesc": "Wyślij wiadomość ze statystykami kiedy gracz zaczyna grę.",
     "infocardsOptionLongDescEnable": "",
     "infocardsOptionLongDescDisable": "",
     "cleanChannelOptionBeenDisable": "",
@@ -265,5 +265,7 @@
     "rankChannelFilterOptionLongDesc": "Opcja : **%s** \n\nTa opcja pozwala na dodanie filtra na to, jakiego typu wiadomości są wysyłane wewnątrz kanału rangi.\n\nOto moje opcje : ",
     "rankChannelFilterOptionTFT": "Pokazane tylko TFT",
     "rankChannelFilterOptionLoL": "Pokazany tylko LoL",
-    "rankChannelFilterOptionDesc": "Filtruje wiadomości na kanale rang w zależności od gry (LoL i TFT)"
+    "rankChannelFilterOptionDesc": "Filtruje wiadomości na kanale rang w zależności od gry (LoL i TFT)",
+    "rankChannelFilterOptionTFTOnly": "Tylko wiadomości z TFT",
+    "rankChannelFilterOptionLoLOnly": "Tylko wiadomości z LoL"
 }
