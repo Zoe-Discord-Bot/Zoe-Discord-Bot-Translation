@@ -753,5 +753,11 @@
     "leavePlayerDeletionOptionLongDescEnable": "**Option you want to enable : %s**\n\nThis will enable the automated deletion of League account when a member leave.\n**All players that are currently not in the server but still saved will be deleted!**\n\n**Do you want to enable the automated deletion system ?**",
     "leavePlayerDeletionOptionEnableOptionButton": "Enable the option and delete all players not longer in the server",
     "leavePlayerDeletionOptionEnableUpdate": "The option has been correctly enable. The deletion of players will happens in the next 24 hours",
-    "leavePlayerDeletionOptionCancelEnable": "Alright, we stop the update of this option now."
+    "leavePlayerDeletionOptionCancelEnable": "Alright, we stop the update of this option now.",
+	"improvedRankRoleOptionCancelCreate": "Okay, we stop the creation of the option here.",
+	"improvedRankRoleOptionRemainingSlots": "Slots for roles remaining : %d",
+	"improvedRankRoleOptionNotEnoughRoleSlotsContinue": "There is too much roles in the current setup but you can delete some of them in the next step.",
+	"improvedRankRoleOptionCreationContinueToUpdateMenu": "Continue to the next step",
+	"improvedRankRoleOptionCreateNewRankRoleButton": "Create a new role",
+	"improvedRankRoleOptionCreateNewRankRoleDefaultName": "New Zoe Rank Role"
 }
