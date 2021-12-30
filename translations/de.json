@@ -745,5 +745,19 @@
     "improvedRankRoleOptionDescription": "Zuweisen von Discord Rollen nach League Rang",
     "improvedRankRoleOption": "Rang Rolle verbessert",
     "leavePlayerDeletionOptionDesc": "Spieler löschen, die den Server verlassen",
-    "leavePlayerDeletionOptionName": "Verlassende Spieler speichern "
+    "leavePlayerDeletionOptionName": "Verlassende Spieler speichern ",
+    "improvedRankRoleOptionCreateNewRankRoleDefaultName": "Neue Zoe Rang Rolle",
+    "improvedRankRoleOptionCreateNewRankRoleButton": "Erstelle eine neue Rolle",
+    "improvedRankRoleOptionCreationContinueToUpdateMenu": "Weiter zum nächsten Schritt",
+    "improvedRankRoleOptionNotEnoughRoleSlotsContinue": "Es gibt zu viele Rollen in der aktuellen Konfiguration, aber du kannst einige von deinen im nächsten Schritt löschen.",
+    "improvedRankRoleOptionRemainingSlots": "Verbleibende Plätze für Rollen : %d",
+    "improvedRankRoleOptionCancelCreate": "Okay, wir stoppen die Erstellung der Option hier.",
+    "leavePlayerDeletionOptionCancelEnable": "In Ordnung, wir werden diese Option jetzt nicht mehr aktualisieren.",
+    "leavePlayerDeletionOptionEnableUpdate": "Die Option wurde korrekt aktiviert. Die Löschung der Spieler wird in den nächsten 24 Stunden erfolgen",
+    "leavePlayerDeletionOptionEnableOptionButton": "Aktivieren der Option und löschen aller Spieler, die nicht mehr auf dem Server sind",
+    "leavePlayerDeletionOptionLongDescEnable": "**Option, die du aktivieren möchtest : %s**\n\nDies ermöglicht die automatische Löschung des League-Kontos, wenn ein Mitglied den Server verlässt.\n**Alle Spieler, die derzeit nicht auf dem Server sind, aber noch gespeichert sind, werden gelöscht!**\n\n**Möchtest du das automatische Löschsystem aktivieren?**",
+    "leavePlayerDeletionOptionCancelDisable": "Okay, wir halten den Prozess hier an.",
+    "leavePlayerDeletionOptionTimeout": "Da du nicht innerhalb von 2 Minuten geantwortet hast, werden wir den Vorgang an dieser Stelle abbrechen.",
+    "leavePlayerDeletionOptionDisableOptionButton": "Deaktiviere die Option",
+    "leavePlayerDeletionOptionLongDescDisable": "**Option, die Siedu deaktivieren möchtest : %s**\n\nDies deaktiviert die automatische Löschung des League-Accounts, wenn ein Mitglied den Server verlässt. Wenn du einen Spieler manuell löschen willst, musst du zuerst seine Discord ID mit dem Befehl ``/show players`` herausfinden. Dann sende den Befehl ``/delete player discordid``. Danach sollte alles gut sein.\n\n**Möchtest du das automatische Löschsystem deaktivieren?**"
 }
