@@ -688,5 +688,10 @@
     "showPlayersCommandNeedToMentionAPlayer": "Este jugador no está registrado. Por favor, mencione un jugador registrado.",
     "showPlayersCommandMentionPlayerShow": "Lista de cuentas registradas para este jugador:",
     "winrateTemporaryDisable": "Estadísticas tmp. desactivadas",
-    "leagueAccountDataUnavailableError503": "Los servidores de Riot no han podido responder correctamente a tiempo (Error 503)"
+    "leagueAccountDataUnavailableError503": "Los servidores de Riot no han podido responder correctamente a tiempo (Error 503)",
+    "improvedRankRoleOptionCreationContinueToUpdateMenu": "Continuar en el siguiente paso",
+    "improvedRankRoleOptionNotEnoughRoleSlotsContinue": "Hay demasiados roles en la configuración actual pero puedes borrar algunos de ellos en el siguiente paso.",
+    "improvedRankRoleOptionRemainingSlots": "Espacios para roles restantes: %d",
+    "leavePlayerDeletionOptionCancelEnable": "Bien, vamos a parar de actualizar esta opción.",
+    "improvedRankRoleOptionCreateNewRankRoleButton": "Crear un nuevo rol"
 }
