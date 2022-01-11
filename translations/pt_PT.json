@@ -1,1 +1,9 @@
-{}
+{
+    "aboutCommandHelp": "Dá a informação acerca do bot.",
+    "missingPermissionOwnerMessage": "Olá! Eu sou um bot no teu servidor %s.\nEu preciso da premissão \"%s\" no infoChannel para funcionar corretamente. Se precisares de ajuda, podes juntar-te ao servidor de ajuda: %s.\nEsta mensagem será enviada todas as vezes que eu reiniciar.  Desde já Obrigado !",
+    "helpMessageSendConfirmation": "Enviei-te todos os comandos numa mensagem privada.",
+    "endHelpMessage": "Para ajuda adicional, podes-te juntar ao nosso servidor oficial :",
+    "commandPlural": "Comandos",
+    "command": "Comando",
+    "startHelpMessage": "Aqui estão os meus comandos :"
+}
