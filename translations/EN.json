@@ -759,5 +759,11 @@
 	"improvedRankRoleOptionNotEnoughRoleSlotsContinue": "There is too much roles in the current setup but you can delete some of them in the next step.",
 	"improvedRankRoleOptionCreationContinueToUpdateMenu": "Continue to the next step",
 	"improvedRankRoleOptionCreateNewRankRoleButton": "Create a new role",
-	"improvedRankRoleOptionCreateNewRankRoleDefaultName": "New Zoe Rank Role"
+	"improvedRankRoleOptionCreateNewRankRoleDefaultName": "New Zoe Rank Role",
+	"mindsetStatsFresh": "Fresh",
+	"mindsetStatsLoss": "%s Loss",
+	"mindsetStatsWin": "%s Win",
+	"mindsetStatsLossStreak": "%s Loss Streak",
+	"mindsetStatsWinStreak": "%s Win Streak",
+	"masteriesMindsetTitleRespectSize": "Masteries | Mindset"
 }
