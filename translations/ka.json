@@ -17,5 +17,7 @@
     "endHelpMessage": "დამატებითი ინფორმაციისთვის, ეწვიეეთ ჩვენს ოფიციალურ სერვერს:",
     "commandPlural": "ბრძანებები",
     "command": "ბრძანება",
-    "startHelpMessage": "ეს არის ჩემი ბრძანებები:"
+    "startHelpMessage": "ეს არის ჩემი ბრძანებები:",
+    "mentionnedUserNotRegistered": "მონიშნული მომხარებელი არ არის დარეგისტრირებული, გთხოვთ პირველ რიგში დაარეგისტრირეთ ბრძანებით `>create player`.",
+    "mentionNeededMessageWithUser": "გთხოვთ მონიშნოთ სერვერის ერთი მემბერი ( მაგალითად `>create player @%s (Region) (SummonerName)`)"
 }
