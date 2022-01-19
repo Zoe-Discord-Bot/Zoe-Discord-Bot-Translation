@@ -1,1 +1,9 @@
-{}
+{
+    "aboutCommandHelp": "Sniedz informāciju par botu.",
+    "missingPermissionOwnerMessage": "Sveicināti! Es esmu bots jūsu serverī %s.\nMan ir nepieciešama \"%s\" atļauja infoChannel lai strādātu pareizi. Ja jums nepieciešama palīdzība, jūs varat pievienoties palīdzības serverim: %s.\nŠī ziņa tiks nosūtīta katru reizi kad es restartēšos. \nPaldies jums jau priekšlaicīgi !",
+    "helpMessageSendConfirmation": "Es jums nosūtīju visas komandas privātajā ziņā.",
+    "endHelpMessage": "Priekš papildus palīdzības, jūs varat pievienoties mūsu oficiālajā serverī :",
+    "commandPlural": "Komandas",
+    "command": "Komanda",
+    "startHelpMessage": "Šeit ir visas manas komandas :"
+}
