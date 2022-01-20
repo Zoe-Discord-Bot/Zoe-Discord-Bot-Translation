@@ -693,5 +693,8 @@
     "improvedRankRoleOptionNotEnoughRoleSlotsContinue": "Hay demasiados roles en la configuración actual pero puedes borrar algunos de ellos en el siguiente paso.",
     "improvedRankRoleOptionRemainingSlots": "Espacios para roles restantes: %d",
     "leavePlayerDeletionOptionCancelEnable": "Bien, vamos a parar de actualizar esta opción.",
-    "improvedRankRoleOptionCreateNewRankRoleButton": "Crear un nuevo rol"
+    "improvedRankRoleOptionCreateNewRankRoleButton": "Crear un nuevo rol",
+    "improvedRankRoleOptionContinueTheCreation": "Continuar con los ajustes",
+    "improvedRankRoleOptionAskForCreation": "**Opción en la creación: %s**\n\nEsta opción permite asignar roles de discord según su rango de discord de forma muy precisa. Todos los roles una vez creados pueden ser modificados en su nombre/color.\n\n¿Desea continuar?",
+    "improvedRankRoleOptionDescription": "Asignar roles de Discordia por rango de liga"
 }
