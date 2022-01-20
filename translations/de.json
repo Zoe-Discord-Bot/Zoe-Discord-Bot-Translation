@@ -759,5 +759,11 @@
     "leavePlayerDeletionOptionCancelDisable": "Okay, wir halten den Prozess hier an.",
     "leavePlayerDeletionOptionTimeout": "Da du nicht innerhalb von 2 Minuten geantwortet hast, werden wir den Vorgang an dieser Stelle abbrechen.",
     "leavePlayerDeletionOptionDisableOptionButton": "Deaktiviere die Option",
-    "leavePlayerDeletionOptionLongDescDisable": "**Option, die Siedu deaktivieren möchtest : %s**\n\nDies deaktiviert die automatische Löschung des League-Accounts, wenn ein Mitglied den Server verlässt. Wenn du einen Spieler manuell löschen willst, musst du zuerst seine Discord ID mit dem Befehl ``/show players`` herausfinden. Dann sende den Befehl ``/delete player discordid``. Danach sollte alles gut sein.\n\n**Möchtest du das automatische Löschsystem deaktivieren?**"
+    "leavePlayerDeletionOptionLongDescDisable": "**Option, die Siedu deaktivieren möchtest : %s**\n\nDies deaktiviert die automatische Löschung des League-Accounts, wenn ein Mitglied den Server verlässt. Wenn du einen Spieler manuell löschen willst, musst du zuerst seine Discord ID mit dem Befehl ``/show players`` herausfinden. Dann sende den Befehl ``/delete player discordid``. Danach sollte alles gut sein.\n\n**Möchtest du das automatische Löschsystem deaktivieren?**",
+    "mindsetStatsLoss": "%s Niederlage",
+    "mindsetStatsWin": "%s Sieg",
+    "mindsetStatsLossStreak": "%s Niederlagenserie",
+    "mindsetStatsWinStreak": "%s Siegesserie",
+    "mindsetStatsFresh": "Erstes Spiel",
+    "masteriesMindsetTitleRespectSize": "Masteries | Mindset"
 }
