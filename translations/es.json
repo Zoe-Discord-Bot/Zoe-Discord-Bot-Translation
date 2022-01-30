@@ -383,7 +383,7 @@
     "banAccountCommandGuildItemOnlyId": "ID del Servidor %d",
     "banAccountCommandStatusImpossibleToAdd": "Imposible de añadir",
     "banAccountCommandStatusPossibleToAdd": "Posible de añadir",
-    "banAccountCommandKickMissingOrBadSelection": "Tienes que mandarme el número del servidor (mira la lista arriba), si no, no puedo saber donde tengo que ejecutar el comando. Por favor, inténtalo de nuevo. Si quieres detener el proceso, envía ``Stop``.\n\nAquí tienes algunos ejemplos:\n- ``kick 3``  -> Borra tu cuenta del servidor marcado con el número 3.\n- ``kick all``  -> Borra tu cuenta de todos los servidores donde fuiste añadido.",
+    "banAccountCommandKickMissingOrBadSelection": "Tienes que mandarme el número del servidor (mira la lista arriba), si no, no puedo saber donde tengo que ejecutar el comando. Por favor, inténtalo de nuevo. Si quieres detener el proceso, envía ``Stop``.\n\nAquí tienes algunos ejemplos:\n- ``kick 3`` -> Borra tu cuenta del servidor marcado con el número 3.\n- ``kick all`` -> Borra tu cuenta de todos los servidores donde fuiste añadido.",
     "banAccountCommandAccountAddedToTheBanList": "Okay, la cuenta fue añadida a la lista de baneados. No puedes agregarla a los servidores. Si la cuenta ya estaba añadida de antes, no será eliminada. Utiliza el comando ``kick númeroDelServidor`` para hacerlo. Si quieres detener el proceso, envía ``Stop``.",
     "banAccountCommandAccountDeleteOfTheBanList": "Correcto, ¡la cuenta ha sido eliminada de la lista de baneos! Ahora puedes volver a utilizarla. Si quieres detener el proceso, envía ``Stop``.",
     "banAccountCommandStopManageProcess": "Okay, detendremos el manejo de tu cuenta aquí.",
@@ -659,7 +659,7 @@
     "needHelpMessage": "¿Tienes un problema con Zoe? Podemos ayudarte aquí: <https://discord.gg/BfB2B74VnK>",
     "supportMessageZoeLoveDev": "Desarrollo Zoe con amor. Si amas a Zoe tanto como yo, por favor apóyame en mi trabajo: <https://bit.ly/support-zoe>",
     "translationErrorMessagePromote": "¿Has encontrado un error en la traducción? Comunícalo en el servidor oficial de Discord aquí: <https://discord.gg/BfB2B74VnK>",
-    "couldNotSendInfoCardsOverloaded": "La infocard sobre el juego de %s no pudo ser generada debido a la sobrecarga de corriente. Lo siento por eso :c",
+    "couldNotSendInfoCardsOverloaded": "La carta de información sobre el juego de %s no pudo ser generada debido a una sobrecarga actual. Lo siento por eso :c",
     "subscriptionCommandSlashHelp": "Muestra el estado de la suscripción a Zoe del usuario dado.",
     "supportMessageZoeNeededTLDR": "¡Zoe necesita %d€ al mes para sobrevivir! Estado actual: %d€/%d€\nPara ayudar: <https://bit.ly/support-zoe>",
     "subscriptionCommandUserSupport": "¡Tú eres una de las personas que hacen posible que Zoe exista!\nPara más información, consulta mi [página Ko-fi](https://bit.ly/3in4S1E)",
@@ -696,5 +696,7 @@
     "improvedRankRoleOptionCreateNewRankRoleButton": "Crear un nuevo rol",
     "improvedRankRoleOptionContinueTheCreation": "Continuar con los ajustes",
     "improvedRankRoleOptionAskForCreation": "**Opción en la creación: %s**\n\nEsta opción permite asignar roles de discord según su rango de discord de forma muy precisa. Todos los roles una vez creados pueden ser modificados en su nombre/color.\n\n¿Desea continuar?",
-    "improvedRankRoleOptionDescription": "Asignar roles de Discordia por rango de liga"
+    "improvedRankRoleOptionDescription": "Asignar roles de Discordia por rango de liga",
+    "rankShowTypeShowOnlyRankName": "Mostrar sólo el rango",
+    "rankShowTypeShowAllDivisionName": "Mostrar todas las divisiones"
 }
