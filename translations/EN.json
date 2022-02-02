@@ -209,7 +209,7 @@
     "mainShowCommandHelpMessage": "If you need help for show command, type `>show help`",
     "mainStatsCommandHelpMessage": "If you want help about stats commands, type `>stats help`",
     "teamNameOfPlayerWithoutTeam": "No Team",
-    "informationPanelRefreshedTime": "*Refreshed every %s minutes*",
+    "informationPanelRefreshedTime": "*Refreshed every %s minutes | Generated %s**",
     "informationPanelNotInGame": "Not in game",
     "informationPanelMultipleAccountInGame": "Multiple accounts are in game",
     "informationPanelTitle": "Information Panel",
@@ -765,5 +765,7 @@
     "mindsetStatsWin": "%s Win",
     "mindsetStatsLossStreak": "%s Loss Streak",
     "mindsetStatsWinStreak": "%s Win Streak",
-    "masteriesMindsetTitleRespectSize": "Masteries | Mindset"
+    "masteriesMindsetTitleRespectSize": "Masteries | Mindset",
+	"clashChannelLastRefreshMadeBottom": "Last refresh made %s",
+	"generated": "Generated"
 }
