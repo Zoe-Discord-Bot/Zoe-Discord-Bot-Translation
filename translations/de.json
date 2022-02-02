@@ -197,7 +197,7 @@
     "mainShowCommandHelpMessage": "Wenn du Hilfe zu den \"show\" Befehlen benötigest, gib \">show help\" ein",
     "mainStatsCommandHelpMessage": "Wenn du Hilfe zu den \"stats\" Befehlen benötigst, gib \">stats help\" ein",
     "teamNameOfPlayerWithoutTeam": "Kein Team",
-    "informationPanelRefreshedTime": "*Wird jede %s Minuten aktualisiert*",
+    "informationPanelRefreshedTime": "*Wird alle %s Minuten aktualisiert* | Generiert %s*",
     "informationPanelNotInGame": "Nicht im Spiel",
     "informationPanelMultipleAccountInGame": "Mehrere Konten im Spiel",
     "informationPanelTitle": "Informationstafel",
@@ -765,5 +765,7 @@
     "mindsetStatsLossStreak": "%s Niederlagenserie",
     "mindsetStatsWinStreak": "%s Siegesserie",
     "mindsetStatsFresh": "Erstes Spiel",
-    "masteriesMindsetTitleRespectSize": "Masteries | Mindset"
+    "masteriesMindsetTitleRespectSize": "Masteries | Mindset",
+    "clashChannelLastRefreshMadeBottom": "Letzte Aktualisierung erfolgte %s",
+    "generated": "Generiert"
 }
