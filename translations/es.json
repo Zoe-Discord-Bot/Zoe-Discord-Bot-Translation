@@ -197,7 +197,7 @@
     "mainShowCommandHelpMessage": "Si necesitas ayuda para comandos \"show\", escribe `>show help`",
     "mainStatsCommandHelpMessage": "Si necesitas ayuda para comandos \"stats\", escribe `>stats help`",
     "teamNameOfPlayerWithoutTeam": "Sin equipo",
-    "informationPanelRefreshedTime": "*Actualizado cada %s minutos*",
+    "informationPanelRefreshedTime": "*Actualiza cada %s minutos*",
     "informationPanelNotInGame": "No está en partida",
     "informationPanelMultipleAccountInGame": "Múltiples cuentas están en partida",
     "informationPanelTitle": "Panel de información",
@@ -698,5 +698,7 @@
     "improvedRankRoleOptionAskForCreation": "**Opción en la creación: %s**\n\nEsta opción permite asignar roles de discord según su rango de discord de forma muy precisa. Todos los roles una vez creados pueden ser modificados en su nombre/color.\n\n¿Desea continuar?",
     "improvedRankRoleOptionDescription": "Asignar roles de Discordia por rango de liga",
     "rankShowTypeShowOnlyRankName": "Mostrar sólo el rango",
-    "rankShowTypeShowAllDivisionName": "Mostrar todas las divisiones"
+    "rankShowTypeShowAllDivisionName": "Mostrar todas las divisiones",
+    "improvedRankRoleOption": "Rol de rango mejorado",
+    "improvedRankRoleOptionStopCreationButton": "cancelar la creación"
 }
