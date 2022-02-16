@@ -197,7 +197,7 @@
     "mainShowCommandHelpMessage": "Se avete bisogno di aiuto per il comando show, digitate `>show help`",
     "mainStatsCommandHelpMessage": "Se volete aiuto sui comandi stats, digitate `>stats help`",
     "teamNameOfPlayerWithoutTeam": "Nessuna squadra",
-    "informationPanelRefreshedTime": "*Aggiornato ogni %s minuti*",
+    "informationPanelRefreshedTime": "*Aggiornato ogni %s minuti | Generato %s*",
     "informationPanelNotInGame": "Non in gioco",
     "informationPanelMultipleAccountInGame": "Più account sono in gioco",
     "informationPanelTitle": "Pannello informativo",
@@ -709,5 +709,15 @@
     "rankShowTypeShowAllDivisionName": "Mostra tutte le divisioni",
     "improvedRankRoleOptionContinueTheCreation": "Vai alle impostazioni",
     "improvedRankRoleOptionStopCreationButton": "Annulla la creazione",
-    "improvedRankRoleOptionDescription": "Assegna ruoli Discord in base al Rank"
+    "improvedRankRoleOptionDescription": "Assegna ruoli Discord in base al Rank",
+    "rankShowTypeShowDivisionPerTwoDescription": "Verrà creato un ruolo per ogni seconda divisione",
+    "rankShowTypeShowOnlyRankDescription": "Un ruolo sarà creato solo per ogni grado",
+    "improvedRankRoleOptionShowSpecificRoleTypeButton": "Mostra il ruolo specifico per server: %s",
+    "improvedRankRoleOptionSpecifcRoleButton": "Ruolo specifico per coda: %s",
+    "improvedRankRoleOptionCreateOption": "Creare l'opzione con queste impostazioni",
+    "improvedRankRoleOptionCreationDone": "Siamo a posto! L'opzione è stata creata correttamente.",
+    "experimentalCategoryDescription": "Qui è dove avviene la magia",
+    "improvedRankRoleOption": "Rango Ruolo Migliorato",
+    "improvedRankRoleOptionAskForCreation": "**Opzione in creazione: %s**\n\nQuesta opzione permette di assegnare i ruoli discord in base al loro rango discord in modo molto preciso. Tutti i ruoli una volta creati possono essere modificati nel loro nome/colore.\n\nVuoi continuare?",
+    "improvedRankRoleOptionCreationMenu": "**Impostazione dell'opzione: %s**\n\nConfigurazione attuale :\n\nTipo di ruolo: %s\nRuolo specifico per server (Fare un ruolo separato per EUW, NA, KR, ...): %s\nCoda(e) selezionata(e): %s\nRuolo specifico per coda (creare un ruolo separato per SoloQ, Flex e TFT): %s\n\nRuolo più basso da creare: %s\nRuolo più alto da creare: %s\n\nEsempio di ruoli creati:\n%s\n\nNumero di ruoli che saranno creati: %d\nNumero di slot per i ruoli rimanenti dopo la creazione: %s\n\nPremi i pulsanti qui sotto per cambiare il valore."
 }
