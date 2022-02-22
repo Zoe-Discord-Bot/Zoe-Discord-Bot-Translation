@@ -31,7 +31,7 @@
     "riotApiSummonerByNameError429": "Ich kann nicht auf den Riot Server zugreifen. Bitte versuche es später erneut.",
     "riotApiSummonerByNameError404": "Der Beschwörername ist falsch. Bitte überprüfen den Beschwörername und die Region und versuche es erneut.",
     "riotApiSummonerByNameErrorUnexpected": "Ich habe einen unerwarteten Fehler festgestellt, bitte versuche es erneut. Fehlercode: %d",
-    "accountAlreadyLinkedToAnotherPlayer": "Dieses Konto ist bereits mit dem Spieler %s verknüpft!",
+    "accountAlreadyLinkedToAnotherPlayer": "Dieses Konto ist bereits mit dem Spieler %s verknüpft (Id: %s) !",
     "accountAddedToPlayer": "Dem Konto \"%s\" wurde dem Spieler %s hinzugefügt.",
     "addPlayerToTeamCommandHelp": "Füge den markierten Spieler dem angegebenen Team hinzu. Kanalverwaltungs Berechtigung erforderlich.",
     "mentionOfPlayerNeeded": "Bitte markiere einen registrierten Spieler !",
