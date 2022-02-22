@@ -31,7 +31,7 @@
     "riotApiSummonerByNameError429": "I can't access the riot server. Please retry later.",
     "riotApiSummonerByNameError404": "The summoner name is incorrect. Please check the summoner name and the region and retry.",
     "riotApiSummonerByNameErrorUnexpected": "I recieved an unexpected error, please retry. Error code : %d",
-    "accountAlreadyLinkedToAnotherPlayer": "This account is already linked with the player %s !",
+    "accountAlreadyLinkedToAnotherPlayer": "This account is already linked with the player %s (Id: %s) !",
     "accountAddedToPlayer": "The account \"%s\" has been added to the player %s.",
     "addPlayerToTeamCommandHelp": "Adds the mentioned player to the given team. Manage Channel permission needed.",
     "mentionOfPlayerNeeded": "Please mention a registered player !",
