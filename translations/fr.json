@@ -31,7 +31,7 @@
     "riotApiSummonerByNameError429": "Je ne peux actuellement pas accéder aux serveurs de Riot. Veuillez réessayer plus tard.",
     "riotApiSummonerByNameError404": "Le nom de l'invocateur est incorrect. Veuillez vérifier le nom de l'invocateur, sa région et réessayez.",
     "riotApiSummonerByNameErrorUnexpected": "J'ai eu une erreur inattendue, veuillez réessayer. Code d'erreur : %d",
-    "accountAlreadyLinkedToAnotherPlayer": "Le compte est déjà relié au joueur %s !",
+    "accountAlreadyLinkedToAnotherPlayer": "Le compte est déjà relié au joueur %s (Id: %s) !",
     "accountAddedToPlayer": "Le compte \"%s\" a été ajouté au joueur %s.",
     "addPlayerToTeamCommandHelp": "Ajoute le joueur mentionné dans l'équipe fournie. Vous devez avoir la permission \"Gérer les salons\".",
     "mentionOfPlayerNeeded": "Veuillez mentionner un joueur enregistré !",
