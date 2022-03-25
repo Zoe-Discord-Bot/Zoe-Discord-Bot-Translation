@@ -773,5 +773,6 @@
     "verificationProcessIconWhileAddingAccountFieldText": "1. Log in to the league client with the account.\n2. Click on your summoner profile icon.\n3. Select the icon bellow (should be at the bottom of the list).\n4. Leave the window. This will save your selection.",
     "verificationProcessIconWhileAddingAccountTitleFieldDone": "Once it's done",
     "verificationProcessIconWhileAddingAccountFieldDoneText": "Respond **DONE**. If you want to cancel this action, just send a random message.",
-    "verificationProcessAccountNotValidProfile": "The verification has failed! Please retry.\n\nOnce you changed your icon, send **DONE**. To cancel the process, send something else."
+    "verificationProcessAccountNotValidProfile": "The verification has failed! Please retry.\n\nOnce you changed your icon, send **DONE**. To cancel the process, send something else.",
+    "gameNotAvailable": "Game not available"
 }
