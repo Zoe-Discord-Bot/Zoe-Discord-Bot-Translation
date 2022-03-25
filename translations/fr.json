@@ -767,5 +767,12 @@
     "improvedRankRoleOptionUpdateSpecificDataQueue": "File(s) sélectionnée(s)",
     "leavePlayerDeletionOptionDesc": "Supprime les joueurs qui quittent le serveur",
     "leavePlayerDeletionOptionLongDescDisable": "**Option que vous souhaitez désactiver : %s**\n\nCela désactive la suppression automatique d'un compte League og legends quand un membre quitte le serveur. Si vous souhaitez supprimer le joueur manuellement, vous devez d'abord trouver son tag Discord avec la commande ''/show players''. Après cela, la commande ''/delete player TagDiscord''. Enfin, tout devrais être bon.\n\n**Voulez-vous désactiver la suppression automatique du système?**",
-    "leavePlayerDeletionOptionLongDescEnable": "**Option que vous souhaitez activer : %s**\n\nCela va autoriser la suppresssion automatique d'un compte league of legends quand un membre quitte le serveur.\n**Tout les joueurs qui ne sont actuellement pas dans le serveur mais qui sont enregistrés seront supprimés !**\n\n**Voulez-vous activer la suppression automatique du système ?**"
+    "leavePlayerDeletionOptionLongDescEnable": "**Option que vous souhaitez activer : %s**\n\nCela va autoriser la suppresssion automatique d'un compte league of legends quand un membre quitte le serveur.\n**Tout les joueurs qui ne sont actuellement pas dans le serveur mais qui sont enregistrés seront supprimés !**\n\n**Voulez-vous activer la suppression automatique du système ?**",
+    "verificationProcessIconWhileAddingAccountTitle": "Ce serveur Discord demande une vérification lors de l'ajout d'un nouveau compte",
+    "verificationProcessIconWhileAddingAccountTitleField": "Pour vérifier que vous êtes bien la personne qui possède le compte *%s* \"%s\" merci de suivre ces étapes.",
+    "verificationProcessIconWhileAddingAccountTitleFieldDone": "Une fois que c'est fait",
+    "verificationProcessIconWhileAddingAccountFieldDoneText": "Répondez **DONE**. Si vous voulez annuler cette action, envoyez quelque chose d'autre.",
+    "verificationProcessAccountNotValidProfile": "La vérification a échoué ! Merci de réessayer.\n\nDés que vous avez changé votre icone, envoyez **DONE**. Pour annuler le processus, envoyez quelque chose d'autre.",
+    "verificationProcessIconWhileAddingAccountFieldText": "1. Connectez-vous dans le client LoL avec votre compte.\n2. Cliquez sur votre icone de profile.\n3. Sélectionnez l'icone en bas de ce message (vous la retrouverez tout en bas de votre liste d'icone).\n4. Quittez la fenêtre. Cela sauvegardera vos changements.",
+    "gameNotAvailable": "Partie pas disponible"
 }
