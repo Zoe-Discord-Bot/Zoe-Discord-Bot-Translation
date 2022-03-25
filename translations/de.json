@@ -767,5 +767,9 @@
     "mindsetStatsFresh": "Erstes Spiel",
     "masteriesMindsetTitleRespectSize": "Masteries | Mindset",
     "clashChannelLastRefreshMadeBottom": "Letzte Aktualisierung erfolgte %s",
-    "generated": "Generiert"
+    "generated": "Generiert",
+    "verificationProcessIconWhileAddingAccountTitleFieldDone": "Sobald das erledigt ist",
+    "verificationProcessIconWhileAddingAccountTitle": "Dieser Discord-Server erfordert eine Verifizierung beim Hinzufügen eines neuen Kontos",
+    "verificationProcessIconWhileAddingAccountTitleField": "Um zu überprüfen, ob du der Inhaber des Kontos *%s* \"%s\" bist, führe bitte folgende Schritte aus.",
+    "verificationProcessIconWhileAddingAccountFieldText": "1. Melden Sie sich mit dem Konto im League-Client an.\n2. Klicken Sie auf Ihr Beschwörerprofil-Symbol.\n3. Wählen Sie das untenstehende Symbol (sollte sich am Ende der Liste befinden).\n4. Verlasse die Auswahl. Dadurch wird deine Auswahl gespeichert."
 }
