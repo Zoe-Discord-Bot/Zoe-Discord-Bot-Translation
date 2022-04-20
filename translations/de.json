@@ -31,7 +31,7 @@
     "riotApiSummonerByNameError429": "Ich kann nicht auf den Riot Server zugreifen. Bitte versuche es später erneut.",
     "riotApiSummonerByNameError404": "Der Beschwörername ist falsch. Bitte überprüfen den Beschwörername und die Region und versuche es erneut.",
     "riotApiSummonerByNameErrorUnexpected": "Ich habe einen unerwarteten Fehler festgestellt, bitte versuche es erneut. Fehlercode: %d",
-    "accountAlreadyLinkedToAnotherPlayer": "Dieses Konto ist bereits mit dem Spieler %s verknüpft!",
+    "accountAlreadyLinkedToAnotherPlayer": "Dieses Konto ist bereits mit dem Spieler %s verknüpft (Id: %s) !",
     "accountAddedToPlayer": "Dem Konto \"%s\" wurde dem Spieler %s hinzugefügt.",
     "addPlayerToTeamCommandHelp": "Füge den markierten Spieler dem angegebenen Team hinzu. Kanalverwaltungs Berechtigung erforderlich.",
     "mentionOfPlayerNeeded": "Bitte markiere einen registrierten Spieler !",
@@ -767,5 +767,12 @@
     "mindsetStatsFresh": "Erstes Spiel",
     "masteriesMindsetTitleRespectSize": "Masteries | Mindset",
     "clashChannelLastRefreshMadeBottom": "Letzte Aktualisierung erfolgte %s",
-    "generated": "Generiert"
+    "generated": "Generiert",
+    "verificationProcessIconWhileAddingAccountTitleFieldDone": "Sobald das erledigt ist",
+    "verificationProcessIconWhileAddingAccountTitle": "Dieser Discord-Server erfordert eine Verifizierung beim Hinzufügen eines neuen Kontos",
+    "verificationProcessIconWhileAddingAccountTitleField": "Um zu überprüfen, ob du der Inhaber des Kontos *%s* \"%s\" bist, führe bitte folgende Schritte aus.",
+    "verificationProcessIconWhileAddingAccountFieldText": "1. Melden Sie sich mit dem Konto im League-Client an.\n2. Klicken Sie auf Ihr Beschwörerprofil-Symbol.\n3. Wählen Sie das untenstehende Symbol (sollte sich am Ende der Liste befinden).\n4. Verlasse die Auswahl. Dadurch wird deine Auswahl gespeichert.",
+    "verificationProcessIconWhileAddingAccountFieldDoneText": "Antworte mit **DONE**. Wenn du diese Aktion abbrechen möchtest, sende einfach eine beliebige Nachricht.",
+    "verificationProcessAccountNotValidProfile": "Die Überprüfung ist fehlgeschlagen! Bitte versuche es erneut.\n\nWenn du dein Symbol geändert hast, sende **DONE**. Um den Vorgang abzubrechen, sende etwas anderes.",
+    "gameNotAvailable": "Spiel nicht verfügbar"
 }
