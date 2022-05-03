@@ -775,5 +775,8 @@
     "verificationProcessIconWhileAddingAccountFieldDoneText": "Respond **DONE**. If you want to cancel this action, just send a random message.",
     "verificationProcessAccountNotValidProfile": "The verification has failed! Please retry.\n\nOnce you changed your icon, send **DONE**. To cancel the process, send something else.",
     "gameNotAvailable": "Game not available",
-    "showPlayerCommandIdNotFound": "I did not find a user with an id corresponding to %s"
+    "showPlayerCommandIdNotFound": "I did not find a user with an id corresponding to %s",
+	"banAccountCommandProveAccountOwnerIconMethod": "Hello ! Account %s correctly selected. Please follow step bellow to prove that you are the owner of it. Once it's done, press on the **OK** button.",
+	"banAccountCommandMalformedAccountIcon": "The response you sent is malformed. Please send me your account with the following format ``>banaccount (RegionTag) (SummonerName)``. List of valid region tag : EUW, EUNE, NA, BR, JP, KR, LAN, LAS, OCE, RU, TR.",
+	"actionVerificationNeeded": "This action requires an account verification"
 }
