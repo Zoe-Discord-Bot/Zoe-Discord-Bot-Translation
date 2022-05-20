@@ -774,5 +774,7 @@
     "verificationProcessIconWhileAddingAccountFieldDoneText": "Répondez **DONE**. Si vous voulez annuler cette action, envoyez quelque chose d'autre.",
     "verificationProcessAccountNotValidProfile": "La vérification a échoué ! Merci de réessayer.\n\nDés que vous avez changé votre icone, envoyez **DONE**. Pour annuler le processus, envoyez quelque chose d'autre.",
     "verificationProcessIconWhileAddingAccountFieldText": "1. Connectez-vous dans le client LoL avec votre compte.\n2. Cliquez sur votre icone de profile.\n3. Sélectionnez l'icone en bas de ce message (vous la retrouverez tout en bas de votre liste d'icone).\n4. Quittez la fenêtre. Cela sauvegardera vos changements.",
-    "gameNotAvailable": "Partie pas disponible"
+    "gameNotAvailable": "Partie pas disponible",
+    "showPlayerCommandIdNotFound": "Je n'ai pas trouvé d'utilisateur avec un ID correspondant à %s",
+    "actionVerificationNeeded": "Cette action nécessite une vérification du compte"
 }
