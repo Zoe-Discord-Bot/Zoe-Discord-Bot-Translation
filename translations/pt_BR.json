@@ -274,7 +274,7 @@
     "addingSystemLanguageSelected": "Certo, agora vou falar %s. (Você pode mudar meu idioma sempre que quiser, com o comando `>l`). Agora vamos selecionar uma região padrão para o servidor:",
     "addingSystemRegionSelected": "Certo, você definiu a região \"%s\". Agora vou dar-lhe alguns conselhos sobre o meu uso:",
     "addingSystemEndMessage": "A configuração básica está completa. Espero que goste dos meus serviços :D",
-    "errorSQLPleaseReport": "Se você encontrar qualquer problema com a DataBase. Por favor reporte isso aqui: https://discord.gg/YZwBvAx",
+    "errorSQLPleaseReport": "Se você encontrar qualquer problema com a DataBase. Por favor reporte esse problema aqui: https://discord.gg/YZwBvAx",
     "guildJoinHiAgain": "Olá de novo! Toda a sua configuração foi salva desde a última vez que estive aqui. Se você precisar lembrar como eu trabalho, tente os comandos `>setup` e `>help`. Se você quiser resetar o servidor, utilize o comando `>reset`.",
     "nameUseIllegalCharacter": "Você não pode usar este nome! Você não pode usar caracteres de formatação.",
     "createRankChannelHelpMessage": "Crie um Canal de Rank no qual enviarei atualizações sobre as classificações dos jogadores registrados. Permissão de Gerenciar canais necessária.",
