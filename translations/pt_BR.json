@@ -566,7 +566,7 @@
     "resetCommandHelpSlashCommand": "Reínicia a configuração atual do servidor.",
     "patchNoteCommandRespondMessage": "As Notas de Atualização podem ser encontradas aqui: https://wiki.zoe-discord-bot.ch/en/patchnotes",
     "patchNotesCommandSlashCommand": "Envia o histórico das notas de atualização.",
-    "rankRoleOptionDescription": "",
+    "rankRoleOptionDescription": "Atribui papéis dependendo da classificação de um jogador.",
     "rankRoleOptionDisable": "",
     "rankRoleOptionDisableDesc": "Tudo foi Criado",
     "rankRoleOptionLongDesc": "",
