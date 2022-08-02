@@ -565,7 +565,7 @@
     "languageSlashCommandOptionNotValid": "La langue donné n'existe pas. Merci d'en sélectionner une correcte. (Vous pouvez essayer d'utiliser la commande classique ``>language``)",
     "needHelpMessage": "Vous avez un problème avec Zoe ? Nous pouvons vous aider ici : <https://discord.gg/BfB2B74VnK>",
     "supportMessageZoeLoveDev": "Je développe Zoe avec amour. Si vous aimez Zoe autant que moi, soutenez-moi dans mon travail : <https://bit.ly/support-zoe>",
-    "wikiMessage": "Zoe a maintenant un wiki : <https://bit.ly/wiki-zoe>",
+    "wikiMessage": "Zoe a maintenant un wiki : <https://wiki.zoe-discord-bot.ch>",
     "supportMessageNameOnWebsite": "Le saviez-vous ? Tous les supporters de Zoe ont leur nom sur le site web officiel ! Plus d'infos : <https://bit.ly/support-zoe>",
     "supportMessageExclusiveDevNews": "Vous voulez avoir un aperçu exclusif des futures fonctionnalités ? Soutenez Zoe et accédez aux processus de développement en coulisses. Plus d'infos : <https://bit.ly/support-zoe>",
     "supportMessagePayServer": "Comme tous les services internet, Zoe a besoin de serveurs pour fonctionner. Vous pouvez contribuer à leurs paiements ici : <https://bit.ly/support-zoe>",
