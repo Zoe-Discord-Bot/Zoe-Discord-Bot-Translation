@@ -575,7 +575,7 @@
     "rankRoleOptionCancelButton": "Cancelar",
     "rankRoleOptionActivateButton": "Ativar",
     "rankRoleOptionActivateWait": "Perfeito! Me dê apenas alguns segundos para ativar a opção...",
-    "rankRoleOptionDescriptionChangeText": "",
+    "rankRoleOptionDescriptionChangeText": "Define uma posição dependendo do rank do jogador: %s",
     "rankRoleOptionDisableTheOptionButton": "Desabilita",
     "rankRoleOptionUpdateTheOptionButton": "Atualização",
     "rankRoleOptionCancelUpdate": "Ok, nós paramos o processo aqui.",
