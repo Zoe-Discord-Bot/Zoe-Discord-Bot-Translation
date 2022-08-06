@@ -841,7 +841,7 @@
     "boostCommandCurrentSize": "Current Size",
     "leagueAccounts": "Leagues Accounts",
     "boostInfochannelAnnoncementMessage": "%s just boosted this server ! You can now access to premium features !",
-    "boostOwnerAnnoncementMessage": "Hello ! Your server **%s** just got boosted by %s ! This mean Zoe can now access to premium features inside it.\n\nTo see the list of features unlocked you can check here : <https://wiki.zoe-discord-bot.ch/en/Zoe-Points-And-Boosting>",
+    "boostOwnerAnnoncementMessage": "Hello ! Your server **%s** just got boosted by %s ! This mean Zoe can now access to premium features inside it.\n\nTo see the list of features unlocked you can check here : <https://wiki.zoe-discord-bot.ch/en/support#the-premium-subscription-offers>",
     "boostCommandUnboostButton": "Unboost the selected server",
     "boostCommandUnboostWarningTitle": "Warning ! Premium features will stop to work !",
     "boostCommandUnboostWarningMessage": "Premium features will stop to work inside **%s** but won't be deleted. If settings are not changed, a new boost will make work again premium features.\n\nUnboost this server will give you %d Zoe Point/s\n**Do you want to continue ?**",
