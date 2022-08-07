@@ -808,7 +808,7 @@
     "leaderboardEditButtonMessage": "Hello %s !\n\nYou can edit the size of the leaderboard here. Choose the size you want below and then press \"Validate\". If you want to delete the leaderboard, you can simply remove the leaderboard message.\n\nCurrent leaderboard size: %d",
     "leaderboardEditCancelMessage": "Alright, we cancel the process. You can now close the message.",
     "leaderboardEditValidateMessage": "Okay, the max size of the leaderboard has been correctly changed to **%d**. The leaderboard will be updated in a few seconds.",
-    "exclusiveAccessToPremiumFeatures": "Gain access to exclusive premium features! [List of features here](https://wiki.zoe-discord-bot.ch/en/Zoe-Points-And-Boosting)",
+    "exclusiveAccessToPremiumFeatures": "Gain access to exclusive premium features! [List of features here](https://wiki.zoe-discord-bot.ch/en/support#the-premium-subscription-offers)",
     "oneSmallPremiumServer": "Allows you to boost one small server to access premium features! *Gives you 1 Zoe Point | [More info](https://wiki.zoe-discord-bot.ch/en/Zoe-Points-And-Boosting)*",
     "oneMediumPremiumServer": "Allows you to boost one medium server to access premium features! *Gives you 3 Zoe Point | [More info](https://wiki.zoe-discord-bot.ch/en/Zoe-Points-And-Boosting)*",
     "oneLargePremiumServer": "Allows you to boost one large server to access premium features! *Gives you 6 Zoe Points | [More info](https://wiki.zoe-discord-bot.ch/en/Zoe-Points-And-Boosting)*",
