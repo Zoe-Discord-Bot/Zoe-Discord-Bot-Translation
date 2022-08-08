@@ -863,5 +863,17 @@
     "infoCardsChampionStatsBoostNeededMessage": ":star: Since we have still some testing to do, this feature is for premium servers and premium users only :star:\n\n**This feature will be available to everyone %s**",
     "configPremiumFeatureNeedRight": ":star: *Premium Feature | Premium server required : <https://ko-fi.com/kalunight/tiers>* :star:",
     "configPremiumFeature": ":star: *Premium Feature* :star:",
-    "subSystemYearlySubscriptionEnded": "Hello %s\n\nYour yearly subscription ended today. I really hope you enjoyed it. I really want to thank you again to support my project for a such long period of time. If you want to continue to support the project and have access to premium features, you can do it here : <https://ko-fi.com/kalunight/tiers>\n\nFor now, all the servers you used to boost no longer have access to premium features.\n\n*If you have any problem, please feel free to contact us on our support server: <https://discord.gg/yMCA5rrgYq>*"
+    "subSystemYearlySubscriptionEnded": "Hello %s\n\nYour yearly subscription ended today. I really hope you enjoyed it. I really want to thank you again to support my project for a such long period of time. If you want to continue to support the project and have access to premium features, you can do it here : <https://ko-fi.com/kalunight/tiers>\n\nFor now, all the servers you used to boost no longer have access to premium features.\n\n*If you have any problem, please feel free to contact us on our support server: <https://discord.gg/yMCA5rrgYq>*",
+	"defineInfoChannelSlashHelpMessage": "Defines a new info channel in which i can send info about players.",
+	"defineRankChannelSlashHelpMessage": "Defines the rank channel in which i will send rank change.",
+	"undefineInfoChannelSlashHelpMessage": "Undefines the current info channel. This will NOT delete the channel.",
+	"undefineRankChannelSlashHelpMessage": "Undefines the rank channel without deleting it.",
+	"helpCommandSlashHelpMessage": "Send help in private message",
+	"doneButton": "Done",
+	"verificationProcessIconWhileAddingAccountFieldDoneWithButtonText": "Simply press the button **Done**",
+	"verificationProcessAccountNotValidProfileWithButton": "The verification has failed! Please retry.\n\nOnce you changed your icon, press on **Done**.",
+	"cleanChannelOptionSendTextChannelWithNeededMention": "One more step and we are fine ! Now please **send a message with the mention of the text channel you want to define AND __with my mention %s__** (I won't be able to see your message if you don't ping me).",
+	"leaderboardChampionSelectedThenSendChannelWithNeededMention": "Okay, you have selected %s ! Now please send the mention of the channel in which you want the leaderboard (i.e. ``#leaderboard-channel``) __**and with my mention %s**__ (i won't be able to see your message if you don't ping me).",
+    "leaderboardSelectChannelLeaderboardWithNeededMention": "Okay, now please send me the mention of the channel in which you want the leaderboard (i.e. ``#your-channel``) __**and with my mention %s**__ (i won't be able to see your message if you don't ping me).",
+	"leaderboardDataNeededSpecificChampWithNeededMention": "You need to give me a champion for this type of leaderboard. Please select the champion by sending in the same message __**my mention %s**__ (so i can see your message) followed by **his name** or **his number**."
 }
