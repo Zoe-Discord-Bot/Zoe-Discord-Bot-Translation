@@ -807,7 +807,7 @@
     "leaderboardEditButtonNeedManageChannel": "Sorry, you need the Manage Channel permission to edit this leaderboard.",
     "leaderboardEditButtonMessage": "Hello %s !\n\nYou can edit the size of the leaderboard here. Choose the size you want below and then press \"Validate\". You can edit the server filter too here. This allow you to show only players with account on selected server. If you want to delete the leaderboard, you can simply remove the leaderboard message.\n\nCurrent leaderboard size: %d\nCurrent server filter: %s",
     "leaderboardEditCancelMessage": "Alright, we cancel the process. You can now close the message.",
-    "leaderboardEditValidateMessage": "Okay, the max size of the leaderboard has been correctly changed to **%d**. The leaderboard will be updated in a few seconds.",
+    "leaderboardEditValidateMessage": "Okay, the max size of the leaderboard has been correctly changed to **%d** and the server filter to **%s**. The leaderboard will be updated in a few seconds.",
     "exclusiveAccessToPremiumFeatures": "Gain access to exclusive premium features! [List of features here](https://wiki.zoe-discord-bot.ch/en/support#the-premium-subscription-offers)",
     "oneSmallPremiumServer": "Allows you to boost one small server to access premium features! *Gives you 1 Zoe Point | [More info](https://wiki.zoe-discord-bot.ch/en/Zoe-Points-And-Boosting)*",
     "oneMediumPremiumServer": "Allows you to boost one medium server to access premium features! *Gives you 3 Zoe Point | [More info](https://wiki.zoe-discord-bot.ch/en/Zoe-Points-And-Boosting)*",
@@ -897,6 +897,6 @@
     "infocardChampionStatsInfoBiggestWinrateBootsTitle": "Boots by Winrate",
     "infocardChampionStatsInfoMostSelectedSpellMax": "Most Common Spell Max",
     "infocardChampionStatsInfoBiggestWinrateSpellMax": "Highest Winrate Spell Max",
-	"leaderboardSettingsNoServerFilter": "No Server Filter",
-	"leaderboardNoLongerExitButtonReaction": "This leaderboard no longer exist. You can't edit it."
+    "leaderboardSettingsNoServerFilter": "No Server Filter",
+    "leaderboardNoLongerExitButtonReaction": "This leaderboard no longer exist. You can't edit it."
 }
