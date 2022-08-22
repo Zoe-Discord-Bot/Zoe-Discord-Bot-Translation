@@ -897,5 +897,6 @@
     "infocardChampionStatsInfoMostPickedBuildTitle": "Beliebteste Builds",
     "infocardChampionStatsInfoPatchVersion": "Patch Version",
     "infocardChampionStatsInfoBiggestWinrateSpellMax": "Höchste Winrate Max-Fähigkeit",
-    "leaderboardSettingsNoServerFilter": "Kein Serverfilter"
+    "leaderboardSettingsNoServerFilter": "Kein Serverfilter",
+    "leaderboardNoLongerExitButtonReaction": "Dieses Leaderboard existiert nicht mehr. Du kannst es nicht bearbeiten."
 }
