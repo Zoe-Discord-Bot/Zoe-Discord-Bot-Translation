@@ -801,7 +801,7 @@
     "leaderboardTopIndicator": "Top %d",
     "leaderboardEditButton": "Leaderboard bearbeiten",
     "leaderboardEditButtonNeedManageChannel": "Entschuldigung, Du benötigst die Berechtigung \"Kanal verwalten\", um dieses Leaderboard zu bearbeiten.",
-    "leaderboardEditButtonMessage": "Hallo %s !\n\nHier kannst du die Größe des Leaderboards bearbeiten. Wähle unten die gewünschte Größe und drücken dann auf \"Validieren\". Wenn du das Leaderboard löschen möchtest, kannst Du einfach die Nachricht des Leaderboards löschen.\n\nAktuelle Größe des Leaderboards: %d",
+    "leaderboardEditButtonMessage": "Hallo %s !\n\nHier kannst du die Größe des Leaderboards bearbeiten. Wähle unten die gewünschte Größe und drücken dann auf \"Validieren\". Du kannst auch die Serverfilter hier anpassen. Das erlaubt dir, nur Spieler eines bestimmten Servers anzuzeigen. Wenn du das Leaderboard löschen möchtest, kannst Du einfach die Nachricht des Leaderboards löschen.\n\nAktuelle Größe des Leaderboards: %d\nAktueller Serverfilter: %s",
     "leaderboardEditCancelMessage": "In Ordnung, wir brechen den Vorgang ab. Du kannst die Nachricht jetzt schließen.",
     "exclusiveAccessToPremiumFeatures": "Erhalte Zugang zu exklusiven Premium-Funktionen! [Liste der Funktionen hier](https://wiki.zoe-discord-bot.ch/en/support#the-premium-subscription-offers)",
     "oneSmallPremiumServer": "Erlaubt dir, einen kleinen Server zu boosten, um dort auf Premium-Funktionen zuzugreifen! *Gibt dir 1 Zoe-Punkt | [Mehr Infos](https://wiki.zoe-discord-bot.ch/en/Zoe-Points-And-Boosting)*",
@@ -855,7 +855,7 @@
     "boostCommandZoeUsageOverload": "Du bist überlastet! Du hast nicht genug Punkte, um all diese Server zu boosten!",
     "subCommandServerBoosted": "Hat Zugang zu Premium-Funktionen | Verwende den Befehl ``/boost`` für weitere Informationen",
     "subCommandServerNotBoosted": "Du hast keinen Zugang zu den Premium-Funktionen | Verwende den Befehl ``/boost`` für weitere Informationen",
-    "leaderboardPremiumOptionBoosted": "Dein Server ist Premium, Du hast Zugang zu größeren Leaderboards | Vielen Dank für Deine Unterstützung!",
+    "leaderboardPremiumOptionBoosted": "Dein Server ist Premium, Du hast Zugang zu größeren Leaderboards und Serverfiltern | Vielen Dank für Deine Unterstützung!",
     "infoCardsChampionStatsBoostNeededMessage": ":star: Da wir noch einige Tests durchführen müssen, ist diese Funktion nur für Premium-Server und Premium-Nutzer freigeschaltet :star:\n\n**Dieses Feature wird %s für alle verfügbar sein**",
     "configPremiumFeatureNeedRight": ":star: *Premium Funktion | Premium Server erforderlich: <https://ko-fi.com/kalunight/tiers>* :star:",
     "configPremiumFeature": ":star: *Premium Funktion* :star:",
@@ -866,7 +866,7 @@
     "doneButton": "Fertig",
     "verificationProcessIconWhileAddingAccountFieldDoneWithButtonText": "Einfach den Button **Fertig** drücken",
     "verificationProcessAccountNotValidProfileWithButton": "Die Überprüfung ist fehlgeschlagen! Bitte versuche es erneut.\n\nSobald Du Dein Symbol geändert hast, drücke auf **Fertig**.",
-    "leaderboardPremiumOptionNotBoosted": "Ein Leaderboard mit mehr als 10 Spielern ist ein Premium-Feature | Schalte es hier frei: <https://ko-fi.com/kalunight/tiers>",
+    "leaderboardPremiumOptionNotBoosted": "Ein Leaderboard mit mehr als 10 Spielern und Serverfilter sind Premium-Features | Schalte sie hier frei: <https://ko-fi.com/kalunight/tiers>",
     "boostedServerSizeIncreaseBoosterOverloardOthersOwnerMessage": "Hallo %s !\n\nDie Person, die deinen Server **%s** geboostet hat, %s, hat einen anderen Server geboostet, der gewachsen ist und dessen aktuelles Abonnement nicht genug Zoe-Punkte hat, um diese Änderung zu bewältigen. Infolgedessen funktionieren alle Premium-Funktionen nicht mehr **aber die Konfiguration wird NICHT gelöscht**. Löse dieses Problem, damit die Premium-Funktionen wieder funktionieren.\n**Wenn Premium-Funktionen für Deinen Server wichtig sind, kannst Du als Serverbesitzer Folgendes tun:**\n\n- Wende Dich an den Booster Deines Servers, um herauszufinden, ob er das Problem auf seiner Seite lösen kann, indem er das Boosten anderer Server einstellt oder ein höheres Abonnement abschließt.\n- Booste Deinen Server selbst mit einem Abonnement hier: <https://ko-fi.com/kalunight/tiers>\n\n*Du wirst keine Nachricht erhalten, wenn das Problem gelöst ist, Du kannst den Status Deines Servers mit dem Befehl ``/boost`` sehen.\n\nWenn Du ein Problem hast, kannst Du uns gerne auf unserem Support-Server kontaktieren: <https://discord.gg/yMCA5rrgYq>",
     "cleanChannelOptionSendTextChannelWithNeededMention": "Ein weiterer Schritt und wir sind fertig! Bitte sende jetzt **eine Nachricht mit der Erwähnung des Textkanals, den Du definieren möchtest UND __mit meiner Erwähnung %s__** (ich kann Deine Nachricht nicht sehen, es sei denn, Du pingst mich).",
     "leaderboardChampionSelectedThenSendChannelWithNeededMention": "Okay, Du hast %s ausgewählt! Jetzt schicke bitte die Erwähnung des Kanals, in dem du das Leaderboard haben willst (z.B. ``#leaderboard-channel``) __**und meine Erwähnung %s**__ in einer Nachricht (ich kann deine Nachricht nicht sehen, außer du pingst mich).",
@@ -896,5 +896,6 @@
     "infocardChampionStatsNoDataAvailable": "Es sind keine Daten für diesen Champion verfügbar!",
     "infocardChampionStatsInfoMostPickedBuildTitle": "Beliebteste Builds",
     "infocardChampionStatsInfoPatchVersion": "Patch Version",
-    "infocardChampionStatsInfoBiggestWinrateSpellMax": "Höchste Winrate Max-Fähigkeit"
+    "infocardChampionStatsInfoBiggestWinrateSpellMax": "Höchste Winrate Max-Fähigkeit",
+    "leaderboardSettingsNoServerFilter": "Kein Serverfilter"
 }
