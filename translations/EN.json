@@ -896,5 +896,6 @@
     "infocardChampionStatsInfoMostCommonBootsTitle": "Boots by Pickrate",
     "infocardChampionStatsInfoBiggestWinrateBootsTitle": "Boots by Winrate",
     "infocardChampionStatsInfoMostSelectedSpellMax": "Most Common Spell Max",
-    "infocardChampionStatsInfoBiggestWinrateSpellMax": "Highest Winrate Spell Max"
+    "infocardChampionStatsInfoBiggestWinrateSpellMax": "Highest Winrate Spell Max",
+	"leaderboardSettingsNoServerFilter": "No Server Filter"
 }
