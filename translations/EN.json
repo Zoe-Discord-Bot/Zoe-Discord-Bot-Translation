@@ -898,5 +898,8 @@
     "infocardChampionStatsInfoMostSelectedSpellMax": "Most Common Spell Max",
     "infocardChampionStatsInfoBiggestWinrateSpellMax": "Highest Winrate Spell Max",
     "leaderboardSettingsNoServerFilter": "No Server Filter",
-    "leaderboardNoLongerExitButtonReaction": "This leaderboard no longer exists. You cannot edit it."
+    "leaderboardNoLongerExitButtonReaction": "This leaderboard no longer exists. You cannot edit it.",
+	"leaderboardTitleServerFilter": "Server %s",
+	"leaderboardObjectiveBestOTP": "Best OTP",
+	"leaderboardObjectiveBestOTPTitle": "Best OTP Leaderboard"
 }
