@@ -901,5 +901,8 @@
     "leaderboardNoLongerExitButtonReaction": "This leaderboard no longer exists. You cannot edit it.",
 	"leaderboardTitleServerFilter": "Server %s",
 	"leaderboardObjectiveBestOTP": "Best OTP",
-	"leaderboardObjectiveBestOTPTitle": "Best OTP Leaderboard"
+	"leaderboardObjectiveBestOTPTitle": "Best OTP Leaderboard",
+	"leaderboardObjectiveAccountLevel": "Account level",
+	"leaderboardObjectiveAccountLevelTitle": "Account level Leaderboard",
+	"levelShort": "lvl"
 }
