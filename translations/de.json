@@ -898,5 +898,11 @@
     "infocardChampionStatsInfoPatchVersion": "Patch Version",
     "infocardChampionStatsInfoBiggestWinrateSpellMax": "Höchste Winrate Max-Fähigkeit",
     "leaderboardSettingsNoServerFilter": "Kein Serverfilter",
-    "leaderboardNoLongerExitButtonReaction": "Dieses Leaderboard existiert nicht mehr. Du kannst es nicht bearbeiten."
+    "leaderboardNoLongerExitButtonReaction": "Dieses Leaderboard existiert nicht mehr. Du kannst es nicht bearbeiten.",
+    "leaderboardTitleServerFilter": "Server %s",
+    "leaderboardObjectiveBestOTPTitle": "OTP Leaderboard",
+    "leaderboardObjectiveAccountLevel": "Account level",
+    "levelShort": "lvl",
+    "leaderboardObjectiveBestOTP": "Bester Champion",
+    "leaderboardObjectiveAccountLevelTitle": "Account level Leaderboard"
 }
