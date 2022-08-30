@@ -11,7 +11,7 @@
     "patchNotesCommandHelp": "Senden der Patch-Note der aktuellen Version (Patch-Notes sind auf Englisch).",
     "refreshCommandHelp": "Aktualisiert die Infotafel und Bestenlisten des Servers manuell.",
     "resetCommandHelp": "Setzt die aktuelle Konfiguration des Servers zurück.",
-    "resetWarningMessage": "**WARNUNG**: Dieser Befehl setzt die Konfiguration des Bots für diesen Server zurück! Es werden keine Daten von Discord gelöscht (Zoe's Nachrichten und Textkanäle). Bist du sicher, dass Du das tun willst?\n\nWenn es wirklich das ist, was Du tun willst, antworte: **JA**.",
+    "resetWarningMessage": "**WARNUNG**: Dieser Befehl setzt die Konfiguration des Bots für diesen Server zurück! Es werden keine Daten von Discord gelöscht (Zoe's Nachrichten und Textkanäle). Bist du sicher, dass Du das tun willst?\n\nWenn es wirklich das ist, was Du tun willst, antworte: **YES**.",
     "resetConfirmationMessage": "Okay, los gehts! Zurücksetzen...",
     "resetDoneMessage": "Erledigt, ich wurde korrekt zurückgesetzt.",
     "resetCancelMessage": "In Ordnung, das Zurücksetzen wurde abgebrochen.",
