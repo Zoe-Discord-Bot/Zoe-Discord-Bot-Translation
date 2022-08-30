@@ -198,7 +198,7 @@
     "mainStatsCommandHelpMessage": "Jeśli chcesz uzyskać pomoc na temat poleceń stats, wpisz `>stats help`",
     "teamNameOfPlayerWithoutTeam": "Brak drużyny",
     "informationPanelRefreshedTime": "*Odświeżane co %s minut(-y)*",
-    "informationPanelNotInGame": "Nie ma go w grze",
+    "informationPanelNotInGame": "Nie jest w grze",
     "informationPanelMultipleAccountInGame": "W grze jest kilka kont",
     "informationPanelTitle": "Panel informacyjny",
     "withTheAccount": "z kontem",
