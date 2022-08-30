@@ -380,5 +380,15 @@
     "deleteLeaderboardCommandHelpMessage": "Komenda usuwająca obecną tabelę liderów. Permisja Zarządzania Kanałami jest wymagana.",
     "leaderboardShowableDeletionFormat": "Tablica Liderów \"%s\" (%s)",
     "banAccountCommandGuildItemWithName": "Serwer %s (ID : %d)",
-    "banAccountCommandGuildItemOnlyId": "Serwer ID %d"
+    "banAccountCommandGuildItemOnlyId": "Serwer ID %d",
+    "leaderboardQueueSelectedThenSendChannel": "Ok, wybrałeś kolejkę %s! Teraz proszę wysłać wzmiankę o kanale, w którym chcesz mieć leaderboard (np. ``#leaderboard-kanał``). Jeśli chcesz anulować tworzenie leaderboarda, wyślij ``Stop``.",
+    "leaderboardChampionSelectedThenSendChannel": "Ok, wybrałeś %s ! Teraz proszę wysłać wzmiankę o kanale, w którym chcesz mieć leaderboard (np. ``#leaderboard-channel``). Jeśli chcesz anulować tworzenie leaderboarda, wyślij ``Stop``.",
+    "leaderboardSelectChannelLeaderboard": "Ok, teraz proszę o przesłanie wzmianki o kanale, w którym ma powstać leaderboard (np. `#your-channel``). Jeśli chcesz anulować tworzenie leaderboarda, wyślij ``Stop``.",
+    "leaderboardObjectiveMasterPointGivenSpecifiedChamp": "Całkowita liczba punktów maestrii dla %s",
+    "leaderboardObjectiveTotalMasterPoint": "Całkowita liczba punktów maestrii",
+    "paginationTranslatedPage": "Strona %d/%d",
+    "paginationChampionSelection": "Lista dostępnych czempionów:",
+    "leaderboardSelectQueue": "Do tego typu leaderboarda potrzebuję konkretnej kolejki rankingowej. Proszę wybrać kolejkę z tej listy:",
+    "leaderboardRankTitle": "Ranga",
+    "leaderboardRankSpecificQueueTitle": "Ranga (tylko %s)"
 }
