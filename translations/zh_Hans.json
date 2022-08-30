@@ -1,8 +1,8 @@
 {
-    "startHelpMessage": "以下是我的指令：",
+    "startHelpMessage": "以下是我的指令列表：",
     "command": "指令",
     "commandPlural": "指令",
-    "endHelpMessage": "如需更多帮助，您可以加入我们的官方服务器：",
+    "endHelpMessage": "如果需要更的帮助，你可以加入我们Zoe bot的官方Discord服务器",
     "helpMessageSendConfirmation": "我已在私信中向您发送了所有指令。",
     "missingPermissionOwnerMessage": "您好！我是您服务器中的机器人%s 。\n我需要信息通道中的“%s”权限才能正常工作。如果您需要帮助，可以在此加入帮助服务器：%s。\n每次我重启时都会发送此消息。在这里提前感谢您的理解！",
     "aboutCommandHelp": "提供有关Zoe机器人的信息。",
