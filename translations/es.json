@@ -4,7 +4,7 @@
     "commandPlural": "Comandos",
     "endHelpMessage": "Para más ayuda, puedes unirte a nuestro servidor de soporte:",
     "helpMessageSendConfirmation": "Te he enviado todos los comandos en un mensaje privado.",
-    "missingPermissionOwnerMessage": "¡Hola! Soy un bot de su servidor %s.\nNecesito el permiso \"%s\" en el canal de información para que funcione correctamente. Si necesitas ayuda, puedes unirte al servidor de ayuda aquí: %s.\nEste mensaje se enviará cada vez que reinicie. ¡Gracias de antemano !",
+    "missingPermissionOwnerMessage": "¡Hola! Soy un bot de su servidor %s.\nNecesito el permiso \"%s\" en el canal de información para funcionar correctamente. Si necesitas ayuda, puedes unirte al servidor de ayuda aquí: %s.\nEste mensaje se enviará cada vez que me reinicie. ¡Gracias de antemano!",
     "aboutCommandHelp": "Da la información sobre el bot",
     "aboutMessage": "Hola, soy un bot de League Of Legends escrito en Java por KaluNight#0001. Ofrezco la posibilidad de crear un panel de información que permite saber si tus amigos están en el juego directamente en un canal de Discord, a la vez que da información variada sobre las partidas actuales.\nServidor oficial de Discord : %s\nPara añadirme a tu servidor haz click [aquí](%s)\n\n*Me gustan las mariposas, los unicornios y ver el final de las realidades finitas.*\n\nZoe no está avalada por Riot Games y no refleja los puntos de vista u opiniones de Riot Games o de cualquier persona oficialmente involucrada en la producción o administración de League of Legends.",
     "configCommandHelp": "Abre un mensaje interactivo para configurar el servidor.",
