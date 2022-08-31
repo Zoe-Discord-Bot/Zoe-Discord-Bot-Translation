@@ -140,7 +140,7 @@
     "cleanChannelOptionLongDesc": "Option: **%s**\n\nThis option will create a \"clean channel\" where messages are deleted after been sended (with a delay of 3 secs). This option can be used in combination with the \"Hide infochannel\" option to make a **registration system** for your server (You need to register yourself into the bot to acces to the server). If a user with the permission Manage channel sends a message his message will not be deleted.\n**The text channel will be selected after the option selection**.\n\nHere are my options:",
     "cleanChannelOptionPermissionNeeded": "I need the \"manage messages\" permission to activate this option. Please try again after you have given me this permission.",
     "cleanChannelOptionCanceled": "Ok, the configuration has been canceled.",
-    "cleanChannelOptionChoiceChannel": "Right! Do you want to define it in an existing channel or you want to create a new text channel?\n\nOptions:\n%s : Defne an existing channel\n%s : Create a new channel",
+    "cleanChannelOptionChoiceChannel": "Right! Do you want to define it in an existing channel or you want to create a new text channel?\n\nOptions:\n%s : Define an existing channel\n%s : Create a new channel",
     "cleanChannelOptionAlreadyDisable": "The option is already disabled!",
     "cleanChannelOptionNowDisable": "Okay! The option is now disabled, I will no longer delete messages in the clean channel.",
     "cleanChannelOptionSendTextChannel": "One more step and we are finished! Now please **send a message with the mention of the text channel you want to define**",
