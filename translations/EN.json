@@ -787,7 +787,7 @@
     "championSpellRAbr": "R",
     "infoCardGameTypeFilterOptionName": "Filter Infocard game type",
     "infoCardGameTypeFilterOptionDesc": "Filter Infocards that are sent by League game type",
-    "infoCardGameTypeFilterOptionUpdateMessage": "Option currently in update: %s\n\nThis option allow you to filter which Infocards are sent in the infochannel **by game type**. For example, you can choose to **only show SoloQ games**. You need to select at least one queue. If you want t disable the sending of infocards completely, please use the option for it.\n\n**Select game type you want to display below**",
+    "infoCardGameTypeFilterOptionUpdateMessage": "Option currently in update: %s\n\nThis option allow you to filter which Infocards are sent in the infochannel **by game type**. For example, you can choose to **only show SoloQ games**. You need to select at least one queue. If you want to disable the sending of infocards completely, please use the option for it.\n\n**Select game type you want to display below**",
     "infoCardGameTypeFilterOptionValidateButton": "Validate",
     "infoCardGameTypeFilterOptionCancelButton": "Cancel",
     "infoCardGameTypeFilterOptionCancelMessage": "Ok, no change has been made.",
