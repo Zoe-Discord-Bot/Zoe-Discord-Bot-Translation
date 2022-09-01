@@ -174,7 +174,7 @@
     "roleOptionDoneMessageStillActivate": "Bien, l'option reste désactivé.",
     "selfAddingOptionDesc": "Tous le monde peut s'ajouter/se supprimer soi-même",
     "selfAddingOptionDescLong": "Option en activation: **%s**\n\nCette option va permettre a tous les membres du serveur de s'ajouter et de se supprimer soi-même du système avec les commandes : ``>create player``, ``>delete player``, ``>add account``, ``>remove account`` et va activer la commande ``>register``.\n\n :white_check_mark : : Activer cette option.\n :x : : Annule l'activation.",
-    "selfAddingOptionDescLongDisable": "Option que vous souhaitez désactiver : **%s**\n\nTous les membres du serveur ne seront plus autorisé a s'ajouter et se supprimer eux-mêmes dans le système. La commande ``>register`` sera désactivé.\n**Êtes-vous sûr de désactiver cette option ?**\n\n:white_check_mark: :**Désactive** cette option\n:x: : Annule la désactivation",
+    "selfAddingOptionDescLongDisable": "Option que vous souhaitez désactiver : **%s**\n\nTous les membres du serveur ne seront plus autorisé a s'ajouter et se supprimer eux-mêmes dans le système. La commande ``>register`` sera désactivé.\n**Êtes-vous sûr de désactiver cette option ?**\n\n :white_check_mark : :**Désactive** cette option\n :x : : Annule la désactivation",
     "selfAddingOptionBeenDisable": "Très bien, l'option a été désactivé.",
     "selfAddingOptionStillEnable": "Bien, l'option est toujours activé.",
     "selfAddingOptionBeenActivated": "Bien, l'option a été activé.",
