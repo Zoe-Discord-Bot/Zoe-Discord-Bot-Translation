@@ -908,5 +908,7 @@
     "createClashChannelAskLeagueAccountWithNeededMention": "Perfect, now I need a League Account. Please send an account with this format **(don't forget to ping me so i can see your message)** : \"%s ``(Region) (Summoner Name)``\". You can cancel the command by sending ``Stop``.",
     "createClashChannelLeagueAccountSelectedWithNeededMention": "Perfect! You have correctly selected the account *%s* %s.\nNow, you have to select a time zone. Please, choose one from the list above. You can directly copy and paste one or directly send its number **with my mention (%s) in front of your message**. Example : \"%s (UTC+1:00) Europe/Paris\"",
     "createClashMalformedLeagueAccountWithNeededMention": "The command is malformed. Please respect this pattern: \"%s `(Region) (SummonerName)`\"",
-    "resetWarningMessageWithNeededMention": "**WARNING**: This command resets the entire bot configuration for this server! Discord-related things will not be deleted (Zoe's messages and text channels). Are you sure you want to do this?\n\nIf you really want to do this, respond with **%s YES**. (Don't forget Zoe mention)"
+    "resetWarningMessageWithNeededMention": "**WARNING**: This command resets the entire bot configuration for this server! Discord-related things will not be deleted (Zoe's messages and text channels). Are you sure you want to do this?\n\nIf you really want to do this, respond with **%s YES**. (Don't forget Zoe mention)",
+	"build": "Build",
+	"temporaryPremiumFeature": "Temporary premium feature | Subscribe [here](https://ko-fi.com/kalunight/tiers)"
 }
