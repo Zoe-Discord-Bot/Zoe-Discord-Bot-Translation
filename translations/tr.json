@@ -17,7 +17,7 @@
     "resetCancelMessage": "Peki, sıfırlama iptal edilmiştir.",
     "resetTimeoutMessage": "Bir dakikadan fazladır beklemekteyim. Daha fazla beklemeyeceğim. Eğer sıfırlamak istiyorsan lütfen komudu yeniden yollayın `>reset` .",
     "setupHelpMessage": "Zoe'yi nasıl kuracağım hakkında bilgi ver.",
-    "setupMessage": "Selam, göreceksin ki komutlarım çok da karmaşık değil. Her şeyden önce şunu bilmelisin ki tüm komutlarını şu komutlar yardımı ile görebilirsin `>help`.  veya spesifik bir komut hakkında yardım almak için`>commandName help` yazınız.\n\n1. Başlangıçta  `>create infoChannel KanalAdı`komudu ile bilgilendirme kanalı kur. Hatta varolan bir kanalını da `>define infoChannel #kanalınetiketi`komudu ile belirleyebilirsin.\n\n2. Sonrasında  `>create player @oyuncununetiketi (sunucutagi) (sihirdaradı)`komudu u kullanarak sisteme League of Legends oyuncularını ekle. İkinci hesabını `>add accountToPlayer @oyuncununetiketi (sunucutagi) (sihirdaradı)` komudunu kullanarak ekleyebilirsin.\n\n3.  Sunucunuzu istediğiniz gibi ayarlamak için `>config`  komudunu kullanabilirsiniz.\n\nİşte bu kadar, bilgilendirme panelin tamamlanmış bulunmakta. Eğer soruların, isteklerin ya da farklı görüşleri varsa kendini özgür hisset ve buraya gel : https://discord.gg/whc5PrC\n*Not: Bilgilendirme paneli her 3 dakikada bir yenilenir, bilgilendirme kartları ~20 saniye içinde yollanır.*",
+    "setupMessage": "",
     "addAccountHelpMessage": "Oyuncuyu belirtilen hesaba ekle.",
     "permissionNeededMessage": "Bunu yapmak için \"%s\" yetkisine ihtiyacın var.",
     "mentionNeededMessageWithUser": "Lütfen sunucunun bir üyesini etiketleyin. (örn. `>create player @%s (Bölge) (SihirdarAdı)`)",
