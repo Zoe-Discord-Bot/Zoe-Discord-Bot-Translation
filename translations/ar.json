@@ -17,7 +17,7 @@
     "resetCancelMessage": "حسنًا ، لذلك أنا لا أفعل شيئًا.",
     "resetTimeoutMessage": "لقد كنت أنتظر أكثر من دقيقة. لن أنتظر أكثر. الرجاء إعادة إرسال الأمر `>reset` إذا كنت تريد إعادة ضبط لي.",
     "setupHelpMessage": "يوفر معلومات حول كيفية إعداد Zoe.",
-    "setupMessage": "مرحبًا ، سوف ترى ، أوامري ليست معقدة حقًا. قبل كل شىء ، اعلم أنه يمكنك رؤية جميع أوامري بمساعدة الأمر`>help`. Type `>اسم الامر  help` للحصول على مساعدة بشأن أمر واحد محدد. تأكد أيضًا من حصولك على إذن لإدارة القنوات (Manage Channels permission).\n\n1. للبدء ، قم بإنشاء روم معلومات باستخدام الأمر `>create infoChannel channelName`. يمكنك أيضًا تحديد واحد موجود باستخدام الأمر `>define infoChannel #mentionOfAChannel`.\n2. ثم أضف لاعبي League of Legends إلى النظام باستخدام الأمر `>create player @MentionOfPlayer (ServerTag) (SummonerName)`\n3. يمكنك استخدام الأمر `> config` لتهيئة الخادم الخاص بك بالطريقة التي تريدها.\n\nهذا كل شيء ، تم تنفيذ نظام المعلومات الخاص بك بشكل جيد. إذا كانت لديك أسئلة أو طلبات ميزات أو ترغب فقط في المناقشة ، فلا تتردد في المجيء إلى هنا: https://discord.gg/whc5PrC\n\n* ملاحظة: يتم تحديث لوحة المعلومات كل 5 دقائق ، ويتم إرسال بطاقات المعلومات في حوالي 20 ثانية. *",
+    "setupMessage": "",
     "addAccountHelpMessage": "يضيف الحساب المحدد للاعب المذكور.",
     "permissionNeededMessage": "أنت بحاجة إلى إذن \"s%\" للقيام بذلك.",
     "mentionNeededMessageWithUser": "يرجى ذكر أحد أعضاء الخادم (على سبيل المثال : `>create player @%s (Region) (SummonerName)`)",
