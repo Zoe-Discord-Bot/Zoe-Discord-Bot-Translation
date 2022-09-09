@@ -910,5 +910,6 @@
     "createClashMalformedLeagueAccountWithNeededMention": "Der Befehl ist fehlerhaft formatiert. Bitte beachte dieses Beispiel: \"%s `(Region) (Beschwörername)`\"",
     "resetWarningMessageWithNeededMention": "**WARNUNG**: Dieser Befehl setzt die gesamte Bot-Konfiguration für diesen Server zurück! Discord-bezogene Dinge werden nicht gelöscht (Zoes Nachrichten und Textkanäle). Bist Du sicher, dass Du dies tun willst?\n\nWenn du das wirklich tun willst, antworte mit **%s YES**. (Vergiss nicht, Zoe zu erwähnen)",
     "build": "Build",
-    "temporaryPremiumFeature": "Temporäre Premium-Funktion | Abonniere [hier](https://ko-fi.com/kalunight/tiers)"
+    "temporaryPremiumFeature": "Temporäre Premium-Funktion | Abonniere [hier](https://ko-fi.com/kalunight/tiers)",
+    "statsTeamAnalysisCancelMessageWithNeededMention": "Wenn du den Prozess abbrechen möchtest sende: \"%s Stop\""
 }
