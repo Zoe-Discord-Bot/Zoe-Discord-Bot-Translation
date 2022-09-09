@@ -910,5 +910,6 @@
     "createClashMalformedLeagueAccountWithNeededMention": "The command is malformed. Please respect this pattern: \"%s `(Region) (SummonerName)`\"",
     "resetWarningMessageWithNeededMention": "**WARNING**: This command resets the entire bot configuration for this server! Discord-related things will not be deleted (Zoe's messages and text channels). Are you sure you want to do this?\n\nIf you really want to do this, respond with **%s YES**. (Don't forget Zoe mention)",
     "build": "Build",
-    "temporaryPremiumFeature": "Temporary premium feature | Subscribe [here](https://ko-fi.com/kalunight/tiers)"
+    "temporaryPremiumFeature": "Temporary premium feature | Subscribe [here](https://ko-fi.com/kalunight/tiers)",
+	"statsTeamAnalysisCancelMessageWithNeededMention": "If you want to cancel the process send: \"%s Stop\""
 }
