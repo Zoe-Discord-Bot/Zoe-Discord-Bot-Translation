@@ -58,7 +58,7 @@
     "createTeamNeedName": "Please give me a team name. (E.g.: `/create team Fnatic`)",
     "createTeamNameAlreadyExist": "A team with the given name already exists!",
     "createTeamDoneMessage": "The team \"%s\" has been created!",
-    "registerCommandHelpMessage": "Register the author as a player with the information given. Only enable when the option **Everyone can add/delete them self in the system** is activated.",
+    "registerCommandHelpMessage": "Register the author as a player with the information given. Only enabled when the option **Everyone can add/delete them self in the system** is activated.",
     "registerCommandOptionRequired": "This command can only be used when the option \"%s\" is enabled.",
     "registerCommandAlreadyInZoe": "You are already in the system. If you want to add another lol account, please use the command `/add account`.",
     "registerCommandMalformedWithoutRegionOption": "The command is malformed. Please respect this pattern: `/register (Region) (SummonerName)`",
@@ -911,5 +911,5 @@
     "resetWarningMessageWithNeededMention": "**WARNING**: This command resets the entire bot configuration for this server! Discord-related things will not be deleted (Zoe's messages and text channels). Are you sure you want to do this?\n\nIf you really want to do this, respond with **%s YES**. (Don't forget Zoe mention)",
     "build": "Build",
     "temporaryPremiumFeature": "Temporary premium feature | Subscribe [here](https://ko-fi.com/kalunight/tiers)",
-	"statsTeamAnalysisCancelMessageWithNeededMention": "If you want to cancel the process send: \"%s Stop\""
+    "statsTeamAnalysisCancelMessageWithNeededMention": "If you want to cancel the process send: \"%s Stop\""
 }
