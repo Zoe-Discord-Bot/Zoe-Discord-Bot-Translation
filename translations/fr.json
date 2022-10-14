@@ -197,7 +197,7 @@
     "mainShowCommandHelpMessage": "Si vous avez besoin d'aide pour les commandes \"show\", envoyez `>show help`",
     "mainStatsCommandHelpMessage": "Si vous avez besoin d'aide pour les commandes \"stats\", envoyez `>stats help`",
     "teamNameOfPlayerWithoutTeam": "Aucune Équipe",
-    "informationPanelRefreshedTime": "*Rafraîchi toutes les %s minutes*",
+    "informationPanelRefreshedTime": "*Rafraîchi toutes les %s minutes | %s | Généré %s*",
     "informationPanelNotInGame": "Pas en partie",
     "informationPanelMultipleAccountInGame": "Plusieurs comptes sont en partie",
     "informationPanelTitle": "Panneau d'information",
