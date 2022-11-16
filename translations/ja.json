@@ -4,7 +4,7 @@
     "commandPlural": "コマンド",
     "endHelpMessage": "追加のサポートを希望する場合は、我々の公式サーバーに参加してください：",
     "helpMessageSendConfirmation": "コマンド一覧を表示したダイレクトメッセージを送りました。",
-    "missingPermissionOwnerMessage": "",
+    "missingPermissionOwnerMessage": "こんにちは！私(Zoe bot)はあなたのサーバのbotのゾーイだよ。\n私が正しく機能するにはinfoChannel での\"%s\"権限が必要なの。もし他の助けが必要ならば、ここのサーバーに参加してみてね %s。\nこのメッセージは私が再起動されるたびに表示されるの。よろしくね！",
     "aboutCommandHelp": "Zoe botの情報を表示します",
     "aboutMessage": "こんにちは！私ゾーイ！\n私はLoL discord botでKaluNight#0001 が宇宙と私とこのbotをJavaで作ってくれたんだー。\n\n私はまずはじめにインフォメーションパネルを作ろうと思うんだけど、えーと、これはあなたのお友達が今LoLをしてるかどうかを、いろんな情報とともにディスコードチャンネルに表示するよ。\n\n公式ディスコードサーバーはこちら：\n私をあなたのサーバに追加するには[ここ]をクリックしてね！\n\n*夕暮れと夜明けはおんなじ。だからあたしは二人いる。ホントでしょーか？*\n\nゾーイボットはRiot Games公認じゃないよ。だからRiot Gamesの味方とか政治とか...そういうのは反映しないからね！\n(ZoeはRiot Games によって承認されておらず、Riot Games または League of Legends の制作または管理に公式に関与している人物の見解や意見を反映するものではありません。)",
     "configCommandHelp": "インタラクティブなサーバ設定を開くよ。",
