@@ -1071,7 +1071,7 @@
     "createMatchHistoryChannelNeedNameOrChannel": "I need either a channel name or a text channel to assign. Please resend the command with parameters.",
     "createMatchHistoryChannelNeedOnlyOneParameter": "Please send only one parameter. Either the name of the text channel to create or the text channel to assign.",
     "commandAvailableOnlyInSlashVersion": "This command can only be used with the slash commands!",
-    "deleteMatchHistoryChannelHelpSlashCommandMessage": "Allows you to delete a match history channel from the server. This does not delete the discord channel.",
+    "deleteMatchHistoryChannelHelpSlashCommandMessage": "Delete a match history channel from the server. This does not delete the discord channel.",
     "deleteMatchHistoryChannelNoChannelInTheServer": "There's no channel to delete in this server.",
     "deleteMatchHistoryChannelOptionSelectionTimeout": "Well, we stop the deletion process here.",
     "deleteMatchHistoryChannelOptionSelectionChannelToRemoveText": "Alright, here is the list of match history channels:\n\n**This will not delete the discord channel!  Only the sending of match messages is disabled.**",
