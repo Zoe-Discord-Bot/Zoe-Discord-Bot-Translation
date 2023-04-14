@@ -1137,5 +1137,7 @@
     "ranksCategoryName": "Automated rank-role features",
     "rankTrendServerTrendServerPremiumFeatureMessage": "The full list of rank changes is a premium featurethat requires this server to be boosted.\n\n**Subscribe [here](https://ko-fi.com/kalunight/tiers) to support the bot and get access to this feature now!**",
     "rankTrendShowAllRankMessageTitle": "*⭐ Premium Feature ⭐* All rank changes of this server:",
-    "statsRankChangeHelpMessageSlashCommand": "Shows the stats about recent rank changes on the server."
+    "statsRankChangeHelpMessageSlashCommand": "Shows the stats about recent rank changes on the server.",
+	"rankTrendFamousBestPlayerComparedToFamousTitle": "Best Player compared to famous players",
+	"rankTrendFamousWorstPlayerComparedToFamousTitle": "Worst Player compared to famous players"
 }
