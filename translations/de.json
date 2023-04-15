@@ -771,7 +771,7 @@
     "verificationProcessIconWhileAddingAccountTitleFieldDone": "Sobald das erledigt ist",
     "verificationProcessIconWhileAddingAccountTitle": "Dieser Discord-Server erfordert eine Verifizierung beim Hinzufügen eines neuen Kontos",
     "verificationProcessIconWhileAddingAccountTitleField": "Um zu überprüfen, ob du der Inhaber des Kontos *%s* \"%s\" bist, führe bitte folgende Schritte aus.",
-    "verificationProcessIconWhileAddingAccountFieldText": "1. Melden Sie sich mit dem Konto im League-Client an.\n2. Klicken Sie auf Ihr Beschwörerprofil-Symbol.\n3. Wählen Sie das untenstehende Symbol (sollte sich am Ende der Liste befinden).\n4. Verlasse die Auswahl. Dadurch wird deine Auswahl gespeichert.",
+    "verificationProcessIconWhileAddingAccountFieldText": "1. Melde dich mit dem Konto im League-Client an.\n2. Klicke auf dein Beschwörerprofil-Symbol.\n3. Wähle das untenstehende Symbol (sollte sich am Ende der Icon-Liste befinden).\n4. Schließe die Auswahl. Dadurch wird deine Auswahl gespeichert.",
     "verificationProcessIconWhileAddingAccountFieldDoneText": "Antworte mit **DONE**. Wenn du diese Aktion abbrechen möchtest, sende einfach eine beliebige Nachricht.",
     "verificationProcessAccountNotValidProfile": "Die Überprüfung ist fehlgeschlagen! Bitte versuche es erneut.\n\nWenn du dein Symbol geändert hast, sende **DONE**. Um den Vorgang abzubrechen, sende etwas anderes.",
     "gameNotAvailable": "Spiel nicht verfügbar",
@@ -1137,5 +1137,7 @@
     "rankTrendCompareMeToProNoAccountWithLPChange": "Ich habe bei all deinen Accounts für diesen Zeitraum keine Rangveränderungen festgestellt.",
     "statsRankChangeHelpMessageSlashCommand": "Zeigt die Statistiken über die letzten Rangveränderungen auf dem Server an.",
     "helpCommandAnswerMessage": "Die vollständige Liste der Befehle findest du hier (Englisch): https://wiki.zoe-discord-bot.ch/en/commands\n",
-    "rankTrendServerTrendServerPremiumFeatureMessage": "Die vollständige Liste der Rangänderungen ist ein Premium-Feature, für das dieser Server geboostet werden muss.\n\n**Abonniere [hier] (https://ko-fi.com/kalunight/tiers), um den Bot zu unterstützen und Zugang zu dieser Funktion zu erhalten!**"
+    "rankTrendServerTrendServerPremiumFeatureMessage": "Die vollständige Liste der Rangänderungen ist ein Premium-Feature, für das dieser Server geboostet werden muss.\n\n**Abonniere [hier] (https://ko-fi.com/kalunight/tiers), um den Bot zu unterstützen und Zugang zu dieser Funktion zu erhalten!**",
+    "rankTrendFamousWorstPlayerComparedToFamousTitle": "Schlechtester Spieler im Vergleich zu berühmten Spielern",
+    "rankTrendFamousBestPlayerComparedToFamousTitle": "Bester Spieler im Vergleich zu berühmten Spielern"
 }
