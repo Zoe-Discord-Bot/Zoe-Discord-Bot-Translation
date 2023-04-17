@@ -580,7 +580,7 @@
     "rankRoleOptionUpdateTheOptionButton": "Update",
     "rankRoleOptionCancelUpdate": "Okay, we stop the process here.",
     "rankRoleOptionUpdateDescription": "Option you want to update: **%s**\n\nHere you can update the settings of the option. You can also deactivate the option here. This deletes all roles.\n\n:one: Use SoloQ rank: %s\n:two: Use Flex rank: %s\n:three: Use TFT rank: %s",
-    "rankRoleOptionDisableUpdateWait": "Okay, give me two seconds to delete theses roles...",
+    "rankRoleOptionDisableUpdateWait": "Okay, give me two seconds to delete these roles...",
     "rankRoleOptionPermissionMissingError": "I can't do that since I don't have the permission \"%s\".",
     "rankRoleOptionMaxRoleGuild": "There are too many roles on this server. Please remove some roles (I need 9 empty space) if you want to use this option.",
     "rankRoleOptionOptionCreated": "Thanks you for your time! The option has been correctly enabled! Ranks will be assigned with the next refresh.",
@@ -1135,10 +1135,10 @@
     "helpCommandAnswerMessage": "You can find the complete list of commands here: https://wiki.zoe-discord-bot.ch/en/commands\n",
     "ranksCategoryDescription": "Specific settings for rank-roles",
     "ranksCategoryName": "Automated rank-role features",
-    "rankTrendServerTrendServerPremiumFeatureMessage": "The full list of rank changes is a premium featurethat requires this server to be boosted.\n\n**Subscribe [here](https://ko-fi.com/kalunight/tiers) to support the bot and get access to this feature now!**",
-    "rankTrendShowAllRankMessageTitle": "*⭐ Premium Feature ⭐* All rank changes of this server:",
-    "statsRankChangeHelpMessageSlashCommand": "Shows the stats about recent rank changes on the server.",
-    "rankTrendFamousBestPlayerComparedToFamousTitle": "Best Player compared to famous players",
-    "rankTrendFamousWorstPlayerComparedToFamousTitle": "Worst Player compared to famous players",
-    "statsRankChangeFeatureEarlyAccessServerNotPremium": "The stats rank change command is a temporary premium feature, the server need to be boosted to access it.\n\n**Subscribe [here](https://ko-fi.com/kalunight/tiers) to support the bot, boost this server and get access to this feature now!**"
+    "rankTrendServerTrendServerPremiumFeatureMessage": "The full list of rank updates is a premium feature that requires this server to be boosted.\n\n**Subscribe [here](https://ko-fi.com/kalunight/tiers) to support the bot and get access to this feature now!**",
+    "rankTrendShowAllRankMessageTitle": "*⭐ Premium Feature ⭐* All rank updates of this server:",
+    "statsRankChangeHelpMessageSlashCommand": "Shows the stats about recent rank updates on the server.",
+    "rankTrendFamousBestPlayerComparedToFamousTitle": "Best player compared to famous players",
+    "rankTrendFamousWorstPlayerComparedToFamousTitle": "Worst player compared to famous players",
+    "statsRankChangeFeatureEarlyAccessServerNotPremium": "The stats rankupdate command is a temporary premium feature, the server need to be boosted to access it.\n\n**Subscribe [here](https://ko-fi.com/kalunight/tiers) to support the bot, boost this server and get access to this feature now!**"
 }
