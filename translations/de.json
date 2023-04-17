@@ -1108,7 +1108,7 @@
     "rankTrendFamousPlayerComparedToFamousTitle": "Im Vergleich zu bekannten Spielern",
     "rankTrendFamousPlayerComparedToFamousNoComparaison": "Leider gibt es nichts zu sagen",
     "rankTrendFamousPlayerComparedToFamousNoProPlayerAvailable": "Leider haben wir keine Profi-Daten gefunden, mit denen wir vergleichen könnten",
-    "rankTrendBetweenStartEndPeriod": "Ränge ändern sich zwischen &s und %s",
+    "rankTrendBetweenStartEndPeriod": "Rangänderungen zwischen %s und %s",
     "rankTrendFamousPlayerGoodComparaison2": "Heute ist ein großer Tag für %s! Er/Sie hat es geschafft, besser zu sein als %s!",
     "rankTrendNoLoss": "*Alle waren siegreich: Kein Rangabstieg in Sicht! Gut gemacht!*",
     "rankTrendFamousPlayerGoodComparaison5": "Herzlichen Glückwunsch an %s für eine herausragende Leistung, mit der er/sie %s geschlagen hat!",
@@ -1140,5 +1140,5 @@
     "rankTrendServerTrendServerPremiumFeatureMessage": "Die vollständige Liste der Rangänderungen ist ein Premium-Feature, für das dieser Server geboostet werden muss.\n\n**Abonniere [hier](https://ko-fi.com/kalunight/tiers), um den Bot zu unterstützen und Zugang zu dieser Funktion zu erhalten!**",
     "rankTrendFamousWorstPlayerComparedToFamousTitle": "Schlechtester Spieler im Vergleich zu berühmten Spielern",
     "rankTrendFamousBestPlayerComparedToFamousTitle": "Bester Spieler im Vergleich zu berühmten Spielern",
-    "statsRankChangeFeatureEarlyAccessServerNotPremium": "Der Befehl zum Ändern des Statistik-Rangs ist ein temporäres Premium-Feature, der Server muss geboostet werden, um darauf zugreifen zu können. [Hier ein Beispiel der Funktion.](https://zoe-discord-bot.ch/img/DailyRankUpdateExample.png)\n\n**Abonniere [hier](https://ko-fi.com/kalunight/tiers), um den Bot zu unterstützen, diesen Server zu boosten und Zugang zu dieser Funktion zu erhalten!**"
+    "statsRankChangeFeatureEarlyAccessServerNotPremium": "Der ``/stats rankupdate`` Befehl ist ein temporäres Premium-Feature, der Server muss geboostet werden, um darauf zugreifen zu können. [Hier ein Beispiel der Funktion.](https://zoe-discord-bot.ch/img/DailyRankUpdateExample.png)\n\n**Abonniere [hier](https://ko-fi.com/kalunight/tiers), um den Bot zu unterstützen, diesen Server zu boosten und Zugang zu dieser Funktion zu erhalten!**"
 }
