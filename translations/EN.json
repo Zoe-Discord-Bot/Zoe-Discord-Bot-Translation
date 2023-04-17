@@ -1139,5 +1139,7 @@
     "rankTrendShowAllRankMessageTitle": "*⭐ Premium Feature ⭐* All rank changes of this server:",
     "statsRankChangeHelpMessageSlashCommand": "Shows the stats about recent rank changes on the server.",
     "rankTrendFamousBestPlayerComparedToFamousTitle": "Best Player compared to famous players",
-    "rankTrendFamousWorstPlayerComparedToFamousTitle": "Worst Player compared to famous players"
+    "rankTrendFamousWorstPlayerComparedToFamousTitle": "Worst Player compared to famous players",
+	"statsRankChangeFeatureEarlyAccessServerNotPremium": "The rank update commande is a temporary premium feature, the server need to be boosted to access it.\n\n**Subscribe [here](https://ko-fi.com/kalunight/tiers) to support the bot, boost this server and get access to this feature now!**"
+
 }
