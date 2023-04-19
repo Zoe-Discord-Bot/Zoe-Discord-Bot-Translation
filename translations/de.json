@@ -60,7 +60,7 @@
     "createTeamDoneMessage": "Das Team \"%s\" wurde erstellt!",
     "registerCommandHelpMessage": "Registriere den Verfasser als Spieler mit den angegebenen Informationen. Nur aktiviert, wenn die Option **Jeder kann sich selbst im System hinzufügen/löschen** aktiviert ist.",
     "registerCommandOptionRequired": "Dieser Befehl kann nur verwendet werden, wenn die Option \"%s\" aktiviert ist.",
-    "registerCommandAlreadyInZoe": "Du bist bereits im System. Wenn du ein weiteres LOL-Konto hinzufügen möchtest, verwende bitte den Befehl `/add account`.",
+    "registerCommandAlreadyInZoe": "Du bist bereits auf diesem Server registriert. Wenn du ein weiteres League of Legends-Konto hinzufügen möchtest, verwende bitte den Befehl `/add account`.",
     "registerCommandMalformedWithoutRegionOption": "Der Befehl ist fehlerhaft. Bitte beachte diese Vorlage: `/register (Region) (BeschwörerName)`",
     "registerCommandMalformedWithRegionOption": "Der Befehl ist fehlerhaft. Bitte beachte diese Vorlage: `/register (Region) (BeschwörerName)`\nWenn die Region nicht festgelegt ist, wird die Standardregion verwendet (%s).",
     "registerCommandDoneMessage": "Du wurdest mit dem Account \"%s\" hinzugefügt.",
