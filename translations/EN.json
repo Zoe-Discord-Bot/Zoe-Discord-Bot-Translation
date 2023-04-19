@@ -60,7 +60,7 @@
     "createTeamDoneMessage": "The team \"%s\" has been created!",
     "registerCommandHelpMessage": "Register the author as a player with the information given. Only enabled when the option **Everyone can add/delete them self in the system** is activated.",
     "registerCommandOptionRequired": "This command can only be used when the option \"%s\" is enabled.",
-    "registerCommandAlreadyInZoe": "You are already in the system. If you want to add another lol account, please use the command `/add account`.",
+    "registerCommandAlreadyInZoe": "You are already registered on this server. If you want to add another League of Legends account, please use the command `/add account`.",
     "registerCommandMalformedWithoutRegionOption": "The command is malformed. Please respect this pattern: `/register (Region) (SummonerName)`",
     "registerCommandMalformedWithRegionOption": "The command is malformed. Please respect this pattern: `/register (Region) (SummonerName)`\nIf the region is not set, the default region will be used (%s).",
     "registerCommandDoneMessage": "You have been added with the account \"%s\".",
