@@ -589,7 +589,7 @@
     "rankRoleOptionDisableUpdate": "The option has been correctly disabled!",
     "rankRoleOptionDisableUpdateFailedToDelete": "The option has been correctly disabled! But I got an issue when deleting rank roles so please do it yourself.",
     "forceVerificationOptionDescription": "Force the verification of the League account owner",
-    "forceVerificationOptionLongDesc": "Option in activation: **%s**\n\nIf you activate this option, all users have to prove that their league account belongs to them. This is done with the official LoL verification system, you can test the procedure with the command ``/banaccont``.\nUsers with permission to manage channels will bypass this requirement.\n\n**It is strongly recommended to use this option with the \"%s \"** option.",
+    "forceVerificationOptionLongDesc": "Option in activation: **%s**\n\nIf you activate this option, all users have to prove that their league account belongs to them. This is done with the official LoL verification system, you can test the procedure with the command ``/banaccount``.\nUsers with permission to manage channels will bypass this requirement.\n\n**It is strongly recommended to use this option with the \"%s \"** option.",
     "continueButton": "Continue",
     "forceVerificationInitSetupMessage": "Okay! Now please select an initialisation method.",
     "forceVerificationContinueWithoutDelete": "Create without deleting players",
