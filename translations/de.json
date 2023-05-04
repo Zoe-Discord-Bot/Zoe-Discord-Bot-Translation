@@ -67,7 +67,7 @@
     "defineInfoChannelHelpMessage": "Definiere einen neuen Infokanal, in den Ich Informationen über Spieler senden kann. Kanalverwaltungs Berechtigung erforderlich.",
     "defineInfoChannelAlreadySet": "Der Kanal %s ist bereits festgelegt. Bitte deaktiviere oder lösche ihn zuerst, wenn du einen neuen festlegen möchtest.",
     "defineInfoChannelMentionOfAChannelNeeded": "Du musst einen Kanal so erwähnen: `/define infoChannel #Kanal`",
-    "defineInfoChannelMentionOfAChannel": "Bitte erwähne einen Kanal auf diesem Server! (I see you with your little magic trick :eyes:)",
+    "defineInfoChannelMentionOfAChannel": "Bitte erwähne einen Kanal auf diesem Server! (Ich sehe dich mit diesem kleinen Zaubertrick :eyes:)",
     "defineInfoChannelMissingSpeakPermission": "Ich kann in diesem Kanal keine Nachrichten senden! Bitte gib mir die Berechtigung zum Senden von Nachrichten in diesem Kanal, wenn du das tun möchtest.",
     "defineInfoChannelImpossibleToDefineCleanChannel": "Ich kann den Infokanal innerhalb des sauberen Kanals nicht definieren (-> siehe Konfigurationsoption \"Clean Channel\").",
     "defineInfoChannelDoneMessage": "Der Kanal wurde definiert! Er sollte schon bald aktualisiert werden.",
