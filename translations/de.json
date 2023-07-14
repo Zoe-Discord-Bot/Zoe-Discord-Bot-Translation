@@ -1117,7 +1117,7 @@
     "rankTrendFamousPlayerBadComparaison4": "Hey, zumindest hat %s nicht so schlecht abgeschnitten wie der/die legendäre %s, oder? Es gibt immer einen Silberstreif am Horizont!",
     "rankTrendFamousPlayerBadComparaison10": "Wenn %s nur einen Mentor finden könnte, der ihn/sie anleitet... Oh, Moment mal, %s scheint verfügbar zu sein... egal",
     "rankTrendShowAllRankChangeButton": "⭐ Premium Feature ⭐ Alle Rangänderungen anzeigen",
-    "rankTrendFamousPlayerGoodComparaison6": " Was für ein Tag für %s! Er/Sie hat es geschafft, bessere Ergebnisse zu erzielen als %s!",
+    "rankTrendFamousPlayerGoodComparaison6": "Was für ein Tag für %s! Er/Sie hat es geschafft, bessere Ergebnisse zu erzielen als %s!",
     "rankTrendFamousPlayerBadComparaison6": "Auf der positiven Seite wird die nicht so gute Leistung von %s durch den überraschenden Ausrutscher des/der berühmten %s in den Schatten gestellt. Wer hätte das gedacht?",
     "rankTrendFamousPlayerGoodComparaison9": "Herzlichen Glückwunsch an %s zu seiner/ihrer hervorragenden Leistung, mit der er/sie %s hinter sich gelassen hat!",
     "rankTrendCompareMeToProButton": "Vergleiche mich mit einem Profispieler",
@@ -1140,5 +1140,6 @@
     "rankTrendServerTrendServerPremiumFeatureMessage": "Die vollständige Liste der Rangänderungen ist ein Premium-Feature, für das dieser Server geboostet werden muss.\n\n**Abonniere [hier](https://ko-fi.com/kalunight/tiers), um den Bot zu unterstützen und Zugang zu dieser Funktion zu erhalten!**",
     "rankTrendFamousWorstPlayerComparedToFamousTitle": "Schlechtester Spieler im Vergleich zu berühmten Spielern",
     "rankTrendFamousBestPlayerComparedToFamousTitle": "Bester Spieler im Vergleich zu berühmten Spielern",
-    "statsRankChangeFeatureEarlyAccessServerNotPremium": "Der ``/stats rankupdate`` Befehl ist ein temporäres Premium-Feature, der Server muss geboostet werden, um darauf zugreifen zu können. [Hier ein Beispiel der Funktion.](https://zoe-discord-bot.ch/img/DailyRankUpdateExample.png)\n\n**Abonniere [hier](https://ko-fi.com/kalunight/tiers), um den Bot zu unterstützen, diesen Server zu boosten und Zugang zu dieser Funktion zu erhalten!**"
+    "statsRankChangeFeatureEarlyAccessServerNotPremium": "Der ``/stats rankupdate`` Befehl ist ein temporäres Premium-Feature, der Server muss geboostet werden, um darauf zugreifen zu können. [Hier ein Beispiel der Funktion.](https://zoe-discord-bot.ch/img/DailyRankUpdateExample.png)\n\n**Abonniere [hier](https://ko-fi.com/kalunight/tiers), um den Bot zu unterstützen, diesen Server zu boosten und Zugang zu dieser Funktion zu erhalten!**",
+    "emerald": "Smaragd"
 }
