@@ -1101,7 +1101,7 @@
     "rankTrendFamousPlayerGoodComparaison3": "%s deserves a round of applause for managing to outperform %s!",
     "rankTrendFamousPlayerGoodComparaison4": "%s truly shined, exhibiting a superior performance over %s!",
     "rankTrendFamousPlayerGoodComparaison5": "Congratulations to %s for their outstanding performance in beating %s!",
-    "rankTrendFamousPlayerGoodComparaison6": " What a day for %s! They managed to achieve better results than %s!",
+    "rankTrendFamousPlayerGoodComparaison6": "What a day for %s! They managed to achieve better results than %s!",
     "rankTrendFamousPlayerGoodComparaison7": "Hats off to the exceptional performance of %s, even better than %s!",
     "rankTrendFamousPlayerGoodComparaison8": "It's a remarkable day for %s, who managed to surpass %s performance!",
     "rankTrendFamousPlayerGoodComparaison9": "Congratulations to %s on their stellar performance leaving %s behind!",
@@ -1140,5 +1140,6 @@
     "statsRankChangeHelpMessageSlashCommand": "Shows the stats about recent rank updates on the server.",
     "rankTrendFamousBestPlayerComparedToFamousTitle": "Best player compared to famous players",
     "rankTrendFamousWorstPlayerComparedToFamousTitle": "Worst player compared to famous players",
-    "statsRankChangeFeatureEarlyAccessServerNotPremium": "The ``/stats rankupdate`` command is a temporary premium feature, the server need to be boosted to access it. [Here is a small example of this feature.](https://zoe-discord-bot.ch/img/DailyRankUpdateExample.png)\n\n**Subscribe [here](https://ko-fi.com/kalunight/tiers) to support the bot, boost this server and get access to this feature now!**"
+    "statsRankChangeFeatureEarlyAccessServerNotPremium": "The ``/stats rankupdate`` command is a temporary premium feature, the server need to be boosted to access it. [Here is a small example of this feature.](https://zoe-discord-bot.ch/img/DailyRankUpdateExample.png)\n\n**Subscribe [here](https://ko-fi.com/kalunight/tiers) to support the bot, boost this server and get access to this feature now!**",
+	"emerald": "Emerald"
 }
