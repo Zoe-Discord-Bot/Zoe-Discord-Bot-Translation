@@ -1141,5 +1141,6 @@
     "rankTrendFamousWorstPlayerComparedToFamousTitle": "Schlechtester Spieler im Vergleich zu berühmten Spielern",
     "rankTrendFamousBestPlayerComparedToFamousTitle": "Bester Spieler im Vergleich zu berühmten Spielern",
     "statsRankChangeFeatureEarlyAccessServerNotPremium": "Der ``/stats rankupdate`` Befehl ist ein temporäres Premium-Feature, der Server muss geboostet werden, um darauf zugreifen zu können. [Hier ein Beispiel der Funktion.](https://zoe-discord-bot.ch/img/DailyRankUpdateExample.png)\n\n**Abonniere [hier](https://ko-fi.com/kalunight/tiers), um den Bot zu unterstützen, diesen Server zu boosten und Zugang zu dieser Funktion zu erhalten!**",
-    "emerald": "Smaragd"
+    "emerald": "Smaragd",
+    "gameType2v2v2v2Arena": "Arena"
 }
