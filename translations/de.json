@@ -1142,5 +1142,17 @@
     "rankTrendFamousBestPlayerComparedToFamousTitle": "Bester Spieler im Vergleich zu berühmten Spielern",
     "statsRankChangeFeatureEarlyAccessServerNotPremium": "Der ``/stats rankupdate`` Befehl ist ein temporäres Premium-Feature, der Server muss geboostet werden, um darauf zugreifen zu können. [Hier ein Beispiel der Funktion.](https://zoe-discord-bot.ch/img/DailyRankUpdateExample.png)\n\n**Abonniere [hier](https://ko-fi.com/kalunight/tiers), um den Bot zu unterstützen, diesen Server zu boosten und Zugang zu dieser Funktion zu erhalten!**",
     "emerald": "Smaragd",
-    "gameType2v2v2v2Arena": "Arena"
+    "gameType2v2v2v2Arena": "Arena",
+    "automatedRankUpdateOptionName": "Verwaltung von Rangaktualisierungsnachrichten",
+    "automatedRankUpdateOptionUpdateMessage": "Die Option wird derzeit geändert wird: **%s**\n\nMit dieser Option kannst du auswählen, welche Rangaktualisierungsnachrichten automatisch innerhalb des Rangkanals gesendet werden sollen. Du kannst sie auch komplett deaktivieren, wenn du dies bevorzugst. Unabhängig von deiner Wahl, wird es immer möglich sein, den Befehl ``/stats rankupdate`` zu benutzen.\n\n**Du kannst die Option über das untenstehende Menü aktualisieren.**",
+    "automatedRankUpdateOptionDisableEnum": "Automatisches Senden deaktivieren",
+    "automatedRankUpdateOptionTimeout": "Der Änderungsprozess für die Option wurde abgebrochen.",
+    "automatedRankUpdateOptionUpdatedCorrectly": "Automatische Rangaktualisierungsnachrichten werden jetzt entsprechend deiner Auswahl gesendet!\n\n**Zu versendende Rangaktualisierungsnachrichten: %s**",
+    "automatedRankUpdateOptionDisabledCorrectly": "In Ordnung, Rangaktualisierungsnachrichten werden nicht mehr innerhalb des Rangkanals gesendet.",
+    "automatedRankUpdateOptionStatusEnable": "Aktivieren (%s)",
+    "daily": "Täglich",
+    "weekly": "Wöchentlich",
+    "monthly": "Monatlich",
+    "rankTrendFooterIfAutomated": "Diese Nachrichten können mit dem Befehl /config > Rangkanal > Option 2 deaktiviert werden",
+    "automatedRankUpdateOptionDescription": "Verwalten des automatischen Versands von Rangaktualisierungsmeldungen"
 }
