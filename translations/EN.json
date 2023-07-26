@@ -1154,5 +1154,6 @@
     "daily": "Daily",
     "weekly": "Weekly",
     "monthly": "Monthly",
-    "rankTrendFooterIfAutomated": "These messages can be disabled with the command /config > Rank Channel > Option 2"
+    "rankTrendFooterIfAutomated": "These messages can be disabled with the command /config > Rank Channel > Option 2",
+	"playerNotInServerAnymore": "Leaved the server"
 }
