@@ -857,7 +857,7 @@
     "boostCommandUnboostMessageServer": "Hello %s !\n\nThe person that boosted your server **%s**, %s, has just stopped boosting your server. All premium features will stop working because of this **but the configuration will NOT be deleted**. Boost the server to get the premium features working again.\n**If premium features are important to your server, you can subscribe to Zoe here and boost your server yourself: <https://ko-fi.com/kalunight/tiers>**.\n\n*If you have a problem, feel free to contact us on our support server: <https://discord.gg/yMCA5rrgYq>*.",
     "boostCommandZoeUsageOverload": "You are overloaded! You don't have enough points to boost all those servers!",
     "subCommandServerBoosted": "Access to premium features | Use the command ``/boost`` for more info.",
-    "subCommandServerNotBoosted": "Don't have access to premium features | Use the command ``/boost`` for more info",
+    "subCommandServerNotBoosted": "No access to premium features | Use the command ``/boost`` for more info",
     "leaderboardPremiumOptionNotBoosted": "A leaderboard with more than 10 players and server filters are premium features | Unlock it here: <https://ko-fi.com/kalunight/tiers>",
     "leaderboardPremiumOptionBoosted": "Your server is premium, you have access to larger size and server filters | Thank you for your support!",
     "infoCardsChampionStatsBoostNeededMessage": ":star: As we still have to do some tests, this feature is only for premium servers and premium users :star:\n\n**This feature will be available for everyone %s**",
@@ -1155,5 +1155,5 @@
     "weekly": "Weekly",
     "monthly": "Monthly",
     "rankTrendFooterIfAutomated": "These messages can be disabled with the command /config > Rank Channel > Option 2",
-	"playerNotInServerAnymore": "Leaved the server"
+    "playerNotInServerAnymore": "Left the server"
 }
