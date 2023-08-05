@@ -754,7 +754,7 @@
     "improvedRankRoleOptionCancelCreate": "Okay, wir stoppen die Erstellung der Option hier.",
     "leavePlayerDeletionOptionCancelEnable": "In Ordnung, wir werden diese Option jetzt nicht mehr aktualisieren.",
     "leavePlayerDeletionOptionEnableUpdate": "Die Option wurde korrekt aktiviert. Die Löschung der Spieler wird in den nächsten 24 Stunden erfolgen",
-    "leavePlayerDeletionOptionEnableOptionButton": "Aktivieren der Option und löschen aller Spieler, die nicht mehr auf dem Server sind",
+    "leavePlayerDeletionOptionEnableOptionButton": "Aktivieren der Option und Löschen aller Spieler, die den Server verlassen haben",
     "leavePlayerDeletionOptionLongDescEnable": "**Option, die du aktivieren möchtest: %s**\n\nDies aktiviert die automatische Löschung des League-Kontos, wenn ein Mitglied den Server verlässt.\n**Alle Spieler, die derzeit nicht auf dem Server, aber noch gespeichert sind, werden gelöscht!**\n\n**Möchtest du das automatische Löschsystem aktivieren?**",
     "leavePlayerDeletionOptionCancelDisable": "Okay, wir halten den Prozess hier an.",
     "leavePlayerDeletionOptionTimeout": "Da du nicht innerhalb von 2 Minuten geantwortet hast, werden wir den Vorgang an dieser Stelle abbrechen.",
@@ -1154,5 +1154,6 @@
     "weekly": "Wöchentlich",
     "monthly": "Monatlich",
     "rankTrendFooterIfAutomated": "Diese Nachrichten können mit dem Befehl /config > Rangkanal > Option 2 deaktiviert werden",
-    "automatedRankUpdateOptionDescription": "Verwalten des automatischen Versands von Rangaktualisierungsmeldungen"
+    "automatedRankUpdateOptionDescription": "Verwalten des automatischen Versands von Rangaktualisierungsmeldungen",
+    "playerNotInServerAnymore": "Server verlassen"
 }
