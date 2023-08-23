@@ -282,7 +282,7 @@
     "defineRankChannelHelpMessage": "Definisce il canale di rango. È necessario il permesso di gestire il canale.",
     "rankedAvg": "Media classificata",
     "infopanelRankedOptionDesc": "Mostra le statistiche classificate dei giocatori in InfoPanel",
-    "nativeActualLanguage": "Italiano",
+    "nativeActualLanguage": ":flag_it: Italiano",
     "addingSystemEndMessage": "La configurazione di base è ora completa. Spero che apprezzerete i miei servizi :D",
     "createRankChannelHelpMessage": "Creare un Canale Rank in cui invierò aggiornamenti sui ranghi dei giocatori registrati. È necessario il permesso di gestire il canale.",
     "rankChannelAlreadyExist": "Il canale di rango esiste già!",
