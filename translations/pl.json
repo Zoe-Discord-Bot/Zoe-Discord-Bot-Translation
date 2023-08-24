@@ -371,7 +371,7 @@
     "addingSystemLanguageSelected": "Dobrze, będę teraz mówiła w języku %s. (Zawsze możesz zmienić mój język za pomocą komendy `>l`). Teraz wybierzmy domyślny region dla serwera :",
     "languageCommandHelp": "Komenda do wyboru języka Zoe",
     "languageCommandInSelectionMenu": "Wybrany język : **%s**",
-    "nativeActualLanguage": "Polski",
+    "nativeActualLanguage": ":flag_pl: Polski",
     "statsProfileQueueTFT": "TFT : **%s**",
     "leaderboardObjectiveDataNameKDA": "Średnie KDA",
     "leaderboardObjectiveDataNameKDAWithSpecificChampion": "Średnie KDA na postaci %s",
