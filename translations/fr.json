@@ -255,7 +255,7 @@
     "infoCardsGameInfoAndOf": "et de",
     "account": "Compte",
     "firstGame": "Première partie",
-    "nativeActualLanguage": ":flag_fr: Français",
+    "nativeActualLanguage": "Français",
     "languageCommandHelp": "Commande pour sélectionner le langage de Zoe",
     "languageCommandInSelectionMenu": "Langue sélectionnée : **%s**",
     "addingSystemRegionSelected": "Parfait, vous avez définit la région \"%s\". Voici maintenant quelques conseils sur mon utilisation :",
