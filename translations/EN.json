@@ -268,7 +268,7 @@
     "infoCardsGameInfoAndOf": "and of",
     "account": "Account",
     "firstGame": "First game",
-    "nativeActualLanguage": "#MESSAGE FOR TRANSLATOR: Do not translate this, but enter the flag and name of your language in your language# :flag_gb: English",
+    "nativeActualLanguage": "#MESSAGE FOR TRANSLATOR: Do not translate this, but enter the name of your language in your language#English",
     "languageCommandInSelectionMenu": "Selected language: **%s**",
     "languageCommandHelp": "Command to select the language of Zoe",
     "addingSystemLanguageSelected": "Right, I will now in speak %s. (You can always change my language with the command </language:864483000505991208>). Now let's select a default region for the server:",
