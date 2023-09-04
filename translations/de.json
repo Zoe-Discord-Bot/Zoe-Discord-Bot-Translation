@@ -881,7 +881,7 @@
     "championStatsInfocardNotAvailable": "Die Champion-Statistiken sind derzeit nicht verfügbar. Bitte versuche es %s erneut.",
     "infocardButtonGetChampionTips": "Champion-Tipps erhalten",
     "infocardChampionStatsErrorWhileGettingData": "Unmöglich, Daten für diesen Champion zu erhalten!",
-    "infocardChampionStatsInfoTitle": "Champion Info für %s *(%d behandelte Spiele)*",
+    "infocardChampionStatsInfoTitle": "Champion Info für %s *(%d berücksichtigte Spiele)*",
     "infocardChampionStatsInfoKDA": "KDA",
     "infocardChampionStatsInfoPickrate": "Pick",
     "infocardChampionStatsInfoGameSelected": "Spiele",
