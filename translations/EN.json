@@ -883,7 +883,7 @@
     "infocardButtonSelectChampion": "Hello %s, please select a champion you would like to receive stats from:",
     "infocardChampionStatsErrorWhileGettingData": "Impossible to get data for this champion!",
     "infocardChampionStatsNoDataAvailable": "There is no data available for this champion!",
-    "infocardChampionStatsInfoTitle": "Champion Info for %s *(%d games treated)*",
+    "infocardChampionStatsInfoTitle": "Champion Info for %s *(%d games considered)*",
     "infocardChampionStatsInfoKDA": "KDA",
     "infocardChampionStatsInfoMostSelectedSpellStart": "Most common spell start",
     "infocardChampionStatsInfoBiggestWinrateSpellStart": "Highest winrate spell start",
