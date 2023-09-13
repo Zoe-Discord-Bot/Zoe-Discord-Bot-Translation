@@ -22,7 +22,7 @@
     "permissionNeededMessage": "Dafür benötigst du die \"%s\" Berechtigung.",
     "mentionNeededMessageWithUser": "Bitte markiere einen Nutzer auf dem Server (z.B. `/create player @%s (Region) (Beschwörername)`)",
     "permissionNeededUpdateOtherPlayer": "Du kannst kein Konto für einen anderen Spieler als dich selbst hinzufügen, wenn du nicht die Berechtigung hast, Kanäle zu verwalten. Entschuldige bitte :/",
-    "mentionnedUserNotRegistered": "Der erwähnte Benutzer ist nicht registriert. Bitte erstellen ihn zuerst mit dem Befehl </create player:864483085437632524>.",
+    "mentionnedUserNotRegistered": "Der erwähnte Benutzer ist nicht registriert, lass einen Berechtigten ihn mit </create player:864483085437632524> erstellen oder registriere dich mit </register:864483338902175755>.",
     "addCommandMalformedWithoutRegionOption": "Der Befehl ist fehlerhaft. Bitte beachte diese Vorlage: `/add %s @DiscordErwähnung (Region) (Beschwörername)`",
     "addCommandMalformedWithRegionOption": "Der Befehl ist fehlerhaft. Bitte beachte diese Vorlage: `/add %s @DiscordErwähnung (Region) (Beschwörername)`\nWenn die Region nicht festgelegt ist, wird die Standardregion verwendet (%s).",
     "regionTagInvalid": "Ungültiger Regionstag. (Gültige Tags: BR, EUNE, EUW, LAN, LAS, NA, OCE, RU, TR, KR, PH, SG, TW, TH & VN)",
