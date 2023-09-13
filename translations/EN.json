@@ -22,7 +22,7 @@
     "permissionNeededMessage": "You need the permission \"%s\" to do that.",
     "mentionNeededMessageWithUser": "Please mention a member of the server (e.g. `/create player @%s (Region) (Summonername)`)",
     "permissionNeededUpdateOtherPlayer": "You can't add an account for a player other than yourself if you don't have permission to manage channels. Sorry about that :/",
-    "mentionnedUserNotRegistered": "The mentioned user is not registered, please create it first with the command </create player:864483085437632524>.",
+    "mentionnedUserNotRegistered": "The mentioned user is not registered, let an eligible create it with </create player:864483085437632524> or register yourself using </register:864483338902175755>.",
     "addCommandMalformedWithoutRegionOption": "The command is malformed. Please respect this pattern: `/add %s @DiscordMention (Region) (Summonername)`",
     "addCommandMalformedWithRegionOption": "The command is malformed. Please respect this pattern: `/add %s @DiscordMention (Region) (Summonername)`\nIf the region is not set, the default region will be used (%s).",
     "regionTagInvalid": "The region tag is invalid. (Valid tags: BR, EUNE, EUW, LAN, LAS, NA, OCE, RU, TR, KR, PH, SG, TW, TH & VN)",
