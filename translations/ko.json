@@ -52,7 +52,7 @@
     "createPlayerAlreadyRegistered": "언급한 멤버는 이미 등록되어 있는데? 이 멤버한테 두 번째 리그 오브 레전드 계정을 추가하려면 </add account:864483340492734474> 명령을 사용해줘.",
     "createPlayerMalformedWithoutRegionOption": "명령어가 잘못된거 같은데? 형식을 준수해줘 : `/create player @DiscordMention (지역) (소환사명)`",
     "createPlayerMalformedWithRegionOption": "명령어가 잘못 된 것 같아. 형식을 준수해 줘: `/create player @DiscordMention (지역) (소환사명)`\n지역을 설정하지 않으면 기본 지역(%s)이 사용될 거야.",
-    "createPlayerDoneMessage": "플레이어 %s가 \"%s\" 계정을 품고 만들어졌어.",
+    "createPlayerDoneMessage": "플레이어 %s가 *%s*\"%s\" 계정을 품고 만들어졌어.",
     "createTeamHelpMessage": "새 팀을 만들어 볼게! 정보 패널에서 플레이어를 그룹화할 수 있어. 채널 관리 권한이 필요해.",
     "nameAlreadyUsedByTheSystem": "이 이름은 이미 사용 중인 이름이잖아ㅡ.ㅡ 다른 이름으로 바꿔.",
     "createTeamNeedName": "팀 이름을 입력해줄래? (예시: `/create team SKT T1`)",
