@@ -52,7 +52,7 @@
     "createPlayerAlreadyRegistered": "The mentioned member is already registered. If you want to add a secondary League of Legends account to this member, please use the command </add account:864483340492734474>.",
     "createPlayerMalformedWithoutRegionOption": "The command is malformed. Please respect this pattern: `/create player @DiscordMention (Region) (Summonername)`",
     "createPlayerMalformedWithRegionOption": "The command is malformed. Please respect this pattern: `/create player @DiscordMention (Region) (Summonername)`\nIf the region is not set, the default region will be used (%s).",
-    "createPlayerDoneMessage": "The player %s has been created with the account \"%s\".",
+    "createPlayerDoneMessage": "The player %s has been created with the account *%s* \"%s\".",
     "createTeamHelpMessage": "Creates a new team. Allows you to group players together on the Infopanel. Manage Channel permission needed.",
     "nameAlreadyUsedByTheSystem": "This name is already used by the system. Please use another name.",
     "createTeamNeedName": "Please give me a team name. (E.g.: `/create team Fnatic`)",
