@@ -52,7 +52,7 @@
     "createPlayerAlreadyRegistered": "Wymieniłeś gracza, który już aktualnie jest zarejestrowany. Jeżeli chcesz dodać następne KontoLeage, proszę użyj komendy ``>add account``.",
     "createPlayerMalformedWithoutRegionOption": "Komenda jest niepoprawna. Proszę użyć w taki sposób: `>create player @NazwaDiscord (Region) (NazwaKontaLeague)",
     "createPlayerMalformedWithRegionOption": "Komenda jest niepoprawna. Proszę napisać w taki sposób: `>create player @NazwaDiscord (Region) (NazwaKontaLeague) `\nJeżeli region nie zostanie ustawiony, domyślny region zostanie zastosowany (%s).",
-    "createPlayerDoneMessage": "Gracz %s został utworzony z kontem \"%s\".",
+    "createPlayerDoneMessage": "Gracz %s został utworzony z kontem *%s* \"%s\".",
     "createTeamHelpMessage": "Stworzenie nowej drużyny, pozwala Ci grupować graczy razem w panelu informacyjnym. Wymagana jest permisja zarządzania kanałem.",
     "nameAlreadyUsedByTheSystem": "Ta nazwa jest już w systemie. Proszę użyć innej.",
     "createTeamNeedName": "Proszę o nazwę drużyny. (Np.: `>create team Fnatic`)",
