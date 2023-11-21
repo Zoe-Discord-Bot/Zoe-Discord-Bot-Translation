@@ -69,7 +69,7 @@
     "resetTimeoutMessage": "Estou à espera à mais de um minuto. Não vou esperar mais. Por favor, reenvia o comando `>reset`se me quiseres reinicializar.",
     "setupHelpMessage": "Dá informações sobre como configurar a Zoe.",
     "createPlayerMalformedWithoutRegionOption": "O comando está mal formado. Por favor, respeita este padrão: `>create player @MençãoDiscord (Região) (NomeDeInvocador)`",
-    "createPlayerDoneMessage": "O jogador %s foi criado com a conta \"%s\".",
+    "createPlayerDoneMessage": "O jogador %s foi criado com a conta *%s* \"%s\".",
     "createTeamHelpMessage": "Cria uma nova equipa. Permite agrupar jogadores no Painel de Informações. Permissão para Gerir Canais necessária.",
     "addAccountHelpMessage": "Adiciona a conta fornecida ao jogador mencionado.",
     "permissionNeededMessage": "Precisas da permissão \"%s\" para fazer isso.",
