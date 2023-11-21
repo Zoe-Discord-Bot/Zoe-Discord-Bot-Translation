@@ -52,7 +52,7 @@
     "createPlayerAlreadyRegistered": "العضو المذكور مسجل بالفعل. إذا كنت ترغب في إضافة حساب league of legends  ثانوي ، فيرجى استخدام الأمر ``>add account``.",
     "createPlayerMalformedWithoutRegionOption": "الأمر مشوه. يرجى احترام هذا النمط: `>create player @DiscordPlayerMention (Region) (SummonerName)`",
     "createPlayerMalformedWithRegionOption": "الأمر مشوه. يرجى احترام هذا النمط:  `>create player @DiscordPlayerMention (Region) (SummonerName)`\nإذا لم يتم تعيين المنطقة ، فسيتم استخدام المنطقة الافتراضية (s%).",
-    "createPlayerDoneMessage": "الاعب s% تم إنشاؤه مع الحساب \"s٪\".",
+    "createPlayerDoneMessage": "الاعب s% تم إنشاؤه مع الحساب *s\"*%s%\".",
     "createTeamHelpMessage": "ينشئ فريقًا جديدًا. يسمح لك بتجميع اللاعبين معًا في لوحة المعلومات. مطلوب إذن Manage Channel.",
     "nameAlreadyUsedByTheSystem": "هذا الاسم مستخدم بالفعل من قبل النظام. الرجاء استخدام اسم آخر.",
     "createTeamNeedName": "من فضلك أعطني اسم فريق. (على سبيل المثال: `>create team Fnatic`)",
