@@ -52,7 +52,7 @@
     "createPlayerAlreadyRegistered": "O membro mencionado já está registrado. Se você deseja adicionar uma conta de LoL secundária, use o comando ``>add account``.",
     "createPlayerMalformedWithoutRegionOption": "O comando está incorreto. Por favor, respeite este padrão : `>create player @MençãoAoJogador (Abreviação da Região) (Nome de Invocador)`",
     "createPlayerMalformedWithRegionOption": "O comando está incorreto. Por favor, respeite este padrão: `>create player @MençãoAoJogador ((Abreviação da Região) (Nome de Invocador)`\nSe a região não estiver definida, a região padrão será usada (%s).",
-    "createPlayerDoneMessage": "O jogador %s foi criado com a conta \"%s\".",
+    "createPlayerDoneMessage": "O jogador %s foi criado com a conta *%s* \"%s\".",
     "createTeamHelpMessage": "Crie uma nova equipe. Permite agrupar jogadores no Painel de informações. É necessário ter permissão para gerenciar o canal.",
     "nameAlreadyUsedByTheSystem": "Este nome já é usado pelo sistema. Por favor, use outro nome.",
     "createTeamNeedName": "Por favor, me dê um nome de equipe. (e.g. : `>create team INTZ`)",
