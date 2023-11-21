@@ -52,7 +52,7 @@
     "createPlayerAlreadyRegistered": "El miembro mencionado ya está registrado. Si quieres añadir una cuenta de LoL secundaria, por favor usa el comando `>add account`.",
     "createPlayerMalformedWithoutRegionOption": "El comando está mal formado. Por favor, respeta esta sintaxis : `>create player @DiscordPlayerMention (Región) (NombreDeInvocador)`",
     "createPlayerMalformedWithRegionOption": "El comando está mal formado. Por favor respeta esta sintaxis: `>create player @MenciónDeUsuario (Servidor) (NombreDeInvocador)`\nSi el servidor no es especificado, se usará el servidor por defecto (%s).",
-    "createPlayerDoneMessage": "El jugador %s ha sido creado con la cuenta \"%s\".",
+    "createPlayerDoneMessage": "El jugador %s ha sido creado con la cuenta *%s* \"%s\".",
     "createTeamHelpMessage": "Crea un nuevo equipo. Permite agrupar a los jugadores en el Panel de Información. Se necesita el permiso para gestionar el canal.",
     "nameAlreadyUsedByTheSystem": "Este nombre ya está siendo utilizado por el sistema. Por favor, utilice otro nombre.",
     "createTeamNeedName": "Por favor dame un nombre para el equipo. (Ej.: `>create team Fnatic`)",
