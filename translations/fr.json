@@ -52,7 +52,7 @@
     "createPlayerAlreadyRegistered": "Le joueur mentionné est déjà enregistré. Si vous voulez lui ajouter un compte League of Legends secondaire, merci d'utiliser la commande </add account:864483340492734474>.",
     "createPlayerMalformedWithoutRegionOption": "La commande est mal formée. Merci de respecter ce modèle : `/create player @MentionDiscord (Région) (Nomd'invocateur)`",
     "createPlayerMalformedWithRegionOption": "La commande est mal formée. Merci de respecter ce modèle : `/create player @MentionDiscord (Région) (Nomd'invocateur)`\nSi la région n'est pas définie, la région par défaut (%s) sera utilisée.",
-    "createPlayerDoneMessage": "Le joueur %s a été crée avec le compte \"%s\".",
+    "createPlayerDoneMessage": "Le joueur %s a été crée avec le compte *%s* \"%s\".",
     "createTeamHelpMessage": "Crée une nouvelle équipe. Cela vous permet de grouper des joueurs ensemble sur le panneau d'information. Permission de gérer les salons nécessaire.",
     "nameAlreadyUsedByTheSystem": "Ce nom est déjà utilisé par le système. Merci d'en utiliser un autre.",
     "createTeamNeedName": "Merci de me donner un nom d'équipe. (Ex. : `/create team Fnatic`)",
