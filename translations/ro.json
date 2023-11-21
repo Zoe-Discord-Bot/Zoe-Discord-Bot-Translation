@@ -52,7 +52,7 @@
     "createPlayerAlreadyRegistered": "Jucătorul menționat este deja înregistrat. Dacă vrei să adaugi un cont secundar, te rog să folosești comanada ``>add account``.",
     "createPlayerMalformedWithoutRegionOption": "Comanda are un format greșit. Te rog să repsecți următorul model : `>create player @DiscordPlayerMention (Region) (SummonerName)`",
     "createPlayerMalformedWithRegionOption": "Comanda are un format greșit. Te rog să repsecți următorul model : `>create player @DiscordPlayerMention (Region) (SummonerName)`\nDacă regiunea nu este selectată, regiunea de bază va fi utilizată (%s).",
-    "createPlayerDoneMessage": "Jucătorul %s  a fost creeat cu contul \"%s\".",
+    "createPlayerDoneMessage": "Jucătorul %s  a fost creeat cu contul *%s* \"%s\".",
     "createTeamHelpMessage": "Creează o echipă nouă. Îți oferă posibilitatea să grupezi jucători în Info Panel. Gestionarea canalului de permisiuni este necesară.",
     "nameAlreadyUsedByTheSystem": "Acest nume există deja în sistem. Te rog să folosești alt nume.",
     "createTeamNeedName": "Te rog să dai un nume echipei.  (E.g. : `>create team Fnatic`)",
