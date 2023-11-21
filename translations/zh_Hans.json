@@ -52,7 +52,7 @@
     "createPlayerAlreadyRegistered": "提及的频道成员已有玩家档案。若想添加额外的英雄联盟账号，请使用指令 ``>add account``。",
     "createPlayerMalformedWithoutRegionOption": "指令的格式不正确。请遵守如下格式：`>create player @DiscordPlayerMention (Region) (SummonerName)`",
     "createPlayerMalformedWithRegionOption": "指令的格式不正确。请遵守如下格式：`>create player @DiscordPlayerMention (Region) (SummonerName)`\n若服务器地区没有明确设置，将默认设置为 (%s)。",
-    "createPlayerDoneMessage": "已使用英雄联盟账号\"%s\"创建玩家%s 的账户。",
+    "createPlayerDoneMessage": "已使用英雄联盟账号*%s*\"%s\"创建玩家%s 的账户。",
     "createTeamHelpMessage": "创建一个新的小队。小队中的成员将以小队的形式显示在信息面板上。该指令需要您拥有管理频道的权限。",
     "nameAlreadyUsedByTheSystem": "该名称已被系统使用。请使用其他的名称。",
     "createTeamNeedName": "请提供一个小队的名称。（如：`>create team Fnatic`）",
