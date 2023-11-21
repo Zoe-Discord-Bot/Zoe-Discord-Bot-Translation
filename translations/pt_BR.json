@@ -52,7 +52,7 @@
     "createPlayerAlreadyRegistered": "O membro mencionado já está registrado. Se você quer adicionar uma conta secundária a ele, por favor, utilize o comando ``/add account ``.",
     "createPlayerMalformedWithoutRegionOption": "O comando está incorreto. Por favor, respeite este padrão : `/create player @JogadorDoDiscordMencionado (Região) (NomeDeInvocador)`",
     "createPlayerMalformedWithRegionOption": "O comando está incorreto. Por favor, respeite este padrão : `/create player @JogadorDoDiscordMencionado (Região) (NomeDeInvocador)`\nSe a região não estiver definida, a região padrão será usada (%s).",
-    "createPlayerDoneMessage": "O jogador %s foi criado com a conta \"%s\".",
+    "createPlayerDoneMessage": "O jogador %s foi criado com a conta *%s* \"%s\".",
     "createTeamHelpMessage": "Cria uma nova equipe. Permite você agrupar jogadores no Painel de Informações. Permissão Gerenciar Canais é necessária.",
     "nameAlreadyUsedByTheSystem": "Este nome já é utilizado pelo sistema. Por favor, use outro nome.",
     "createTeamNeedName": "Por favor, dê-me um nome de equipe. (Ex.: `/create team Fnatic`)",
