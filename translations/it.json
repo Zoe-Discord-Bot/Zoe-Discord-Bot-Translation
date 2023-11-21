@@ -63,7 +63,7 @@
     "registerCommandAlreadyInZoe": "Sei già nel sistema. Se vuoi aggiungere un altro account di LOL, usa il comando `>add account`.",
     "registerCommandMalformedWithoutRegionOption": "Il comando è malformato. Per favore, rispetta questo schema: `>register (Regione) (SummonerName)`",
     "registerCommandMalformedWithRegionOption": "Il comando è malformato. Per favore rispetta questo: `>register (Region) (SummonerName)`\nSe la regione non è impostata sarà usata quella predefinita (%s).",
-    "registerCommandDoneMessage": "Sei stato aggiunto con l'account \"%s\".",
+    "registerCommandDoneMessage": "Sei stato aggiunto con l'account *%s* \"%s\".",
     "defineInfoChannelHelpMessage": "Definisci un nuovo Canale delle Informazioni dove posso mandare informazioni riguardanti i giocatori. Sono richiesti i permessi per Gestire i canali.",
     "defineInfoChannelAlreadySet": "Il canale %s è già stato settato. Per favore prima cancellalo se vuoi impostarne un altro.",
     "defineInfoChannelMentionOfAChannelNeeded": "Hai bisogno di menzionare un canale come questo : `/define infoChannel #the-best-text-channel`",
