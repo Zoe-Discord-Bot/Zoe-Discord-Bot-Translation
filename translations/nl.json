@@ -24,7 +24,7 @@
     "mentionnedPlayerIsAlreadyInATeam": "De genoemde speler is al een andere team (%s) !",
     "mentionOfUserNeedToBeAPlayer": "De vermelde gebruiker is geen speler !",
     "mentionOfPlayerNeeded": "Vermeld alstublieft een geregisteerde speler !",
-    "accountAddedToPlayer": "Dit account \"%s\" is toegevoegd aan de speler %s.",
+    "accountAddedToPlayer": "Dit account *%s* \"%s\" is toegevoegd aan de speler %s.",
     "accountAlreadyLinkedToAnotherPlayer": "Dit account is al een gekoppeld aan de speler %s !",
     "riotApiSummonerByNameErrorUnexpected": "Ik heb een onverwachte fout, probeer het opnieuw. Error code: %d",
     "riotApiSummonerByNameError404": "De summoner naam is niet correct. Controleer de summoner naam en regio en probeer het opnieuw.",
