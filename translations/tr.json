@@ -52,7 +52,7 @@
     "createPlayerAlreadyRegistered": "Etiketlenen kişi zaten kayıtlı. Eğer ikinci bir lol hesabı eklemek istiyorsanız lütfen ``>add account`` komudunu kullanınız.",
     "createPlayerMalformedWithoutRegionOption": "Bu komut bozuk. Lütfen şu komuda uyunuz : `>create player @DiscordOyuncuEtiketi (Bölge) (SihirdarAdı)`",
     "createPlayerMalformedWithRegionOption": "Bu komut bozuk. Lütfen şu komuda uyunuz : `>create player @DiscordOyuncuEtiketi (Bölge) (SihirdarAdı)`\nEğer bölge ayarlanmamış ise varsayılan bölge kullanılacaktır (%s).",
-    "createPlayerDoneMessage": "Bu oyuncu %s, \"%s\" hesabı ile ilişkilendirildi.",
+    "createPlayerDoneMessage": "Bu oyuncu %s, *%s* \"%s\" hesabı ile ilişkilendirildi.",
     "createTeamHelpMessage": "Yeni bir takım oluşturun. Bilgilendirme kanalında grup oyuncularının birlikte olmasını sağlar. Kanal yönetimi yetkisi gereklidir.",
     "nameAlreadyUsedByTheSystem": "Bu isim sistem tarafından zaten kullanılmaktadır. Lütfen başka bir isim kullanın.",
     "createTeamNeedName": "Lütfen bana bir takım ismi ver. (Örn : `>create team Fnatic`)",
