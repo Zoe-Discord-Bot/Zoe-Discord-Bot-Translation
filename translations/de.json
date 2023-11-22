@@ -1160,5 +1160,12 @@
     "riotApiRegionIncorrectError404": "Das von dir angegebene Riot-Konto wurde **nicht auf dem %s-Server** gefunden. Bitte überprüfe, auf welchem Server du spielst und versuche es erneut.",
     "createClashChannelAskRiotAccountWithNeededMention": "Perfekt, jetzt brauche ich ein Riot-Konto. Bitte sende einen Account in diesem Format **(vergiss nicht, mich zu pingen, damit ich deine Nachricht sehen kann)** : \"%s ``(Region) (Spielname) (Tag)``\". Der Spielname ist der Teil vor dem ``#``, der Tag ist der Teil danach.\n\n*Du kannst den Befehl abbrechen, indem du ``Stop`` sendest.",
     "createClashMalformedRiotAccountWithNeededMention": "Der Befehl ist fehlerhaft formatiert. Bitte beachte dieses Muster: \"%s `(Region) (Spielname) (Tag)`\". So funktioniert es: Spielname#Tag.\n\nBitte versuche es erneut.",
-    "riotApiRiotAccountByNameError404": "Es wurde kein Riot-Konto mit diesem Namen und Tag gefunden. Bitte überprüfe noch einmal, ob du deine Riot Id richtig eingegeben hast.\n\n*Du weißt nicht, wie deine Riot Id lautet? Du kannst sie hier sehen, nachdem du dich in dein League of Legends-Konto eingeloggt hast: <%s>*"
+    "riotApiRiotAccountByNameError404": "Es wurde kein Riot-Konto mit diesem Namen und Tag gefunden. Bitte überprüfe noch einmal, ob du deine Riot Id richtig eingegeben hast.\n\n*Du weißt nicht, wie deine Riot Id lautet? Du kannst sie hier sehen, nachdem du dich in dein League of Legends-Konto eingeloggt hast: <%s>*",
+    "commandNotAvailableInClassicalVersion": "Dieser Befehl ist nicht mehr im klassischen Format verfügbar. Bitte verwende die Schrägstrich-Version dieses Befehls!",
+    "predictRoleSelectFullTeamNotEnoughAccount": "Um diesen Befehl zu verwenden, gib bitte 5 Konten bei Zoe ein. Du kannst die Position bereits auswählen, indem du die entsprechende Befehlsoption wählst. Verwende dieses Format: Spielname#Tag",
+    "predictRoleSelectFullTeamOneAccount": "Das angegebene Konto \"%s\" ist falsch angegeben, es sollte nur einen # enthalten. Bitte überprüfe den Kontonamen und versuche es erneut.",
+    "predictRoleSelectFullTeamAccounNotFound": "Das Konto \"%s\" wurde nicht gefunden. Bitte überprüfe den Namen und versuche es erneut.",
+    "predictRoleSelectFullTeamLoadingAccountMessage": "*Prüfe \"%s\" Konto | %d/%d*",
+    "predictRoleSelectFullTeamLoadingData": "*Daten laden...*",
+    "predictRoleSelectFullTeamLeagueAccountNotExist": "Das Riot-Konto \"%s\" existiert, scheint aber kein League of Legends-Konto zu haben. Bist du dir mit deiner Eingabe sicher? Bitte überprüfe es und versuche es erneut."
 }
