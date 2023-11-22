@@ -1155,5 +1155,10 @@
     "monthly": "Monatlich",
     "rankTrendFooterIfAutomated": "Diese Nachrichten können mit dem Befehl /config > Rangkanal > Option 2 deaktiviert werden",
     "automatedRankUpdateOptionDescription": "Verwalten des automatischen Versands von Rangaktualisierungsmeldungen",
-    "playerNotInServerAnymore": "Server verlassen"
+    "playerNotInServerAnymore": "Server verlassen",
+    "createPlayerRiotIdCannotContainHashtag": "Der Spielname oder der Tag darf kein # enthalten. Bitte überprüfe die Riot Id und versuche es erneut.",
+    "riotApiRegionIncorrectError404": "Das von dir angegebene Riot-Konto wurde **nicht auf dem %s-Server** gefunden. Bitte überprüfe, auf welchem Server du spielst und versuche es erneut.",
+    "createClashChannelAskRiotAccountWithNeededMention": "Perfekt, jetzt brauche ich ein Riot-Konto. Bitte sende einen Account in diesem Format **(vergiss nicht, mich zu pingen, damit ich deine Nachricht sehen kann)** : \"%s ``(Region) (Spielname) (Tag)``\". Der Spielname ist der Teil vor dem ``#``, der Tag ist der Teil danach.\n\n*Du kannst den Befehl abbrechen, indem du ``Stop`` sendest.",
+    "createClashMalformedRiotAccountWithNeededMention": "Der Befehl ist fehlerhaft formatiert. Bitte beachte dieses Muster: \"%s `(Region) (Spielname) (Tag)`\". So funktioniert es: Spielname#Tag.\n\nBitte versuche es erneut.",
+    "riotApiRiotAccountByNameError404": "Es wurde kein Riot-Konto mit diesem Namen und Tag gefunden. Bitte überprüfe noch einmal, ob du deine Riot Id richtig eingegeben hast.\n\n*Du weißt nicht, wie deine Riot Id lautet? Du kannst sie hier sehen, nachdem du dich in dein League of Legends-Konto eingeloggt hast: <%s>*"
 }
