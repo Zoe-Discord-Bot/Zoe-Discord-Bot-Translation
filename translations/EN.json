@@ -1155,5 +1155,17 @@
     "weekly": "Weekly",
     "monthly": "Monthly",
     "rankTrendFooterIfAutomated": "These messages can be disabled with the command /config > Rankchannel > Option 2",
-    "playerNotInServerAnymore": "Left the server"
+    "playerNotInServerAnymore": "Left the server",
+	"createPlayerRiotIdCannotContainHashtag": "The Game Name or the tag can't contain an #. Please recheck the Riot Id and retry.",
+	"riotApiRiotAccountByNameError404": "No Riot account was found with this name and tag. Please double-check that you have entered your Riot Id correctly.\n\n*You don't know what is your Riot Id ? You can see it here after login into your League Of Legends account: <%s>*",
+	"riotApiRegionIncorrectError404": "The Riot Account you given was **not found in the %s server**. Please check on which server you play and retry.",
+    "createClashChannelAskRiotAccountWithNeededMention": "Perfect, now I need a Riot account. Please send an account with this format **(don't forget to ping me so i can see your message)** : \"%s ``(Region) (Game Name) (Tag)``\". The Game name is the part before the ``#``, the tag is the part after it.\n\n*You can cancel the command by sending ``Stop``.*",
+	"createClashMalformedRiotAccountWithNeededMention": "The command is malformed. Please respect this pattern: \"%s `(Region) (Game Name) (Tag)`\". Here how it work: GameName#Tag.\n\nPlease retry.",
+	"commandNotAvailableInClassicalVersion": "This command is not available anymore with the classical format. Please use the slash version of this command!",
+	"predictRoleSelectFullTeamNotEnoughAccount": "To use this command, please give 5 accounts to Zoe. You can already select position by selecting the according command option. Use this format: GameName#Tag",
+	"predictRoleSelectFullTeamOneAccount": "The given account \"%s\" is malformed, it should contain only one #. Please check the account name and retry.",
+	"predictRoleSelectFullTeamAccounNotFound": "The account \"%s\" has not been found. Please check the name and retry.",
+	"predictRoleSelectFullTeamLeagueAccountNotExist": "The Riot account \"%s\" exist but doesn't seems to have a League of Legends account. Are you sure about your input ? Please check and retry.",
+	"predictRoleSelectFullTeamLoadingAccountMessage": "*Checking \"%s\" account | %d/%d*",
+	"predictRoleSelectFullTeamLoadingData": "*Loading data...*"
 }
