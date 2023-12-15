@@ -1046,7 +1046,7 @@
     "zoeGlobalFeedbackFormFeedbackTitleMax45Size": "Do you have any feedback to give about Zoe?",
     "zoeGlobalFeedbackFormFeedbackPlaceholderMax100Size": "It can be anything to do with Zoe, positive or negative. This helps us to improve the bot!",
     "zoeGlobalFeedbackFormAnotherThingPlaceholderMax100Size": "If you want to send a message to the dev, you can do it here!",
-    "refreshServerButtonText": "quick refresh",
+    "refreshServerButtonText": "Quick Refresh",
     "refreshServerAlreadyAskedButtonText": "Refresh already requested",
     "zoeGlobalFeedbackAndBugReportButton": "Send Feedback or Bug Report",
     "createMatchHistoryChannelHelpSlashCommandMessage": "Creates a channel in which Zoe will send the match history of a selected group of players.",
