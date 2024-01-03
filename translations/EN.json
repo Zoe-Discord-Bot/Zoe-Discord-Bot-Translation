@@ -1167,5 +1167,9 @@
     "predictRoleSelectFullTeamAccounNotFound": "The account \"%s\" was not found. Please check the name and try again.",
     "predictRoleSelectFullTeamLeagueAccountNotExist": "The Riot account \"%s\" exists, but doesn't appear to have a League of Legends account. Are you sure about your input? Please check and try again.",
     "predictRoleSelectFullTeamLoadingAccountMessage": "*Checking \"%s\" account | %d/%d*",
-    "predictRoleSelectFullTeamLoadingData": "*Loading data...*"
+    "predictRoleSelectFullTeamLoadingData": "*Loading data...*",
+	"season2024Split1Name": "Season 2024 | Split 1",
+	"season2024Split2Name": "Season 2024 | Split 2",
+	"season2024Split1SmallName": "S2024/1",
+	"season2024Split2SmallName": "S2024/2"
 }
