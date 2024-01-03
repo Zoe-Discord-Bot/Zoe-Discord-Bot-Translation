@@ -1167,5 +1167,9 @@
     "predictRoleSelectFullTeamAccounNotFound": "Das Konto \"%s\" wurde nicht gefunden. Bitte überprüfe den Namen und versuche es erneut.",
     "predictRoleSelectFullTeamLoadingAccountMessage": "*Prüfe \"%s\" Konto | %d/%d*",
     "predictRoleSelectFullTeamLoadingData": "*Daten laden...*",
-    "predictRoleSelectFullTeamLeagueAccountNotExist": "Das Riot-Konto \"%s\" existiert, scheint aber kein League of Legends-Konto zu haben. Bist du dir mit deiner Eingabe sicher? Bitte überprüfe es und versuche es erneut."
+    "predictRoleSelectFullTeamLeagueAccountNotExist": "Das Riot-Konto \"%s\" existiert, scheint aber kein League of Legends-Konto zu haben. Bist du dir mit deiner Eingabe sicher? Bitte überprüfe es und versuche es erneut.",
+    "season2024Split2Name": "Season 2024 | Split 2",
+    "season2024Split1SmallName": "S2024/1",
+    "season2024Split2SmallName": "S2024/2",
+    "season2024Split1Name": "Season 2024 | Split 1"
 }
