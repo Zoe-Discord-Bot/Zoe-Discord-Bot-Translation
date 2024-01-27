@@ -263,7 +263,7 @@
     "addingSystemLanguageSelected": "Хорошо, теперь я буду говорить на %s. (Вы всегда можете изменить мой язык с помощью команды `> l`). Теперь давайте выберем регион по умолчанию для сервера:",
     "languageCommandHelp": "Команда для выбора языка  для Зои",
     "languageCommandInSelectionMenu": "Выбранный язык: **%s**",
-    "nativeActualLanguage": ":flag_ru: Русский",
+    "nativeActualLanguage": "Русский",
     "loose": "Поражение",
     "rankChannelChangeRankChangeWinDivisionSkippedTitle": "%s пропустил дивизион (%s)",
     "canceled": "Отменен",
