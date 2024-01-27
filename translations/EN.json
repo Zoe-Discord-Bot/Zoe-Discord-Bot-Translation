@@ -1172,5 +1172,7 @@
     "season2024Split2Name": "Season 2024 | Split 2",
     "season2024Split1SmallName": "S2024/1",
     "season2024Split2SmallName": "S2024/2",
-	"hordeName": "Voidgrub"
+	"hordeName": "Voidgrub",
+	"matchStatsCardTitleSpectatorBackup": "%s of %s",
+	"matchStatsCardInfoMessage": "*Match impossible to retrieve, information based on spectator information*"
 }
