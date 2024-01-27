@@ -255,7 +255,7 @@
     "infoCardsGameInfoAndOf": "ve",
     "account": "Hesap",
     "firstGame": "İlk oyun",
-    "nativeActualLanguage": ":flag_tr: Turkish",
+    "nativeActualLanguage": "Turkish",
     "languageCommandInSelectionMenu": "Dil seçildi : **%s**",
     "languageCommandHelp": "ZoeBotun dilini seçme komutu",
     "addingSystemLanguageSelected": "Tamamdır, şuandan itibaren %s. konuşuyorum. (Her zaman şu komut ile dilimi değiştirebilirsin `>l`). Şimdi sunucu için varsayılan bir bölge seçelim:",
