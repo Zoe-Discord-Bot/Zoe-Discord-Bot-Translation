@@ -1176,7 +1176,7 @@
     "matchStatsCardTitleSpectatorBackup": "%s of %s",
     "matchStatsCardInfoMessage": "*Match not available, information based on spectator information*",
     "matchStatsCardGenerateSummaryButton": "Generate Match Summary",
-    "baseEventWithoutEmotesTitleFormat": "%s at %s | Blue Team kills: %d - Red Team kills %d",
+    "baseEventWithoutEmotesTitleFormat": "%s at %s | Blue Team kills: %d - Red Team kills: %d",
     "matchSummaryInfoEmbedTitle": "Match Summary Info",
     "matchSummaryInfoEmbedText": "This feature allows you to create match summaries with different styles and tones. The goal of this feature is primarily to have fun, so keep a good-natured spirit in mind when using this tool. You can also use it to create match reports, post-match tips and more. Keep in mind, however, that results can vary greatly depending on the prompts you use and the limitations of this tool.\n\nSelect an existing style or create one yourself!",
     "matchSummaryUsageInfoTitle": "Usage Info",
