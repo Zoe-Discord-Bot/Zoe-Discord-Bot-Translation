@@ -1355,5 +1355,6 @@
     "matchSummaryCommandText": "Click on the button to open a new match summary session!",
     "matchSummaryCommandButton": "Start a new session",
     "matchSummaryCommandHelpSlashCommand": "Open the match summary menu",
-    "seeMatchStatsButton": "See match stats"
+    "seeMatchStatsButton": "See match stats",
+	"matchSummaryTemplateSelectedMenuDataTitle": "Data For this template"
 }
