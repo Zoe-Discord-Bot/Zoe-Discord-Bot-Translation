@@ -1361,5 +1361,6 @@
     "statsRawServerDataRequireAdministrator": "Since this command return potentially sensitive data, you need to have the administrator permission to use it.",
     "statsRawServerDataMessageLoading": "*Please don't abuse this command, it can be very resource intensive since we validate every rank.*\n\n**Zoe is currently loading all the players of the server. Player loaded %d/%d ...**",
     "statsRawServerDataMessageError": "An error occurred while loading the data. Report the issue to the Zoe team on the official server.",
-    "statsRawServerDataMessageLoaded": "All players have been loaded! Here is the data for the server:"   
+    "statsRawServerDataMessageLoaded": "All players have been loaded! Here is the data for the server:",
+	"statsRawServerDataRequireBoostedServer": "This command is a premium feature that requires the server to be boosted. [Here is a small example of this feature.](https://zoe-discord-bot.ch/img/RawServerDataExample.png)\n\n**Subscribe [here](https://ko-fi.com/kalunight/tiers) to support the bot and get access to this feature now!**"	
 }
