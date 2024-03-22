@@ -1356,5 +1356,10 @@
     "matchSummaryCommandButton": "Start a new session",
     "matchSummaryCommandHelpSlashCommand": "Open the match summary menu",
     "seeMatchStatsButton": "See match stats",
-	"matchSummaryTemplateSelectedMenuDataTitle": "Data For this template"
+	"matchSummaryTemplateSelectedMenuDataTitle": "Data For this template",
+	"statsRawServerDataHelpMessageSlashCommand": "Shows the all player registered in the server with related data",
+    "statsRawServerDataRequireAdministrator": "Since this command return potentially sensitive data, you need to have the administrator permission to use it.",
+    "statsRawServerDataMessageLoading": "*Please don't abuse this command, it can be very resource intensive since we validate every rank.*\n\n**Zoe is currently loading all the players of the server. Player loaded %d/%d ...**",
+    "statsRawServerDataMessageError": "An error occurred while loading the data. Report the issue to the Zoe team on the official server.",
+    "statsRawServerDataMessageLoaded": "All players have been loaded! Here is the data for the server:"   
 }
