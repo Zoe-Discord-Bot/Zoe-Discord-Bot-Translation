@@ -1362,5 +1362,22 @@
     "matchSummaryTemplateSelectedMenuClearDataButton": "Ausgewählten Spiel-/Kontoverlauf löschen",
     "matchSummaryCommandButton": "Eine neue Sitzung beginnen",
     "matchSummaryCommandHelpSlashCommand": "Öffne das Spielübersichtsmenü",
-    "seeMatchStatsButton": "Spielstatistiken anzeigen"
+    "seeMatchStatsButton": "Spielstatistiken anzeigen",
+    "teamSelfAddingOptionName": "Selbstständiger Teambeitritt",
+    "addPlayerToTeamCommandNeedManageChannelPermission": "Du kannst keine Spieler, die nicht du selbst sind, zu einem Team hinzufügen, ohne die Berechtigung zu haben, Kanäle zu verwalten.",
+    "addPlayerToTeamCommandSelfAddingOptionNotActivated": "Du kannst dich nicht selbst zu einem Team hinzufügen, wenn du nicht die Berechtigung \"Kanal verwalten\" hast ODER die Konfigurationsoption \"Selbstständiger Teambeitritt\" nicht aktiviert ist.",
+    "removePlayerFromTeamCommandNeedManageChannelPermission": "Du kannst keine Spieler aus einem Team entfernen, die nicht du selbst sind, ohne die Erlaubnis zu haben, Kanäle zu verwalten.",
+    "removePlayerFromTeamCommandSelfAddingOptionNotActivated": "Du kannst dich nicht selbst aus einem Team entfernen, wenn du nicht die Berechtigung \"Kanal verwalten\" ODER die Konfigurationsoption \"Selbstständiger Teambeitritt\" aktiviert hast.",
+    "joinHelpMessageSlashCommand": "Ermöglicht dir den Beitritt zu einem Team",
+    "leaveHelpMessageSlashCommand": "Ermöglicht es dir, das aktuelle Team, in dem du dich befindest, zu verlassen",
+    "playerAddedInTheTeamWithData": "%s wurde zum Team \"%s\" hinzugefügt!",
+    "leavePlayerNotInTeam": "Du bist in keinem Team.",
+    "addPlayerToTeamCommandNeedManageChannelPermissionToAddMultiplePlayers": "Ohne die Berechtigung \"Kanal verwalten\" kannst du nicht mehrere Spieler zu einem Team hinzufügen.",
+    "mentionOfUserNeedToBeAPlayerWithInfo": "%s ist kein registrierter Spieler. Dieser Benutzer kann nicht zum Team hinzugefügt werden.",
+    "mentionnedPlayerIsAlreadyInATeamWithInfo": "%s hat bereits ein anderes Team (%s)!",
+    "mentionOfUserIsNotAPlayerWithInfo": "%s ist kein registrierter Spieler. Dieser Benutzer kann nicht aus dem Team entfernt werden.",
+    "removePlayerToTeamNotInTheTeamWithInfo": "%s ist nicht in einem Team.",
+    "teamSelfAddingOptionDesc": "Ermöglicht es Spielern, sich selbst zu einem Team hinzuzufügen",
+    "teamSelfAddingOptionDescLong": "Option in der Aktivierung: **%s**\n\nDiese Option erlaubt es allen Mitgliedern des Servers, mit den Befehlen `/add playertoteam` und `/remove playerfromteam` einem Team auf diesem Server beizutreten oder es zu verlassen. Dies aktiviert auch die Befehle `/join` und `/leave`. **Wir empfehlen dringend, die Befehle `/join` und `leave` zu verwenden, sobald diese Option aktiviert ist.\n\n:white_check_mark: : Aktiviere diese Option.\n:x: : Die Aktivierung beenden.",
+    "teamSelfAddingOptionDescLongDisable": "Option, die du deaktivieren möchtest: **%s**\n\nAlle Mitglieder des Servers werden nicht mehr in der Lage sein, selbständig Teams auf diesem Server beizutreten oder zu verlassen. Die Befehle `/add playertoteam` und `/remove playerfromteam`, die derzeit für alle aktiviert sind, werden deaktiviert. Diese Änderung wird auch die Befehle `/join` und `/leave` deaktivieren. **Benutzer mit der Berechtigung \"Kanäle verwalten\" können auch nach dieser Änderung noch Teams verwalten.\n\n:white_check_mark: : **Die Option deaktivieren**\n:x: : Den Deaktivierungsprozess abbrechen"
 }
