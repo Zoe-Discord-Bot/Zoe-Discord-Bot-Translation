@@ -1362,5 +1362,22 @@
     "statsRawServerDataMessageLoading": "*Please don't abuse this command, it can be very resource intensive as we validate every rank.*\n\n**Zoe is currently loading all the players of the server. Players loaded %d/%d ...**",
     "statsRawServerDataMessageError": "An error occurred while loading the data. Report the issue to the Zoe team on the official server.",
     "statsRawServerDataMessageLoaded": "All players have been loaded! Here is the data for the server:",
-	"statsRawServerDataRequireBoostedServer": "This command is a premium feature that requires the server to be boosted. [Here is a small example of this feature.](<https://zoe-discord-bot.ch/img/RawServerDataExample.png>)\n\n**Subscribe [here](https://ko-fi.com/kalunight/tiers) to support the bot and get access to this feature now!**"	
+	"statsRawServerDataRequireBoostedServer": "This command is a premium feature that requires the server to be boosted. [Here is a small example of this feature.](<https://zoe-discord-bot.ch/img/RawServerDataExample.png>)\n\n**Subscribe [here](https://ko-fi.com/kalunight/tiers) to support the bot and get access to this feature now!**",
+	"teamSelfAddingOptionName": "Team Self Adding",
+	"teamSelfAddingOptionDesc": "Allow players to add themselves to a team",
+	"teamSelfAddingOptionDescLong": "Option in activation: **%s**\n\nThis option will allow all members of the server to join or leave a team on this server using the commands `/add playertoteam` and `/remove playerfromteam`. This will also enable the `/join` and `/leave` commands. **We highly recommend using these commands once this option is enabled.**\n\n:white_check_mark: : Activate this option.\n:x: : Cancel the activation.",
+	"teamSelfAddingOptionDescLongDisable": "Option you want to disable: **%s**\n\nAll members of the server will no longer have the ability to join or leave teams within this server on their own. The commands `/add playertoteam` and `/remove playertoteam`, which are currently enabled for everyone, will be disabled. Additionally, this change will deactivate the `/join` and `/leave` commands. **User with the Manage Channel permission will still be able to manage teams after this change.**\n\n:white_check_mark: : **Disable the option** the option\n:x: : Cancel the disable procedure",
+	"addPlayerToTeamCommandNeedManageChannelPermission": "You can't add players that is not yourself to a team without the Manage Channel permission.",
+	"addPlayerToTeamCommandSelfAddingOptionNotActivated": "You can't add yourself to a team without the Manage Channel permission OR the Team Self Adding option enable.",
+	"removePlayerFromTeamCommandNeedManageChannelPermission": "You can't remove players that is not yourself from a team without the Manage Channel permission.",
+	"removePlayerFromTeamCommandSelfAddingOptionNotActivated": "You can't remove yourself from a team without the Manage Channel permission OR the Team Self Adding option enable.",
+	"joinHelpMessageSlashCommand": "Allow you to join a team",
+	"leaveHelpMessageSlashCommand": "Leave the current team you are in",
+	"playerAddedInTheTeamWithData": "%s has been added to the \"%s\" team!",
+	"leavePlayerNotInTeam": "You are not in a team.",
+	"addPlayerToTeamCommandNeedManageChannelPermissionToAddMultiplePlayers": "You can't add multiple players to a team without the Manage Channel permission.",
+	"mentionOfUserNeedToBeAPlayerWithInfo": "%s is not a registered player. Can't add this user to the team.",
+	"mentionnedPlayerIsAlreadyInATeamWithInfo": "%s already has another team (%s)!",
+	"mentionOfUserIsNotAPlayerWithInfo": "%s is not a registered player. Can't remove this user from the team.",
+	"removePlayerToTeamNotInTheTeamWithInfo": "%s is not in a team."
 }
