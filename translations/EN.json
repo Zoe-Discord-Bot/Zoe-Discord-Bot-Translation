@@ -1386,7 +1386,7 @@
     "winrateAbr": "WR",
     "gamesAbr": "G",
     "noMainRoleDetected": "No main role",
-    "showTeamCommandTooManyPlayers": "This team has too many players to display team info. Please remove some players of the team to show info about it.",
-    "showTeamCommandMessageInfo": "Here's the info about the team %s !\n\nIf you want to go further, we recommend you to determine which players you will be playing against and use the command </stats teamanalysis:864484041435906098> to get an in deepth analysis of this team!",
+    "showTeamCommandTooManyPlayers": "This team has too many players to display team info. Please remove some players from the team to display information about it.",
+    "showTeamCommandMessageInfo": "Here's the info about the team %s !\n\nIf you want to go even further, we recommend that you determine the players you will play against and use the command </stats teamanalysis:864484041435906098> to get an in-depth analysis of this team!",
     "showTeamCommandError": "An error occurred while trying to show the team info. Please try again. If the problem persists, please report the bug to [the Zoe team on the official server](<https://discord.gg/Ec3fG6DpY3>)."
 }
