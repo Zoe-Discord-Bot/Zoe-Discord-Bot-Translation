@@ -1380,13 +1380,13 @@
     "mentionnedPlayerIsAlreadyInATeamWithInfo": "%s already has another team (%s)!",
     "mentionOfUserIsNotAPlayerWithInfo": "%s is not a registered player. This user cannot be removed from the team.",
     "removePlayerToTeamNotInTheTeamWithInfo": "%s is not in a team.",
-	"showTeamHelpMessageSlashCommand": "Show informations about the team selected.",
-	"showTeamCommandNotFound": "The team you are looking for does not exist. Please check the name and try again.",
-	"showTeamCommandTitle": "Team %s (Average SoloQ Rank: %s)",
-	"winrateAbr": "WR",
-	"gamesAbr": "G",
-	"noMainRoleDetected": "No main role",
-	"showTeamCommandTooManyPlayers": "This team has too many players to display team info. Please remove some players of the team to show info about it.",
-	"showTeamCommandMessageInfo": "Here's the info about the team %s !\n\nIf you want to go further, we recommend you to determine which players you will be playing against and use the command </stats teamanalysis:864484041435906098> to get an in deepth analysis of this team!",
-	"showTeamCommandError": "An error occurred while trying to show the team info. Please try again. If the problem persists, please report the bug to [the Zoe team on the official server](<https://discord.gg/Ec3fG6DpY3>)."
+    "showTeamHelpMessageSlashCommand": "Shows information about the selected team.",
+    "showTeamCommandNotFound": "The team you are looking for does not exist. Please check the name and try again.",
+    "showTeamCommandTitle": "Team %s (Average SoloQ Rank: %s)",
+    "winrateAbr": "WR",
+    "gamesAbr": "G",
+    "noMainRoleDetected": "No main role",
+    "showTeamCommandTooManyPlayers": "This team has too many players to display team info. Please remove some players of the team to show info about it.",
+    "showTeamCommandMessageInfo": "Here's the info about the team %s !\n\nIf you want to go further, we recommend you to determine which players you will be playing against and use the command </stats teamanalysis:864484041435906098> to get an in deepth analysis of this team!",
+    "showTeamCommandError": "An error occurred while trying to show the team info. Please try again. If the problem persists, please report the bug to [the Zoe team on the official server](<https://discord.gg/Ec3fG6DpY3>)."
 }
