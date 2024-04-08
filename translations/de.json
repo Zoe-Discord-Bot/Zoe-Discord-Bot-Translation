@@ -1379,5 +1379,14 @@
     "removePlayerToTeamNotInTheTeamWithInfo": "%s ist nicht in einem Team.",
     "teamSelfAddingOptionDesc": "Ermöglicht es Spielern, sich selbst zu einem Team hinzuzufügen",
     "teamSelfAddingOptionDescLong": "Option in der Aktivierung: **%s**\n\nDiese Option erlaubt es allen Mitgliedern des Servers, mit den Befehlen `/add playertoteam` und `/remove playerfromteam` einem Team auf diesem Server beizutreten oder es zu verlassen. Dies aktiviert auch die Befehle `/join` und `/leave`. **Wir empfehlen dringend, die Befehle `/join` und `leave` zu verwenden, sobald diese Option aktiviert ist.\n\n:white_check_mark: : Aktiviere diese Option.\n:x: : Die Aktivierung beenden.",
-    "teamSelfAddingOptionDescLongDisable": "Option, die du deaktivieren möchtest: **%s**\n\nAlle Mitglieder des Servers werden nicht mehr in der Lage sein, selbständig Teams auf diesem Server beizutreten oder zu verlassen. Die Befehle `/add playertoteam` und `/remove playerfromteam`, die derzeit für alle aktiviert sind, werden deaktiviert. Diese Änderung wird auch die Befehle `/join` und `/leave` deaktivieren. **Benutzer mit der Berechtigung \"Kanäle verwalten\" können auch nach dieser Änderung noch Teams verwalten.\n\n:white_check_mark: : **Die Option deaktivieren**\n:x: : Den Deaktivierungsprozess abbrechen"
+    "teamSelfAddingOptionDescLongDisable": "Option, die du deaktivieren möchtest: **%s**\n\nAlle Mitglieder des Servers werden nicht mehr in der Lage sein, selbständig Teams auf diesem Server beizutreten oder zu verlassen. Die Befehle `/add playertoteam` und `/remove playerfromteam`, die derzeit für alle aktiviert sind, werden deaktiviert. Diese Änderung wird auch die Befehle `/join` und `/leave` deaktivieren. **Benutzer mit der Berechtigung \"Kanäle verwalten\" können auch nach dieser Änderung noch Teams verwalten.\n\n:white_check_mark: : **Die Option deaktivieren**\n:x: : Den Deaktivierungsprozess abbrechen",
+    "showTeamCommandNotFound": "Das Team, das du suchst, existiert nicht. Bitte überprüfe den Namen und versuche es erneut.",
+    "showTeamCommandTitle": "Team %s (Durchschnittlicher SoloQ-Rang: %s)",
+    "winrateAbr": "WR",
+    "gamesAbr": "G",
+    "noMainRoleDetected": "Keine Hauptrolle",
+    "showTeamCommandTooManyPlayers": "Dieses Team hat zu viele Spieler, um Teaminformationen anzuzeigen. Bitte entferne einige Spieler aus dem Team, um Informationen über das Team anzuzeigen.",
+    "showTeamCommandMessageInfo": "Hier sind die Informationen über das Team %s !\n\nWenn du noch weiter gehen willst, empfehlen wir dir, die Spieler zu bestimmen, gegen die du spielen wirst, und den Befehl </stats teamanalysis:864484041435906098> zu verwenden, um eine ausführliche Analyse dieses Teams zu erhalten!",
+    "showTeamCommandError": "Beim Versuch, die Teaminformationen anzuzeigen, ist ein Fehler aufgetreten. Bitte versuche es erneut. Wenn das Problem weiterhin besteht, melde den Fehler bitte an [das Zoe-Team auf dem offiziellen Server] (<https://discord.gg/Ec3fG6DpY3>).",
+    "showTeamHelpMessageSlashCommand": "Zeigt Informationen über das ausgewählte Team an."
 }
