@@ -691,7 +691,7 @@
     "leagueAccountDataUnavailableError503": "Riot's servers could not respond properly in time (Error 503)",
     "improvedRankRoleOption": "Improved rank roles",
     "improvedRankRoleOptionDescription": "Assigns Discord roles by League rank",
-    "improvedRankRoleOptionAskForCreation": "**Option in creation: %s**\n\nThis option allows you to assign discord roles according to their discord rank in a very precise way. All roles once created can be modified in their name/color.\n\nWould you like to continue?",
+    "improvedRankRoleOptionAskForCreation": "**Option in creation: %s**\n\nThis option allows you to assign Discord roles very precisely according to their League rank. Once created, all roles can be changed in their name/color.\n\nWould you like to continue?",
     "improvedRankRoleOptionStopCreationButton": "Cancel the creation",
     "improvedRankRoleOptionContinueTheCreation": "Continue to the settings",
     "improvedRankRoleOptionCreationMenu": "**Setting of the option: %s**\n\nCurrent configuration:\n\nRole type: %s\nSpecific role per server (Create a separate role for EUW, NA, KR, ...): %s\nSelected queue(s): %s\nSpecific role per queue (Create a separate role for SoloQ, Flex and TFT): %s\n\nLowest role to be created: %s\nHighest role d: %s\n\nExample of roles to be created:\n%s\n\nNumber of roles that will be created: %d\nNumber of slots for roles remaining after the creation: %s\n\nPress the buttons below to change the values.",
