@@ -755,7 +755,7 @@
     "clashChannelLastRefreshMadeBottom": "Dernier actualisation effectuée %s",
     "generated": "Généré",
     "improvedRankRoleOption": "Rôles de rang améliorés",
-    "improvedRankRoleOptionAskForCreation": "**Option en cours de création : %s**\n\nCette option vous permet d'assigner des rôles discord selon le rang League des joueurs. Vous pouvez par la suite modifier le nom et la couleur de ces rôles.\n\nVoulez-vous continuer ?",
+    "improvedRankRoleOptionAskForCreation": "**Option en cours de création: %s**\n\nCette option vous permet d'assigner des rôles discord selon le rang League des joueurs. Vous pouvez par la suite modifier le nom et la couleur de ces rôles.\n\nVoulez-vous continuer ?",
     "improvedRankRoleOptionCreationMenu": "**Paramètres de l'option : %s**\n\nConfiguration en cours :\n\nType de Rôle : %s\nRôle spécifique par serveur (faites un rôle séparé pour chaque région --> EUW, NA, KR, ...) : %s\nQuelle(s) file(s) : %s\nRôle spécifique par file (faites un rôle séparé pour chaque file --> SoloQ, Flex et TFT) : %s\n\nPlus petit rôle à créer : %s\nPlus grand rôle à créer : %s\n\nExemple de rôles à créer :\n%s\n\nNombre de rôles qui vont êtres créés : %d\nNombre de slots de rôles disponibles après la création : %s\n\nAppuyez sur le bouton en dessous pour changer la valeur.",
     "improvedRankRoleOptionNotEnoughRoleSlots": "Un serveur a un nombre maximum de 250 rôles ! Veuillez supprimer des rôles ou alors changez votre configuration actuelle.",
     "improvedRankRoleOptionLoadingRefresh": "Veuillez patientez quelques secondes que je puisse actualiser les rôles...",
