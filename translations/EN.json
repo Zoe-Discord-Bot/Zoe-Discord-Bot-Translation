@@ -1431,5 +1431,15 @@
     "searchTeammateAlreadyInQueue": "You are already in the queue. You can't join the queue twice.",
     "searchTeammateSearchingForTeammateAlreadyInQueueEmbedDescription": "You are currently in the queue to find a teammate. This message will be updated as soon as a teammate is found.\n\n*The older message is not valid anymore*",
     "searchTeammateBothJoinedChannelPrivateInfoEmbedTitle": "Info about your teammate",
-    "searchTeammateBothJoinedChannelPrivateInfoEmbedDescription": "League account: `%s`\nDiscord account: `%s`"
+    "searchTeammateBothJoinedChannelPrivateInfoEmbedDescription": "League account: `%s`\nDiscord account: `%s`",
+	"rankChannelOnlyRankUpdateOptionName": "Only Rank Update",
+	"rankChannelOnlyRankUpdateOptionDesc": "The Rank Channel will only send Rank Update message",
+	"rankChannelOnlyRankUpdateOptionEnableOptionButton": "Allow the sending of Rank Update messages only",
+	"rankChannelOnlyRankUpdateLongDescEnable": "Option in activation: **%s**\n\nIf you activate this option, only [Rank Update messages](https://zoe-discord-bot.ch/img/DailyRankUpdateExample.png) will be sended in the rank channel. All other type of messages won't be sended.",
+	"rankChannelOnlyRankUpdateOptionEnableUpdate": "The option has been correctly enabled!",
+	"rankChannelOnlyRankUpdateOptionCancelEnable": "Alright, the option hasn't been enabled.",
+	"rankChannelOnlyRankUpdateOptionLongDescDisable": "Option you want to disable: **%s**\n\nIf you deactivate this option, sending of classical rank change messages will resume in the Rank Channel.",
+	"rankChannelOnlyRankUpdateOptionDisableUpdate": "The option has been correctly disabled!",
+	"rankChannelOnlyRankUpdateCancelDisable": "Alright, the option hasn't been disabled.",
+	"rankChannelOnlyRankUpdateTimeout": "The updating of the option has been canceled (timeout)."
 }
