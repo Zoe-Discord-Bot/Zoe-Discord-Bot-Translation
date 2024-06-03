@@ -1388,5 +1388,7 @@
     "showTeamCommandTooManyPlayers": "Dieses Team hat zu viele Spieler, um Teaminformationen anzuzeigen. Bitte entferne einige Spieler aus dem Team, um Informationen über das Team anzuzeigen.",
     "showTeamCommandMessageInfo": "Hier sind die Informationen über das Team %s !\n\nWenn du noch weiter gehen willst, empfehlen wir dir, die Spieler zu bestimmen, gegen die du spielen wirst, und den Befehl </stats teamanalysis:864484041435906098> zu verwenden, um eine ausführliche Analyse dieses Teams zu erhalten!",
     "showTeamCommandError": "Beim Versuch, die Teaminformationen anzuzeigen, ist ein Fehler aufgetreten. Bitte versuche es erneut. Wenn das Problem weiterhin besteht, melde den Fehler bitte an [das Zoe-Team auf dem offiziellen Server] (<https://discord.gg/Ec3fG6DpY3>).",
-    "showTeamHelpMessageSlashCommand": "Zeigt Informationen über das ausgewählte Team an."
+    "showTeamHelpMessageSlashCommand": "Zeigt Informationen über das ausgewählte Team an.",
+    "searchTeammateBothJoinedChannel": "Ihr seid beide dem Kanal beigetreten, viel Spaß bei eurem Spiel! Viel Glück!",
+    "searchTeammateLeaveQueue": "Du hast die Warteschlange verlassen."
 }
