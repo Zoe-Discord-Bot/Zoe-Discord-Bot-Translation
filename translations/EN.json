@@ -1441,5 +1441,7 @@
     "rankChannelOnlyRankUpdateOptionLongDescDisable": "Option you want to disable: **%s**\n\nIf you deactivate this option, the sending of classic rank change messages in the rank channel is resumed.",
     "rankChannelOnlyRankUpdateOptionDisableUpdate": "The option has been correctly disabled!",
     "rankChannelOnlyRankUpdateCancelDisable": "Alright, the option hasn't been disabled.",
-    "rankChannelOnlyRankUpdateTimeout": "The updating of the option has been canceled (timeout)."
+    "rankChannelOnlyRankUpdateTimeout": "The updating of the option has been canceled (timeout).",
+	"rankTitle": "Rank",
+	"timeTitle": "Time"
 }
