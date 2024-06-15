@@ -1443,5 +1443,11 @@
     "searchTeammateOtherRefusedEmbedDescription": "Der andere Spieler hat das Spiel abgelehnt. Du bist zurück in der Warteschlange.",
     "searchTeammateSearchingForTeammateAlreadyInQueueEmbedDescription": "Du bist gerade in der Warteschlange, um einen Mitspieler zu finden. Diese Meldung wird aktualisiert, sobald ein Spieler gefunden wurde.\n\n*Die vorherige Nachricht ist nicht mehr gültig*",
     "rankTitle": "Rang",
-    "timeTitle": "Zeit"
+    "timeTitle": "Zeit",
+    "verificationProcessIconWhileAccessingRestrictedFeatureTitle": "Dieses Feature erfordert eine Überprüfung des Eigentums an deinem Konto",
+    "searchTeammateVerificationCancelled": "In Ordnung, die Überprüfung wurde abgebrochen.",
+    "searchTeammateVerificationFailedTitle": "Verifizierung fehlgeschlagen",
+    "searchTeammateVerificationFailedDescription": "Bist du sicher, dass du das richtige Symbol ausgewählt hast? Oder hast du vielleicht deine Auswahl nicht bestätigt? (Du musst das Auswahlfenster verlassen, um deine Auswahl zu speichern)\n\nBitte überprüfe dies und versuche es noch einmal (du kannst die obige Nachrich erneut verwenden).\n*Du kannst diese Meldung schließen.*",
+    "socialSoloqTeammateFinderHelpMessageSlashCommand": "Zugang zum SoloQ Teammate Finder Feature",
+    "searchTeammateFeatureNotLaunchedYet": "Diese Funktion ist noch nicht verfügbar. Bitte versuche es am %s!"
 }
