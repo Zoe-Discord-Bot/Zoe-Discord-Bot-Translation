@@ -1444,10 +1444,10 @@
     "rankChannelOnlyRankUpdateTimeout": "The updating of the option has been canceled (timeout).",
     "rankTitle": "Rank",
     "timeTitle": "Time",
-	"verificationProcessIconWhileAccessingRestrictedFeatureTitle": "This feature require a verification of the ownership of your account",
-	"searchTeammateVerificationCancelled": "Alright, the verification has been canceled.",
-	"searchTeammateVerificationFailedTitle": "Verification failed",
-	"searchTeammateVerificationFailedDescription": "Are you sure you selected the correct icon ? Or maybe you didn't validated your choice ? (You need to leave the selection window to save your choice)\n\nPlease check and try again (you can use the top message again).\n*You can close this message*",
-	"socialSoloqTeammateFinderHelpMessageSlashCommand": "Give you access to the SoloQ Teammate Finder feature",
-	"searchTeammateFeatureNotLaunchedYet": "This feature is not yet launched. Please come back the %s!"
+    "verificationProcessIconWhileAccessingRestrictedFeatureTitle": "This feature requires verification of ownership of your account",
+    "searchTeammateVerificationCancelled": "All right, the verification was cancelled.",
+    "searchTeammateVerificationFailedTitle": "Verification failed",
+    "searchTeammateVerificationFailedDescription": "Are you sure that you have selected the correct icon? Or perhaps you have not confirmed your selection? (You must exit the selection window to save your selection)\n\nPlease check this and try again (you can use the message above again).\n*You can close this message.*",
+    "socialSoloqTeammateFinderHelpMessageSlashCommand": "Access to the SoloQ Teammate Finder feature",
+    "searchTeammateFeatureNotLaunchedYet": "This feature is not yet available. Please return the %s!"
 }
