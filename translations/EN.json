@@ -1401,7 +1401,7 @@
     "searchTeammateFeatureCurrentlyDisable": "This feature is currently disabled. For more information, please visit the support server (link in \"About Me\").",
     "searchTeammateNeedALeagueAccount": "You must be registered with a League of Legends account on this server to use this feature.",
     "searchTeammateNeedToBeRanked": "To be able to use this feature, your account must have a rank (Solo/Duo).",
-    "searchTeammateSelectLanguageEmbedTitle": "Language Selection",
+    "searchTeammateSelectLanguageEmbedTitle": "Validation Done - Language Selection",
     "searchTeammateSelectLanguageEmbedDescription": "Select the language in which you would like to speak to your partner (English is recommended if you want to find someone quickly).",
     "searchTeammateSelectAccountEmbedTitle": "League account selection",
     "searchTeammateSelectAccountEmbedDescription": "You have multiple LoL accounts registered on the server, please select one to continue! Matchmaking is based on rank and server.\n\n**WARNING: You must own the account to use it!**",
@@ -1442,6 +1442,6 @@
     "rankChannelOnlyRankUpdateOptionDisableUpdate": "The option has been correctly disabled!",
     "rankChannelOnlyRankUpdateCancelDisable": "Alright, the option hasn't been disabled.",
     "rankChannelOnlyRankUpdateTimeout": "The updating of the option has been canceled (timeout).",
-	"rankTitle": "Rank",
-	"timeTitle": "Time"
+    "rankTitle": "Rank",
+    "timeTitle": "Time"
 }
