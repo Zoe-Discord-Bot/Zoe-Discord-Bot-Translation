@@ -1090,7 +1090,7 @@
     "rankTrendServerTrendTitle": "Tendances du serveur de %s à %s",
     "helpCommandAnswerMessage": "__Si vous avez besoin d'aide avec Zoe, voici les pages Wiki qui peuvent vous dépanner :__\n:tools: [**Dépannage**](<https://wiki.zoe-discord-bot.ch/en/troubleshooting>)\n:speech_left: [**Commandes**](<https://wiki.zoe-discord-bot.ch/en/commands>)\n:gem: [**Fonctionnalités**](<https://wiki.zoe-discord-bot.ch/en/features>)\n:gear: [**Configuration**](<https://wiki.zoe-discord-bot.ch/en/Zoe-Configuration>)\n\n**Vous pouvez également rejoindre le serveur discord officiel et nous décrire votre problème : <https://discord.gg/4Rxrzsxb7d>**",
     "zoeGlobalFeedbackFormBugReportTitleMax45Size": "Souhaitez-vous signaler un bug ?",
-    "zoeGlobalFeedbackFormBugReportPlaceholderMax100Size": "Veuillez expliquer comment vous avez rencontré ce bug. Nous pourrons être amenés à vous contacter afin d'obtenir davantage de détails.",
+    "zoeGlobalFeedbackFormBugReportPlaceholderMax100Size": "Expliquez comment vous avez rencontré ce bug. Nous pourrions vous contacter pour plus de détails.",
     "zoeGlobalFeedbackFormFeedbackTitleMax45Size": "Avez-vous des commentaires à faire à propos de Zoe ?",
     "zoeGlobalFeedbackFormFeedbackPlaceholderMax100Size": "Cela peut concerner n'importe quel aspect de Zoe, aussi bien positif que négatif. Cela nous aide à améliorer le bot !",
     "refreshServerAlreadyAskedButtonText": "Actualisation déjà en cours",
