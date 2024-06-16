@@ -1092,7 +1092,7 @@
     "zoeGlobalFeedbackFormBugReportTitleMax45Size": "Souhaitez-vous signaler un bug ?",
     "zoeGlobalFeedbackFormBugReportPlaceholderMax100Size": "Expliquez comment vous avez rencontré ce bug. Nous pourrions vous contacter pour plus de détails.",
     "zoeGlobalFeedbackFormFeedbackTitleMax45Size": "Des commentaires à propos de Zoe ?",
-    "zoeGlobalFeedbackFormFeedbackPlaceholderMax100Size": "Cela peut concerner n'importe quel aspect de Zoe, aussi bien positif que négatif. Cela nous aide à améliorer le bot !",
+    "zoeGlobalFeedbackFormFeedbackPlaceholderMax100Size": "Vos avis, positifs ou négatifs, sur Zoe nous aident à améliorer le bot !",
     "refreshServerAlreadyAskedButtonText": "Actualisation déjà en cours",
     "createMatchHistoryChannelOptionSelectionMessageInChannel": "Les statistiques des parties seront envoyées dans ce canal !",
     "unexpecedErrorMatchCardPleaseReport": "Une erreur inattendue est survenue lors du chargement ! Merci de le signaler ici : https://discord.gg/4Rxrzsxb7d",
