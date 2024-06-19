@@ -1449,5 +1449,8 @@
     "searchTeammateVerificationFailedTitle": "Verification failed",
     "searchTeammateVerificationFailedDescription": "Are you sure that you have selected the correct icon? Or perhaps you have not confirmed your selection? (You must exit the selection window to save your selection)\n\nPlease check this and try again (you can use the message above again).\n*You can close this message.*",
     "socialSoloqTeammateFinderHelpMessageSlashCommand": "Access to the SoloQ Teammate Finder feature",
-    "searchTeammateFeatureNotLaunchedYet": "This feature is not yet available. Please return the %s!"
+    "searchTeammateFeatureNotLaunchedYet": "This feature is not yet available. Please return the %s!",
+	"searchTeammateInformationAccountSelected": "**Account selected:**\nRiot ID: %s\nServer: %s",
+	"searchTeammateCommandMessageClickButton": "Click on the button to start the feature!",
+	"searchTeammateInformationJoinQueueButtonText": "Join the queue"
 }
