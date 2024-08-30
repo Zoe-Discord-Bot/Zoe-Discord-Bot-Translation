@@ -49,7 +49,7 @@
     "patchNotesCommandHelp": "Verzend de patch notities van je huidige versie (patch notities zijn in het engels).",
     "configCommandHelp": "Open een interactief bericht om de server te configureren.",
     "aboutCommandHelp": "Geeft de informatie van de bot.",
-    "missingPermissionOwnerMessage": "Hallo! Ik ben een bot van je server %s.\nIk heb deze \"%s\" permissies nodig om in het informatie kanaal te werken. Als je hulp nodig hebt, kun je de hulp Discord server joinen:  %s.\nDit bericht wordt elke keer opnieuw verzonden als ik opnieuw opstart. Bedankt voor je begrip!",
+    "missingPermissionOwnerMessage": "Hallo! Ik ben een bot van je server %s.\nIk heb deze \"%s\" permissies nodig om in het informatie kanaal te werken. Als je hulp nodig hebt, kun je de hulp Discord server joinen: %s.\nDit bericht wordt elke keer opnieuw verzonden als ik opnieuw opstart. Bedankt voor je begrip!",
     "helpMessageSendConfirmation": "Ik heb je alle commands in je prive berichten gestuurd.",
     "endHelpMessage": "Voor aanvullende hulp kun je onze officiele Discord server joinen:",
     "commandPlural": "Commands",
