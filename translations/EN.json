@@ -1528,5 +1528,11 @@
     "playerTagOutputImageMinimapTitle": "Early Game Kills",
     "playerTagOutputImageNoTags": "No information to show :C",
     "season2024Split3Name": "Season 2024 | Split 3",
-    "season2024Split3SmallName": "S2024/3"
+    "season2024Split3SmallName": "S2024/3",
+    "global": "Global",
+    "statsProfileWinrateQueueTitle": "Winrate by Queue (Last month)",
+    "statsProfileWinrateLineBody": "%s: %s (%d games)",
+    "normal": "Normal",
+    "statsProfileWinrateChampionTitle": "Winrate by Champion (Last month)",
+    "noData": "No data"
 }
