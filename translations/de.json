@@ -1495,5 +1495,20 @@
     "mapZoneTopside": "Obere Seite",
     "mapZoneTopsideJungle": "Jungel Obere Seite",
     "mapZoneBotsideJungle": "Jungel Untere Seite",
-    "mapZoneBotside": "Untere Seite"
+    "mapZoneBotside": "Untere Seite",
+    "playerTagDescriptionBadDiver": "Dieser Spieler stirbt oft beim diven und bekommt keinen Kill (% der Spiele)",
+    "playerTagShortNameWarmingUp": "Aufwärmen",
+    "playerTagShortNameLongTimeNoSee": "Lange nicht gesehen",
+    "playerTagDescriptionLongTimeNoSee": "Dieser Spieler hat seit über %d Tagen nicht mehr gespielt!",
+    "playerTagDescriptionLongTimeNoSeeEmpty": "Dieser Spieler hat schon eine Weile nicht mehr gespielt!",
+    "playerTagDescriptionWarmingUpOneDay": "Dies ist heute das erste Spiel dieses Spielers.",
+    "playerTagShortNameEarlyInvader": "Früher Invader",
+    "playerTagDescriptionEarlyInvader": "Dieser Spieler invaded in %s seiner Spiele in der ersten Minute",
+    "playerTagShortNameGoodDiver": "Guter Diver",
+    "playerTagShortNameBadDiver": "Dive, Tod, Nochmal",
+    "playerTagDescriptionGoodDiver": "Dieser Spieler dived oft erfolgreich",
+    "gameTypeUnknownMini": "Temp.",
+    "gameTypeCustomMini": "Benutzerdefiniert",
+    "gameType5v5DraftMini": "Abwechselnde Wahl",
+    "gameTypeQuickPlayNormalMini": "Schnelles Spiel"
 }
