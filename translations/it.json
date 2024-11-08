@@ -1528,5 +1528,11 @@
     "matchSummaryUseTemplateNeedMatchText": "Il template *%s* richiede una partita selezionata per funzionare. Si prega di selezionare una partita ora. Per fare ciò, seleziona un account per il quale desideri scegliere una partita nella cronologia. Clicca il pulsante qui sotto per continuare.",
     "matchSummaryNeedSelectMatchTitle": "Partita richiesta",
     "matchSummaryNeedSelectMatchDescription": "Per favore seleziona una partita nella cronologia partite.",
-    "matchSummaryCommandText": "Clicca sul pulsante per aprire una nuova sessione di riepilogo della partita!"
+    "matchSummaryCommandText": "Clicca sul pulsante per aprire una nuova sessione di riepilogo della partita!",
+    "statsProfileWinrateLineBody": "%s: %s (%d Partite)",
+    "normal": "Normale",
+    "statsProfileWinrateChampionTitle": "Winrate per campione (Ultimo mese)",
+    "noData": "Nessun dato",
+    "global": "Globale",
+    "statsProfileWinrateQueueTitle": "Winrate per coda (Ultimo mese)"
 }
