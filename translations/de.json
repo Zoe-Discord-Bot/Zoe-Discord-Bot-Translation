@@ -1510,5 +1510,13 @@
     "gameTypeUnknownMini": "Temp.",
     "gameTypeCustomMini": "Benutzerdefiniert",
     "gameType5v5DraftMini": "Abwechselnde Wahl",
-    "gameTypeQuickPlayNormalMini": "Schnelles Spiel"
+    "gameTypeQuickPlayNormalMini": "Schnelles Spiel",
+    "gameType5v5RankSoloQMini": "SoloQ",
+    "gameType5v5RankedFlexMini": "Flex",
+    "gameTypeCoopVsIAMini": "Vs Bots",
+    "playerTagOutputImageWinrateText": "%s Winrate:",
+    "playerTagOutputImageWinLoseDetails": "%d W | %d L",
+    "playerTagOutputImagePlayingChampionTitle": "Spielt %s %s",
+    "playerTagOutputImageJungleGank": "Neigt dazu, %s Ganks zu bevorzugen",
+    "playerTagOutputImageRoam": "Neigt dazu, %s Roams zu bevorzugen"
 }
