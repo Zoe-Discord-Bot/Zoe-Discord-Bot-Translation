@@ -1518,5 +1518,21 @@
     "playerTagOutputImageWinLoseDetails": "%d W | %d L",
     "playerTagOutputImagePlayingChampionTitle": "Spielt %s %s",
     "playerTagOutputImageJungleGank": "Neigt dazu, %s Ganks zu bevorzugen",
-    "playerTagOutputImageRoam": "Neigt dazu, %s Roams zu bevorzugen"
+    "playerTagOutputImageRoam": "Neigt dazu, %s Roams zu bevorzugen",
+    "playerTagOutputImageNoKill": "Keine Kills oder Assists erzielt",
+    "playerTagOutputImageMidRoamNoPref": "Neigt zum Roamen, aber ohne klare Seitenpräferenz",
+    "playerTagOutputImageNoRoam": "Neigt dazu, nicht viel zu roamen",
+    "playerTagOutputImageTopBotSuppRoamPref": "Neigt zu roamen %s",
+    "playerTagOutputImageTopBotSuppRoam": "Neigt dazu, ohne Lanepräferenz zu roamen",
+    "playerTagOutputImageMinimapNotEnoughData": "Nicht genügend Daten (Mind. %d Spiele erforderlich)",
+    "playerTagOutputImageMinimapTitle": "Kills am Anfang des Spiels",
+    "playerTagOutputImageNoTags": "Keine Informationen anzeigbar :C",
+    "season2024Split3Name": "Season 2024 | Split 3",
+    "season2024Split3SmallName": "S2024/3",
+    "global": "Global",
+    "statsProfileWinrateQueueTitle": "Winrate nach Warteschlange (letzter Monat)",
+    "statsProfileWinrateLineBody": "%s: %s (%d Spiele)",
+    "normal": "Normal",
+    "statsProfileWinrateChampionTitle": "Winrate by Champion (letzter Monat)",
+    "noData": "Keine Daten"
 }
