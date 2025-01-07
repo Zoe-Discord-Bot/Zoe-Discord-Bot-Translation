@@ -1587,5 +1587,7 @@
     "showBetPointsCommandMessage": "%s currently have **%s** bets points !",
     "showBetPointsCommandBonusPoints": "__**Passive Bet Points Gain**__\nFor a game win : %d | Bet Points for a game lost : %d",
     "showBetPointsCommandNoMultiplicator": "%s don't have any subscription and so don't have any multiplicator. [Subscribe to Zoe to receive passively more points to bet!](<https://ko-fi.com/kalunight/tiers>)",
-    "showBetPointsCommandMultiplicator": "%s currently have a multiplicator of **%s** thanks to his \"%s\" subscription ! Thank a lot for the support !"
+    "showBetPointsCommandMultiplicator": "%s currently have a multiplicator of **%s** thanks to his \"%s\" subscription ! Thank a lot for the support !",
+    "season2025Split1Name": "Year 2025 | Season 1",
+    "season2025Split1SmallName": "Y2025/S1"
 }
