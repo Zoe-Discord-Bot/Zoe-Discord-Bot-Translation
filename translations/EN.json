@@ -1589,5 +1589,6 @@
     "showBetPointsCommandNoMultiplicator": "%s don't have any subscription and so don't have any multiplicator. [Subscribe to Zoe to receive passively more points to bet!](<https://ko-fi.com/kalunight/tiers>)",
     "showBetPointsCommandMultiplicator": "%s currently has a multiplier of **%s** thanks to their “%s” subscription! Thanks a lot for the support!",
     "season2025Split1Name": "Year 2025 | Season 1",
-    "season2025Split1SmallName": "Y2025/S1"
+    "season2025Split1SmallName": "Y2025/S1",
+    "betNotPossibleAgainstYourself": "You can't bet against yourself! Please have some faith in you!"
 }
