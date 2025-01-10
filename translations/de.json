@@ -1589,5 +1589,9 @@
     "betLoseNotificationAgainst": "📉😈🚨 **Die Wette von %s gegen %s war ein Fehler! Verlust: %s Punkte!**",
     "betResultsMultipleBothSideTitle": "**Ergebnis der Wette für das Spiel zwischen %s gegen %s!**",
     "showBetPointsCommandDiscordIdInvalid": "Die angegebene Discord-ID ist nicht gültig. Bitte überprüfe, ob die ID korrekt ist und versuche es erneut.",
-    "showBetPointsCommandNoMultiplicator": "%s hat kein Abonnement und somit auch keinen Multiplikator. [Abonniere Zoe, um passiv mehr Punkte zum Wetten zu erhalten!](<https://ko-fi.com/kalunight/tiers>)"
+    "showBetPointsCommandNoMultiplicator": "%s hat kein Abonnement und somit auch keinen Multiplikator. [Abonniere Zoe, um passiv mehr Punkte zum Wetten zu erhalten!](<https://ko-fi.com/kalunight/tiers>)",
+    "betNotPossibleAgainstYourself": "Du kannst nicht gegen dich selbst wetten! Bitte hab etwas Vertrauen in dich!",
+    "gameTypeSwiftplayNormal": "5v5 Swiftplay | Kluft der Beschwörer",
+    "gameTypeSwiftplayNormalSmall": "5v5 Swiftplay",
+    "gameTypeSwiftplayNormalMini": "Swiftplay"
 }
