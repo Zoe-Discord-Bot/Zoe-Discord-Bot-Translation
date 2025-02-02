@@ -1593,5 +1593,7 @@
     "betNotPossibleAgainstYourself": "Du kannst nicht gegen dich selbst wetten! Bitte hab etwas Vertrauen in dich!",
     "gameTypeSwiftplayNormal": "5v5 Swiftplay | Kluft der Beschwörer",
     "gameTypeSwiftplayNormalSmall": "5v5 Swiftplay",
-    "gameTypeSwiftplayNormalMini": "Swiftplay"
+    "gameTypeSwiftplayNormalMini": "Swiftplay",
+    "informationPanelRefreshedTimeBoosted": "**⭐ Geboosteter Server - Schnellere Aktualisierung ⭐ ** - *Aktualisiert alle %s Minuten | %s | Generiert %s*",
+    "informationPanelRefreshedTimeSmallBoosted": "**⭐ Kleiner geboosteter Server - Sehr schnelle Aktualisierung ⭐ ** - *Aktualisiert alle %s Minuten | %s | Generiert %s*"
 }
