@@ -1593,5 +1593,7 @@
     "betNotPossibleAgainstYourself": "You can't bet against yourself! Please have some faith in yourself!",
     "gameTypeSwiftplayNormal": "5v5 Swiftplay | Summoner's Rift",
     "gameTypeSwiftplayNormalSmall": "5v5 Swiftplay",
-    "gameTypeSwiftplayNormalMini": "Swiftplay"
+    "gameTypeSwiftplayNormalMini": "Swiftplay",
+    "informationPanelRefreshedTimeBoosted": "**⭐ Boosted Server - Faster Refresh ⭐ ** - *Refreshed every %s minutes | %s | Generated %s*",
+    "informationPanelRefreshedTimeSmallBoosted": "**⭐ Small Boosted Server - Very Fast Refresh ⭐ ** - *Refreshed every %s minutes | %s | Generated %s*"
 }
