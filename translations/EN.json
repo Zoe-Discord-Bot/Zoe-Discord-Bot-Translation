@@ -1595,5 +1595,9 @@
     "gameTypeSwiftplayNormalSmall": "5v5 Swiftplay",
     "gameTypeSwiftplayNormalMini": "Swiftplay",
     "informationPanelRefreshedTimeBoosted": "**⭐ Boosted Server - Faster Refresh ⭐ ** - *Refreshed every %s minutes | %s | Generated %s*",
-    "informationPanelRefreshedTimeSmallBoosted": "**⭐ Small Boosted Server - Very Fast Refresh ⭐ ** - *Refreshed every %s minutes | %s | Generated %s*"
+    "informationPanelRefreshedTimeSmallBoosted": "**⭐ Small Boosted Server - Very Fast Refresh ⭐ ** - *Refreshed every %s minutes | %s | Generated %s*",
+    "leaderboardTeamFilterNoTeam": "No Team Filter",
+    "leaderboardTeamFilterPlaceholder": "Select a team to filter",
+    "leaderboardTeamFilterNextPage": "See More",
+    "leaderboardTitleTeamFilter": "Team %s"
 }
