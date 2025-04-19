@@ -1599,5 +1599,11 @@
     "leaderboardTeamFilterNoTeam": "No Team Filter",
     "leaderboardTeamFilterPlaceholder": "Select a team to filter",
     "leaderboardTeamFilterNextPage": "See More",
-    "leaderboardTitleTeamFilter": "Team %s"
+    "leaderboardTitleTeamFilter": "Team %s",
+    "infoPanelInGamePlayer": "**Players in game:**",
+    "infoPanelInGamePlayerNoPlayer": "No player in game",
+    "infoPanelMostRecentRankChange": "**Most recent rank change:**",
+    "infoPanelMostRecentRankChangeNoChange": "No rank change to report",
+    "infoPanelRecentInfoTitle": "Player Activity Hub",
+    "lastChangeDetected": "Last change detected"
 }
