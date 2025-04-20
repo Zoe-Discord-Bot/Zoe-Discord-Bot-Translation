@@ -197,7 +197,7 @@
     "mainShowCommandHelpMessage": "Wenn du Hilfe zu den \"show\" Befehlen benötigest, gib \"/show help\" ein",
     "mainStatsCommandHelpMessage": "Wenn du Hilfe zu den \"stats\" Befehlen benötigst, gib \"/stats help\" ein",
     "teamNameOfPlayerWithoutTeam": "Kein Team",
-    "informationPanelRefreshedTime": "*Wird alle %s Minuten aktualisiert | %s | Generiert %s*",
+    "informationPanelRefreshedTime": "*Wird alle %s Minuten aktualisiert | %s | Letzte Änderung erkannt %s*",
     "informationPanelNotInGame": "Aktuell nicht im Spiel",
     "informationPanelMultipleAccountInGame": "Mehrere Konten im Spiel",
     "informationPanelTitle": "Informationstafel",
@@ -1594,10 +1594,16 @@
     "gameTypeSwiftplayNormal": "5v5 Swiftplay | Kluft der Beschwörer",
     "gameTypeSwiftplayNormalSmall": "5v5 Swiftplay",
     "gameTypeSwiftplayNormalMini": "Swiftplay",
-    "informationPanelRefreshedTimeBoosted": "**⭐ Geboosteter Server - Schnellere Aktualisierung ⭐ ** - *Aktualisiert alle %s Minuten | %s | Generiert %s*",
-    "informationPanelRefreshedTimeSmallBoosted": "**⭐ Kleiner geboosteter Server - Sehr schnelle Aktualisierung ⭐ ** - *Aktualisiert alle %s Minuten | %s | Generiert %s*",
+    "informationPanelRefreshedTimeBoosted": "**⭐ Geboosteter Server - Schnellere Aktualisierung ⭐ ** - *Aktualisiert alle %s Minuten | %s | Letzte Änderung erkannt %s*",
+    "informationPanelRefreshedTimeSmallBoosted": "**⭐ Kleiner geboosteter Server - Sehr schnelle Aktualisierung ⭐ ** - *Aktualisiert alle %s Minuten | %s | Letzte Änderung erkannt %s*",
     "leaderboardTeamFilterNoTeam": "Kein Teamfilter",
     "leaderboardTeamFilterPlaceholder": "Wähle ein Team zum filtern aus",
     "leaderboardTeamFilterNextPage": "Zeige mehr",
-    "leaderboardTitleTeamFilter": "Team %s"
+    "leaderboardTitleTeamFilter": "Team %s",
+    "infoPanelInGamePlayerNoPlayer": "Kein Spieler im Spiel",
+    "infoPanelMostRecentRankChangeNoChange": "Keine Rangänderung zu vermerken",
+    "infoPanelRecentInfoTitle": "Spieler-Aktivitäts-Hub",
+    "lastChangeDetected": "Letzte erkannte Änderung",
+    "infoPanelInGamePlayer": "**Spieler im Spiel:**",
+    "infoPanelMostRecentRankChange": "**Aktuellste Rangänderung:**"
 }
