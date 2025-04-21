@@ -323,7 +323,7 @@
     "rankChannelBoStartedTitle": "%s iniciou um BO%d para %s (%s)",
     "rankChannelChangeBOEndedWinTitle": "%s venceu o seu BO%d para %s (%s)",
     "rankChannelChangeBOProgressWinTitle": "%s ganhou um jogo no seu BO%d para %s (%s)",
-    "informationPanelRefreshedTime": "*Atualizado a cada %s minutos | Gerado %s*",
+    "informationPanelRefreshedTime": "*Atualizado a cada %s minutos | Última alteração detectada %s*",
     "addingSystemLanguageSelected": "Certo, vou falar em %s. (Podes sempre mudar a minha linguagem com o comando `/language`). Agora, vamos selecionar a região por defeito do servidor:",
     "guildJoinHiAgain": "Olá outra vez! Todas as tuas configurações foram guardadas desde a última vez que estive aqui. Se precisas de te relembrar como funciona, tenta os comandos `/setup` e `/help`. Se quiseres reiniciar o servidor, usa o comando `/reset`.",
     "deleteRankChannelDeletedMissingPermission": "O canal de rank foi apagado apenas **dentro do sistems**! Não tenho permissões para apagar o canal de texto!",
