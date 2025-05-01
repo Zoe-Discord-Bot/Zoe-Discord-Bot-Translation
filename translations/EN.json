@@ -1605,5 +1605,7 @@
     "infoPanelMostRecentRankChange": "**Most recent rank change:**",
     "infoPanelMostRecentRankChangeNoChange": "No rank change to report",
     "infoPanelRecentInfoTitle": "Player Activity Hub",
-    "lastChangeDetected": "Last change detected"
+    "lastChangeDetected": "Last change detected",
+    "season2025Split2Name": "Year 2025 | Season 2",
+	"season2025Split2SmallName": "Y2025/S2"
 }
