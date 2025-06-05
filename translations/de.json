@@ -1607,5 +1607,16 @@
     "infoPanelInGamePlayer": "**Spieler im Spiel:**",
     "infoPanelMostRecentRankChange": "**Aktuellste Rangänderung:**",
     "season2025Split2Name": "Jahr 2025 | Saison 2",
-    "season2025Split2SmallName": "Y2025/S2"
+    "season2025Split2SmallName": "Y2025/S2",
+    "enableBettingOptionName": "Wetten aktivieren",
+    "enableBettingOptionEnableOptionButton": "Wetten aktivieren",
+    "enableBettingOptionDisableOptionButton": "Wetten deaktivieren",
+    "enableBettingLongDescEnable": "Option in Aktivierung: **%s**\n\nWenn du diese Option aktivierst, kann jeder im Rangkanal Wetten platzieren.",
+    "enableBettingOptionEnableUpdate": "Wetten wurden aktiviert!",
+    "enableBettingOptionCancelEnable": "In Ordnung, Wetten bleiben deaktiviert.",
+    "enableBettingOptionLongDescDisable": "Option, die du deaktivieren möchtest: **%s**\n\nWenn du diese Option deaktivierst, werden bestehende Wetten nicht abgebrochen. Es werden keine Wettnachrichten mehr gesendet und die Benutzer können nicht mehr passiv Wettpunkte sammeln.",
+    "enableBettingOptionDisableUpdate": "Wetten wurden deaktiviert!",
+    "enableBettingCancelDisable": "Okay, Wetten bleiben aktiviert.",
+    "enableBettingTimeout": "Einrichtung der Wettoption abgebrochen - du hast zu lange gebraucht.",
+    "enableBettingOptionDesc": "Ermöglicht Mitgliedern, Wetten auf League of Legends-Spiele zu platzieren"
 }
