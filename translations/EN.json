@@ -1607,5 +1607,16 @@
     "infoPanelRecentInfoTitle": "Player Activity Hub",
     "lastChangeDetected": "Last change detected",
     "season2025Split2Name": "Year 2025 | Season 2",
-	"season2025Split2SmallName": "Y2025/S2"
+	"season2025Split2SmallName": "Y2025/S2",
+    "enableBettingOptionName": "Enable Betting",
+    "enableBettingOptionDesc": "Allow members to place bets on League of Legends Games",
+    "enableBettingOptionEnableOptionButton": "Enable betting",
+    "enableBettingOptionDisableOptionButton": "Disable betting",
+    "enableBettingLongDescEnable": "Option in activation: **%s**\n\nIf you activate this option, everyone will be able to place bets in the Rank Channel.",
+    "enableBettingOptionEnableUpdate": "Betting has been enabled!",
+    "enableBettingOptionCancelEnable": "Alright, betting remains disabled.",
+    "enableBettingOptionLongDescDisable": "Option you want to disable: **%s**\n\nIf you deactivate this option, existing bets will not be canceled. Bet messages will stop being sent, and users will no longer be able to earn bet points passively.",
+    "enableBettingOptionDisableUpdate": "Betting has been disabled!",
+    "enableBettingCancelDisable": "Okay, betting stays enabled.",
+    "enableBettingTimeout": "Betting option setup cancelled - you took too long."
 }
