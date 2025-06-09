@@ -1618,5 +1618,6 @@
     "enableBettingOptionDisableUpdate": "Wetten wurden deaktiviert!",
     "enableBettingCancelDisable": "Okay, Wetten bleiben aktiviert.",
     "enableBettingTimeout": "Einrichtung der Wettoption abgebrochen - du hast zu lange gebraucht.",
-    "enableBettingOptionDesc": "Ermöglicht Mitgliedern, Wetten auf League of Legends-Spiele zu platzieren"
+    "enableBettingOptionDesc": "Ermöglicht Mitgliedern, Wetten auf League of Legends-Spiele zu platzieren",
+    "betResultsGameWasRemake": "Das Spiel war ein Remake. Alle Wetteinsätze wurden zurückerstattet."
 }
