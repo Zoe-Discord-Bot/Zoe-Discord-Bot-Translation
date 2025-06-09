@@ -1619,5 +1619,5 @@
     "enableBettingOptionDisableUpdate": "Betting has been disabled!",
     "enableBettingCancelDisable": "Okay, bets remain enabled.",
     "enableBettingTimeout": "Betting option setup cancelled - you took too long.",
-    "betResultsGameWasRemake": "The game was remake. All bets have been refunded."
+    "betResultsGameWasRemake": "The game was a remake. All bets have been refunded."
 }
