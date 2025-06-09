@@ -1618,5 +1618,6 @@
     "enableBettingOptionLongDescDisable": "Option you want to disable: **%s**\n\nIf you deactivate this option, existing bets will not be cancelled. No more betting messages will be sent and users will no longer be able to passively collect betting points.",
     "enableBettingOptionDisableUpdate": "Betting has been disabled!",
     "enableBettingCancelDisable": "Okay, bets remain enabled.",
-    "enableBettingTimeout": "Betting option setup cancelled - you took too long."
+    "enableBettingTimeout": "Betting option setup cancelled - you took too long.",
+    "betResultsGameWasRemake": "The game was remake. All bets have been refunded."
 }
