@@ -1619,5 +1619,6 @@
     "enableBettingOptionDisableUpdate": "Betting has been disabled!",
     "enableBettingCancelDisable": "Okay, bets remain enabled.",
     "enableBettingTimeout": "Betting option setup cancelled - you took too long.",
-    "betResultsGameWasRemake": "The game was a remake. All bets have been refunded."
+    "betResultsGameWasRemake": "The game was a remake. All bets have been refunded.",
+    "predictRoleSelectFullTeamOPGGNotValidNumberOfAccounts": "The opgg link must contains exactly 5 accounts. Please check the link, remove or add accounts and try again."
 }
