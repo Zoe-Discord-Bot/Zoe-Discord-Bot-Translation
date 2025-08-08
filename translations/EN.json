@@ -1637,9 +1637,9 @@
     "betResetSuccessPremium": "All players bet points have been reset to **%d** for this server. This custom amount is available thanks to your premium server status.",
     "betGrantPremiumRequired": "Granting bet points is available only on premium servers. You can subscribe here: <https://ko-fi.com/kalunight/tiers>",
     "betRemovePremiumRequired": "Removing bet points is available only on premium servers. You can subscribe here: <https://ko-fi.com/kalunight/tiers>",
-    "betsGiveHelp": "Transfer bet points to another user.",
-    "betsGrantHelp": "Grant generated bet points to a user (require manage channel).",
-    "betsRemoveHelp": "Remove bet points from a user (require manage channel).",
-    "betsResetHelp": "Reset all players bet points in the server to 1000 (require manage channel).",
+    "betsGiveHelp": "Transfers bet points to another user.",
+    "betsGrantHelp": "Grants generated bet points to a user (requires manage channel).",
+    "betsRemoveHelp": "Removes bet points from a user (requires manage channel).",
+    "betsResetHelp": "Resets all players bet points in the server to 1000 (requires manage channel).",
     "killParticipationAbreviation": "KP"
 }
