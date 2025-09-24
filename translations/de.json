@@ -1641,5 +1641,14 @@
     "betGiveSuccess": "%s hat **%d** Wettpunkte an %s gesendet. %s hat jetzt **%d** Wettpunkte. %s hat jetzt **%d** Wettpunkte.",
     "betResetSuccess": "Alle Spieler-Wettpunkte wurden für diesen Server auf **%d** zurückgesetzt.",
     "betResetSuccessPremium": "Alle Spieler-Wettpunkte wurden für diesen Server auf **%d** zurückgesetzt. Dieser benutzerdefinierte Betrag ist dank deines Premium-Server-Status verfügbar.",
-    "betRemovePremiumRequired": "Das Entfernen von Wettpunkten ist nur auf Premium-Servern möglich. Hier kannst du dich anmelden: <https://ko-fi.com/kalunight/tiers>"
+    "betRemovePremiumRequired": "Das Entfernen von Wettpunkten ist nur auf Premium-Servern möglich. Hier kannst du dich anmelden: <https://ko-fi.com/kalunight/tiers>",
+    "infocardButtonPastEncounters": "Déjà Queue",
+    "infocardButtonSelectPlayer": "Wer bist du?",
+    "infocardPastEncountersTitle": "Bekannte Spieler aus der Vergangenheit (%s)",
+    "infocardPastEncountersSubTitleWith": "Du hast mit **%s** %s gespielt",
+    "infocardPastEncountersSubTitleAgainst": "Du hast gegen **%s** %s gespielt",
+    "infocardPastEncountersNoData": "Keine bekannten Spieler für den Account %s gefunden.",
+    "infocardPastEncountersFooter": "Die letzten %d Monate (%d Spiele) durchsucht",
+    "infocardPastEncountersSubTitleMultiple": "Du hast %d Mal mit **%s** gespielt! Letztes Spiel: %s",
+    "infocardPastEncountersEmbedInfoDesc": "Du wirst auf der linken Seite angezeigt."
 }
