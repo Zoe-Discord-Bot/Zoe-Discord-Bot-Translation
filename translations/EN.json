@@ -1641,5 +1641,14 @@
     "betsGrantHelp": "Grants generated bet points to a user (requires manage channel).",
     "betsRemoveHelp": "Removes bet points from a user (requires manage channel).",
     "betsResetHelp": "Resets all players bet points in the server to 1000 (requires manage channel).",
-    "killParticipationAbreviation": "KP"
+    "killParticipationAbreviation": "KP",
+    "infocardButtonPastEncounters": "Déjà Queue",
+    "infocardButtonSelectPlayer": "Who are you?",
+    "infocardPastEncountersTitle": "Familiar players from the past (%s)",
+    "infocardPastEncountersSubTitleWith": "You played with **%s** %s",
+    "infocardPastEncountersSubTitleAgainst": "You played against **%s** %s",
+    "infocardPastEncountersNoData": "No familiar players found for the account %s.",
+    "infocardPastEncountersFooter": "Searched through the last %d months (%d games)",
+    "infocardPastEncountersSubTitleMultiple": "You played %d times with **%s**! Last game: %s",
+    "infocardPastEncountersEmbedInfoDesc": "You are represented on the left side."
 }
