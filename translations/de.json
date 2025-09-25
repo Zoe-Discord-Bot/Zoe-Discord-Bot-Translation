@@ -1650,5 +1650,7 @@
     "infocardPastEncountersNoData": "Keine bekannten Spieler für den Account %s gefunden.",
     "infocardPastEncountersFooter": "Die letzten %d Monate (%d Spiele) durchsucht",
     "infocardPastEncountersSubTitleMultiple": "Du hast %d Mal mit **%s** gespielt! Letztes Spiel: %s",
-    "infocardPastEncountersEmbedInfoDesc": "Du wirst auf der linken Seite angezeigt."
+    "infocardPastEncountersEmbedInfoDesc": "Du wirst auf der linken Seite angezeigt.",
+    "season2025Split3Name": "Jahr 2025 | Split 3",
+    "season2025Split3SmallName": "Y2025/S3"
 }
