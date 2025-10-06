@@ -1036,7 +1036,7 @@
     "rankTrendNoGamePlayedDesc": "Talvez em outra ocasião!",
     "matchHistoryFeatureEarlyAccessServerBoosted": "***⭐ Recurso de Acesso Antecipado | Somente paraServidor Premium ⭐***",
     "earlyAccessFeature": "⭐ Recurso de Acesso Antecipado ⭐",
-    "goldGraphGeneratedAnswer": "Aqui estão as tabelas de outro do jogo:",
+    "goldGraphGeneratedAnswer": "Aqui estão as tabelas de outro jogo:",
     "deleteMatchHistoryChannelOptionSelectionChannelInfomessage": "Não enviarei mais mensagens sobre o jogo neste canal.",
     "commandAvailableOnlyInSlashVersion": "Este comando só pode ser usado com os comandos de barra!",
     "deleteMatchHistoryChannelHelpSlashCommandMessage": "Exclui o canal de histórico de partidas do servidor. Isso não exclui o canal do Discord.",
@@ -1192,5 +1192,10 @@
     "season2025Split3Name": "Ano 2025 | Divisão 3",
     "season2025Split3SmallName": "Y2025/S3",
     "goldGraphYTitle": "Ouro",
-    "gameWord": "jogo"
+    "gameWord": "jogo",
+    "matchSummaryNeedSelectMatchDescription": "Selecione um jogo no histórico de partidas .",
+    "matchSummaryTemplateSelectedMenuClearDataButton": "Limpar histórico de partidas/contas selecionadas",
+    "matchSummaryCreationMenuGameDataAccountMatchSummaryTitle": "Dados do histórico de partidas para uma conta do League",
+    "matchSummaryCreationMenuGameDataAccountMatchSummaryTitleInsert": "Os dados do histórico de partidas de uma conta do League serão exibidos aqui",
+    "matchSummaryUseTemplateNeedMatchText": "O modelo *%s* requer uma correspondência selecionada para funcionar. Selecione uma correspondência agora. Para isso, selecione uma conta para a qual deseja selecionar uma correspondência no histórico. Clique no botão abaixo para continuar."
 }
