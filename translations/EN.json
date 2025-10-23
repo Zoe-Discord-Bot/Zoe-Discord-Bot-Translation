@@ -1652,5 +1652,6 @@
     "infocardPastEncountersSubTitleMultiple": "You played %d times with **%s**! Last game: %s",
     "infocardPastEncountersEmbedInfoDesc": "You are represented on the left side.",
     "season2025Split3Name": "Year 2025 | Split 3",
-    "season2025Split3SmallName": "Y2025/S3"
+    "season2025Split3SmallName": "Y2025/S3",
+    "anonymized": "Anonymized"
 }
