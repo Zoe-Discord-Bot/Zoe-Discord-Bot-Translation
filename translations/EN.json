@@ -1667,5 +1667,6 @@
     "leaderboardSettingsNextPageButton": "Next Page",
     "leaderboardEditValidateMessageSimpler": "Okay! The new settings have been successfully applied. The leaderboard will update in a few seconds.",
     "leaderboardPremiumOptionBoostedGeneric": "Your server is premium: you have access to all leaderboard settings! | Thank you for your support!",
-    "leaderboardPremiumOptionNotBoostedGeneric": "Leaderboard settings are a premium feature! | Unlock them here: <https://ko-fi.com/kalunight/tiers>"
+    "leaderboardPremiumOptionNotBoostedGeneric": "Leaderboard settings are a premium feature! | Unlock them here: <https://ko-fi.com/kalunight/tiers>",
+    "leaderboardPlayerNameDiscordNicknameAndRiotId": "Discord Nickname + Riot ID"
 }
