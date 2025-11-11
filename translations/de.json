@@ -1653,5 +1653,20 @@
     "infocardPastEncountersEmbedInfoDesc": "Du wirst auf der linken Seite angezeigt.",
     "season2025Split3Name": "Jahr 2025 | Split 3",
     "season2025Split3SmallName": "Y2025/S3",
-    "anonymized": "Anonymisiert"
+    "anonymized": "Anonymisiert",
+    "leaderboardEditButtonMessageNewSystem": "Hallo %s!\n\nHier kannst du das Verhalten dieses Leaderboards bearbeiten. Nimm die gewünschten Einstellungen vor und klicke dann auf „Bestätigen“. Bestätige deine Änderungen unbedingt, bevor du die Seite wechselst.\n\n%s",
+    "leaderboardEditMenuSize": "Aktuelle Leaderboardgröße: %d",
+    "leaderboardEditMenuServerFilter": "Aktueller Serverfilter: %s",
+    "leaderboardEditMenuTeamFilter": "Aktueller Teamfilter: %s",
+    "leaderboardEditMenuNameFormat": "Aktuelles Namensformat: %s",
+    "leaderboardPlayerNameDiscordNickname": "Discord-Spitzname",
+    "leaderboardPlayerNameDiscordGlobalName": "Discord globaler Name",
+    "leaderboardPlayerNameDiscordUsername": "Discord-Benutzername",
+    "leaderboardPlayerNameDiscordMention": "Discord-Erwähnung",
+    "leaderboardPlayerNameRiotId": "Riot ID",
+    "leaderboardSettingsNextPageButton": "Nächste Seite",
+    "leaderboardEditValidateMessageSimpler": "Okay! Die neuen Einstellungen wurden erfolgreich übernommen. Das Leaderboard wird in wenigen Sekunden aktualisiert.",
+    "leaderboardPremiumOptionNotBoostedGeneric": "Die Leaderboardeinstellungen sind eine Premium-Funktion! | Hier freischalten: <https://ko-fi.com/kalunight/tiers>",
+    "leaderboardPremiumOptionBoostedGeneric": "Dein Server ist Premium: Du hast Zugriff auf alle Leaderboardeinstellungen! | Vielen Dank für deine Unterstützung!",
+    "leaderboardPlayerNameDiscordNicknameAndRiotId": "Discord-Spitzname + Riot-ID"
 }
