@@ -1654,7 +1654,7 @@
     "season2025Split3Name": "Year 2025 | Split 3",
     "season2025Split3SmallName": "Y2025/S3",
     "anonymized": "Anonymized",
-    "leaderboardEditButtonMessageNewSystem": "Hello %s!\n\nYou can edit how this leaderboard behaves here. Update the settings you want, then press \"Validate.\" Make sure to validate your changes before switching pages.\n\n%s",
+    "leaderboardEditButtonMessageNewSystem": "Hello %s!\n\nHere you can edit the behaviour of this leaderboard. Make the desired settings and then click on ‘Validate’. Be sure to validate your changes before changing pages.\n\n%s",
     "leaderboardEditMenuSize": "Current leaderboard size: %d",
     "leaderboardEditMenuServerFilter": "Current server filter: %s",
     "leaderboardEditMenuTeamFilter": "Current team filter: %s",
@@ -1666,7 +1666,7 @@
     "leaderboardPlayerNameRiotId": "Riot ID",
     "leaderboardSettingsNextPageButton": "Next Page",
     "leaderboardEditValidateMessageSimpler": "Okay! The new settings have been successfully applied. The leaderboard will update in a few seconds.",
-    "leaderboardPremiumOptionBoostedGeneric": "Your server is premium: you have access to all leaderboard settings! | Thank you for your support!",
+    "leaderboardPremiumOptionBoostedGeneric": "Your server is premium: You have access to all leaderboard settings! | Thank you for your support!",
     "leaderboardPremiumOptionNotBoostedGeneric": "Leaderboard settings are a premium feature! | Unlock them here: <https://ko-fi.com/kalunight/tiers>",
     "leaderboardPlayerNameDiscordNicknameAndRiotId": "Discord Nickname + Riot ID"
 }
