@@ -1668,5 +1668,11 @@
     "leaderboardEditValidateMessageSimpler": "Okay! The new settings have been successfully applied. The leaderboard will update in a few seconds.",
     "leaderboardPremiumOptionBoostedGeneric": "Your server is premium: You have access to all leaderboard settings! | Thank you for your support!",
     "leaderboardPremiumOptionNotBoostedGeneric": "Leaderboard settings are a premium feature! | Unlock them here: <https://ko-fi.com/kalunight/tiers>",
-    "leaderboardPlayerNameDiscordNicknameAndRiotId": "Discord Nickname + Riot ID"
+    "leaderboardPlayerNameDiscordNicknameAndRiotId": "Discord Nickname + Riot ID",
+    "season2026Split1Name": "Year 2026 | Season 1",
+    "season2026Split1SmallName": "Y2026/S1",
+    "season2026Split2Name": "Year 2026 | Season 2",
+    "season2026Split2SmallName": "Y2026/S2",
+    "season2026Split3Name": "Year 2026 | Season 3",
+    "season2026Split3SmallName": "Y2026/S3"
 }
