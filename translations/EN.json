@@ -398,7 +398,7 @@
     "deleteLeaderboardErrorDatabase": "A database error occured! Please report this issue here: https://discord.gg/4Rxrzsxb7d",
     "deleteLeaderboardCommandNoLeaderboardToDelete": "There is no leaderboard to delete.",
     "leaderboardNotRefreshedMessage": "This leaderboard is too far up the channel to be refreshed. It must be in the last 20 messages.",
-    "leaderboardDeletedMessage": "This leaderboard was deleted because he was too far up in the channel.",
+    "leaderboardDeletedMessage": "This leaderboard was deleted because it was too far up in the channel.",
     "banAccountCommandHelp": "Starts the ban list wizard. Allows an account owner to delete their account from other servers and add it to the ban list so that it can no longer be added by others.",
     "banAccountCommandProveAccountOwner": "Hello! To get started, log in to the League client with the account you want to use. Here is a code that will be needed in the next step: **%s**. With this code, go to *Settings -> Verification* in your League client, paste the code in the box and click save.\n\nOnce done, reply to me with your account details as follows: ``(Region) (Summonername)``. I will then show you on which server your account was added and what you can do about it. If you want to stop the process, send ``STOP``.",
     "banAccountCommandCancelVerification": "Well, I am no longer waiting for an answer. You can send the base command again if you want to continue.",
