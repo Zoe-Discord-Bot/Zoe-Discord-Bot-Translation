@@ -1674,5 +1674,8 @@
     "season2026Split2Name": "Year 2026 | Season 2",
     "season2026Split2SmallName": "Y2026/S2",
     "season2026Split3Name": "Year 2026 | Season 3",
-    "season2026Split3SmallName": "Y2026/S3"
+    "season2026Split3SmallName": "Y2026/S3",
+    "allinBet": "All-in ! (Bet all your points : %s)",
+    "halfBet": "Half-in ! ! (Bet half of your points : %s)",
+    "quarterBet": "Quarter-in ! (Bet a quarter of your points : %s)"
 }
