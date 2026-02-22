@@ -1699,5 +1699,16 @@
     "playerTagShortNameReadyToRumble": "Ready To Rumble",
     "playerTagDescriptionReadyToRumble": "This player is often implicated in a kill/die before 5 minutes",
     "playerTagShortNameNotOnMainRole": "Not on main role",
-    "playerTagDescriptionNotOnMainRole": "This player is playing %s only %s of his games."
+    "playerTagDescriptionNotOnMainRole": "This player is playing %s only %s of his games.",
+    "rankChannelRegionFilterOptionName": "Rankchannel region filter",
+    "rankChannelRegionFilterOptionDesc": "Filters rank channel messages by server region (e.g. show only EUW and NA updates)",
+    "rankChannelRegionFilterOptionUpdateMessage": "**%s**\n\nSelect the server regions you want to see in the rank channel. Updates from unselected regions will be hidden.",
+    "rankChannelRegionFilterOptionChanged": "✅ Region filter updated. Only rank updates from the selected server(s) will appear in the rank channel.",
+    "rankChannelRegionFilterOptionDisabled": "✅ Region filter removed. All server regions will appear in the rank channel.",
+    "rankChannelRegionFilterOptionCanceled": "Operation cancelled. No changes have been made.",
+    "rankChannelRegionFilterOptionTimeout": "No response received within 2 minutes. The operation has been cancelled.",
+    "rankChannelRegionFilterOptionSaveButton": "Save",
+    "rankChannelRegionFilterOptionCancelButton": "Cancel",
+    "rankChannelRegionFilterOptionDisableButton": "Remove filter (show all)",
+    "rankChannelRegionFilterOptionPremiumRequired": "The server region filter for the rank channel is a premium feature that requires this server to be boosted.\n\n**Subscribe [here](https://ko-fi.com/kalunight/tiers) to support the bot and unlock this feature!**"
 }
