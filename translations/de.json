@@ -1674,5 +1674,17 @@
     "season2026Split2SmallName": "J2026/S2",
     "season2026Split3Name": "Jahr 2026 | Saison 3",
     "season2026Split3SmallName": "J2026/S3",
-    "season2026Split1Name": "Jahr 2026 | Saison 1"
+    "season2026Split1Name": "Jahr 2026 | Saison 1",
+    "configGeneralHelpSlashCommand": "Öffne das serverweite Konfigurationsmenü.",
+    "configMatchhistorySettingOptionDescription": "Welche Einstellung soll konfiguriert werden",
+    "configMatchhistorySettingQueueTypeFilter": "Spieltyp-Filter (z. B. ARAM ausschließen)",
+    "configMatchhistoryFilterHelpMessage": "Konfiguriere, welche Spieltypen in einem Spielverlaufskanal veröffentlicht werden. Schließe beispielsweise ARAM-Spiele aus.",
+    "configMatchhistoryFilterTimeout": "Innerhalb von 2 Minuten wurde keine Antwort empfangen. Der Vorgang wurde abgebrochen.",
+    "configMatchhistoryHelpMessage": "Konfiguriere die Einstellungen für den Spielverlaufskanal (Filter für Spieltypen usw.).",
+    "configMatchhistoryUnknownSetting": "Unbekannte Einstellung. Bitte wähle eine gültige Option aus.",
+    "configMatchhistoryFilterNoChannel": "Auf diesem Server sind keine Spielverlaufskanäle konfiguriert. Bitte erstelle zunächst einen mit `/create matchhistorychannel`.",
+    "configMatchhistoryFilterSelectChannel": "Du hast mehrere Spielverlaufskanäle. Bitte wähle aus, welchen du konfigurieren möchtest:",
+    "allinBet": "All-in! (Setze alle deine Punkte: %s)",
+    "halfBet": "Half-in! (Setze die Hälfte deiner Punkte: %s)",
+    "quarterBet": "Quarter-in! (Setze ein Viertel deiner Punkte: %s)"
 }
