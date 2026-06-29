@@ -753,7 +753,7 @@
     "subTier2Name": "다이아몬드 서포터",
     "subTier1Name": "플래티넘 서포터",
     "exceptionnalAccessName": "특별 기능 이용",
-    "exclusiveAccessToSupporterChannelName": "[공식 조이 디스코드 서버](https://discord.gg/BfB2B74VnK)의 독점 채널 이용",
+    "exclusiveAccessToSupporterChannelName": "[공식 조이 디스코드 서버](<https://discord.gg/BfB2B74VnK>)의 독점 채널 이용",
     "subscriptionCommandTitle": "%s 구독 정보",
     "subscriptionCommandRoleTitle": "%s의 모든 역할",
     "subscriptionCommandNoRoles": "%s는 역할이 하나도 없어",
