@@ -596,7 +596,7 @@
     "subscriptionCommandNoRoles": "%s n'a aucun rôle",
     "subscriptionCommandRoleTitle": "Tous les rôles de %s",
     "subscriptionCommandTitle": "Détail de l'abonnement de %s",
-    "exclusiveAccessToSupporterChannelName": "Accès a un salon exclusif dans le [Serveur Discord Officiel de Zoe](https://discord.gg/BfB2B74VnK)",
+    "exclusiveAccessToSupporterChannelName": "Accès a un salon exclusif dans le [Serveur Discord Officiel de Zoe](<https://discord.gg/BfB2B74VnK>)",
     "exceptionnalAccessName": "Accès exceptionnel aux nouvelles fonctionnalités",
     "subTier1Name": "Supporter Platine",
     "subTier2Name": "Supporter Diamant",
