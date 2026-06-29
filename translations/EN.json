@@ -641,7 +641,7 @@
     "subTier2Name": "Diamond Supporter",
     "subTier1Name": "Platinum Supporter",
     "exceptionnalAccessName": "Exceptional features access",
-    "exclusiveAccessToSupporterChannelName": "Access an exclusive channel in the [Official Zoe Discord Server](https://discord.gg/BfB2B74VnK)",
+    "exclusiveAccessToSupporterChannelName": "Access an exclusive channel in the [Official Zoe Discord Server](<https://discord.gg/BfB2B74VnK>)",
     "subscriptionCommandTitle": "%s subscription details",
     "subscriptionCommandRoleTitle": "All roles of %s",
     "subscriptionCommandNoRoles": "%s didn't have any role",
