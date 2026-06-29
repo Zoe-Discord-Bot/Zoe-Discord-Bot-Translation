@@ -641,7 +641,7 @@
     "subTier2Name": "Apoiador Diamante",
     "subTier1Name": "Apoiador Platina",
     "exceptionnalAccessName": "Recursos excepcionais Acesso",
-    "exclusiveAccessToSupporterChannelName": "Acesso a um canal exclusivo no [Official Zoe Discord Server](https://discord.gg/BfB2B74VnK)",
+    "exclusiveAccessToSupporterChannelName": "Acesso a um canal exclusivo no [Official Zoe Discord Server](<https://discord.gg/BfB2B74VnK>)",
     "subscriptionCommandTitle": "%s detalhes da assinatura",
     "subscriptionCommandRoleTitle": "Todos os papéis de %s",
     "subscriptionCommandNoRoles": "%s não tinha nenhum papel",
