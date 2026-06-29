@@ -641,7 +641,7 @@
     "subTier2Name": "Người ủng hộ kim cương",
     "subTier1Name": "Người ủng hộ Bạch kim",
     "exceptionnalAccessName": "Truy cập các tính năng đặc biệt",
-    "exclusiveAccessToSupporterChannelName": "Truy cập kênh độc quyền trong [Máy chủ Discord chính thức của Zoe](https://discord.gg/BfB2B74VnK)",
+    "exclusiveAccessToSupporterChannelName": "Truy cập kênh độc quyền trong [Máy chủ Discord chính thức của Zoe](<https://discord.gg/BfB2B74VnK>)",
     "subscriptionCommandTitle": "",
     "subscriptionCommandRoleTitle": "Tất cả các vai trò của %s",
     "subscriptionCommandNoRoles": "",
