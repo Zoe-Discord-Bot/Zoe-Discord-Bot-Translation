@@ -621,7 +621,7 @@
     "subscriptionCommandNoRoles": "%s hat keine Rolle",
     "subscriptionCommandRoleTitle": "Alle Rollen von %s",
     "subscriptionCommandTitle": "%s Details zum Abonnement",
-    "exclusiveAccessToSupporterChannelName": "Zugang zu exklusivem Kanal auf dem [Offiziellen Zoe Discord Server] (https://discord.gg/BfB2B74VnK)",
+    "exclusiveAccessToSupporterChannelName": "Zugang zu exklusivem Kanal auf dem [Offiziellen Zoe Discord Server] (<https://discord.gg/BfB2B74VnK>)",
     "exceptionnalAccessName": "Vollständiger Zugriff auf neue Funktionen",
     "subTier1Name": "Platin-Unterstützer",
     "subTier2Name": "Diamant-Unterstützer",
