@@ -4,7 +4,7 @@
     "commandPlural": "",
     "endHelpMessage": "",
     "helpMessageSendConfirmation": "",
-    "missingPermissionOwnerMessage": "",
+    "missingPermissionOwnerMessage": "哈囉！我是你們伺服器 %s 的機器人。\n我需要在資訊頻道中擁有「%s」權限才能正常運作。如果你需要協助，可以點擊這裡加入支援伺服器：%s。\n這個訊息會在每次我重新啟動時發送。先謝謝大家了！",
     "aboutCommandHelp": "",
     "aboutMessage": "",
     "configCommandHelp": "",
