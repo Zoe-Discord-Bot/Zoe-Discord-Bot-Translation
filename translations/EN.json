@@ -1678,7 +1678,7 @@
     "allinBet": "All-in! (Bet all your points: %s)",
     "halfBet": "Half-in! (Bet half of your points: %s)",
     "quarterBet": "Quarter-in! (Bet a quarter of your points: %s)",
-    "configGeneralHelpSlashCommand": "Open the server-wide configuration menu.",
+    "configGeneralHelpSlashCommand": "Opens the server-wide configuration menu.",
     "configMatchhistoryHelpMessage": "Configure matchhistorychannel settings (game type filter, etc.).",
     "configMatchhistorySettingOptionDescription": "Which setting to configure",
     "configMatchhistorySettingQueueTypeFilter": "Game type filter (e.g. exclude ARAM)",
@@ -1711,7 +1711,7 @@
     "rankChannelRegionFilterOptionCancelButton": "Cancel",
     "rankChannelRegionFilterOptionDisableButton": "Remove filter (show all)",
     "rankChannelRegionFilterOptionPremiumRequired": "The server region filter for the rank channel is a premium feature that requires this server to be boosted.\n\n**Subscribe [here](https://ko-fi.com/kalunight/tiers) to support the bot and unlock this feature!**",
-    "verificationProcessPollingStarted": "We're now checking your account in the background. You'll receive a message here once your account is verified. Please don't change your icon in the meantime! This can take up to 10 minutes.",
-    "verificationProcessPollingTimeout": "We couldn't verify your account ownership after 10 minutes. Please try again and make sure to keep the requested icon set on your profile. If you have correctly setup the icon and still have issues, please contact the support team on the official server (look for the \"Support\" field in the bio of the bot).",
-    "rankTrendShowAllRankNoChangeDetected": "No rank changes detected on this server for this period."
+    "verificationProcessPollingStarted": "We're now verifying your account in the background. As soon as your account is verified, you'll receive a notification here. In the meantime, please don't change your profileicon! This may take up to 10 minutes.",
+    "verificationProcessPollingTimeout": "We were unable to verify ownership of your account within 10 minutes. Please try again and make sure the requested icon is set in your profile. If you have set up the icon correctly and are still experiencing issues, please contact the support team on the official server (look for the “Support” field in the bot's bio).",
+    "rankTrendShowAllRankNoChangeDetected": "No rank changes detected on this server during this period."
 }
