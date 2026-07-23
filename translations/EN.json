@@ -1766,7 +1766,7 @@
     "playerTagDescriptionOtpBanned": "Their %s one-trick was banned after %d picks in %d recent games.",
     "playerTagShortNameBuddy": "Buddy: %s",
     "playerTagDescriptionBuddy": "This player shared a team with %s in %d of their %d recent games.",
-    "playerTagShortNameRoamer": "Roamer",
+    "playerTagShortNameRoamer": "Multi-Role",
     "playerTagDescriptionRoamer": "This player played %s of %d recent games away from their main role (%s).",
     "playerTagShortNameLovesToGankTop": "Loves To Gank Top",
     "playerTagShortNameLovesToGankMid": "Loves To Gank Mid",
