@@ -1780,5 +1780,6 @@
     "playerTagDescriptionNotOnMainRoleDetailed": "This player is playing %s (only %d%% of their games). Most played: %s.",
     "playerTagShortNameOftenGetsStolen": "Often Gets Stolen",
     "playerTagDescriptionOftenGetsStolen": "Loses an objective to a steal in %s of their jungle games (average: %s).",
-    "bot": "Bot"
+    "bot": "Bot",
+    "liveGamesPremadeGroupText": "These %d players queue together. Strongest pair: %d shared recent games."
 }
