@@ -1776,5 +1776,9 @@
     "playerTagDescriptionSplitPusher": "This player spent %s of post-20 position frames in side lanes (%d/%d across %d games), with sustained stays in %d games.",
     "liveGamesPromotionStake": "%d LP from %s",
     "liveGamesDemotionShieldStake": "0 LP in %s IV — one loss from demotion",
-    "liveGamesRivalryStake": "%s and %s are on opposite sides"
+    "liveGamesRivalryStake": "%s and %s are on opposite sides",
+    "playerTagDescriptionNotOnMainRoleDetailed": "This player is playing %s (only %d%% of their games). Most played: %s.",
+    "playerTagShortNameOftenGetsStolen": "Often Gets Stolen",
+    "playerTagDescriptionOftenGetsStolen": "Loses an objective to a steal in %s of their jungle games (average: %s).",
+    "bot": "Bot"
 }
