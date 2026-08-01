@@ -1896,5 +1896,8 @@
     "playerProfileAwardUnitTextVisionLord": "vision score / game",
     "playerProfileAwardUnitTextGoldHoarder": "total gold earned",
     "playerProfileAwardUnitTextGeneric": "value",
-    "playerProfileMilestoneUnknown": "Career milestone"
+    "playerProfileMilestoneUnknown": "Career milestone",
+    "gameTypeLeagueClassic": "League Classic",
+    "gameTypeAramMayhemClassic": "ARAM Mayhem Classic",
+    "statsNotAvailable": "Not available"
 }
