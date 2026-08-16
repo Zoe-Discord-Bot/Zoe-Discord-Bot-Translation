@@ -1899,5 +1899,8 @@
     "playerProfileMilestoneUnknown": "Career milestone",
     "gameTypeLeagueClassic": "League Classic",
     "gameTypeAramMayhemClassic": "ARAM Mayhem Classic",
-    "statsNotAvailable": "Not available"
+    "statsNotAvailable": "Not available",
+    "dashboardLinkLive": "Open live scouting on Zoe Dashboard",
+    "dashboardLinkMatch": "See the full game on Zoe Dashboard",
+    "dashboardLinkProfile": "See the full profile on Zoe Dashboard"
 }
