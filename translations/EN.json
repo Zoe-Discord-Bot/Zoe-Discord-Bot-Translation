@@ -1902,5 +1902,9 @@
     "statsNotAvailable": "Not available",
     "dashboardLinkLive": "Open live scouting on Zoe Dashboard",
     "dashboardLinkMatch": "See the full game on Zoe Dashboard",
-    "dashboardLinkProfile": "See the full profile on Zoe Dashboard"
+    "dashboardLinkProfile": "See the full profile on Zoe Dashboard",
+    "betNotPossibleInvalidStake": "The bet stake must be a positive whole number.",
+    "betNotPossibleBettingDisabled": "Betting is disabled on this server.",
+    "betNotPossibleQueueNotAllowed": "Betting is not available for this game queue.",
+    "betResultsGameCancelled": "The game of %s could not be resolved. All bets have been refunded."
 }
