@@ -1909,5 +1909,6 @@
     "betResultsGameCancelled": "The game of %s could not be resolved. All bets have been refunded.",
     "gameTypeAramMayhem": "ARAM: Mayhem",
     "gameTypeAramMayhemSmall": "ARAM: Mayhem",
-    "gameTypeAramMayhemMini": "Mayhem"
+    "gameTypeAramMayhemMini": "Mayhem",
+    "infoPanelInGamePlayerMoreHidden": "... and %d other players in game"
 }
