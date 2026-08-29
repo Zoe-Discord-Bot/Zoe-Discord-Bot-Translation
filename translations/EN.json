@@ -1906,5 +1906,8 @@
     "betNotPossibleInvalidStake": "The bet stake must be a positive whole number.",
     "betNotPossibleBettingDisabled": "Betting is disabled on this server.",
     "betNotPossibleQueueNotAllowed": "Betting is not available for this game queue.",
-    "betResultsGameCancelled": "The game of %s could not be resolved. All bets have been refunded."
+    "betResultsGameCancelled": "The game of %s could not be resolved. All bets have been refunded.",
+    "gameTypeAramMayhem": "ARAM: Mayhem",
+    "gameTypeAramMayhemSmall": "ARAM: Mayhem",
+    "gameTypeAramMayhemMini": "Mayhem"
 }
