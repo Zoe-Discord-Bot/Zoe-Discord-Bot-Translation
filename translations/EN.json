@@ -1910,5 +1910,20 @@
     "gameTypeAramMayhem": "ARAM: Mayhem",
     "gameTypeAramMayhemSmall": "ARAM: Mayhem",
     "gameTypeAramMayhemMini": "Mayhem",
-    "infoPanelInGamePlayerMoreHidden": "... and %d other players in game"
+    "infoPanelInGamePlayerMoreHidden": "... and %d other players in game",
+    "matchHistoryStatLine": "⏱️ %s · %s · 🌾 %d CS (%s/min) · ⚔️ %s · 👁️ %d",
+    "matchHistoryStatLineNoPosition": "⏱️ %s · 🌾 %d CS (%s/min) · ⚔️ %s · 👁️ %d",
+    "matchHistoryStatLineArena": "⏱️ %s · 🌾 %d CS (%s/min) · ⚔️ %s",
+    "matchHistoryStatLineSeparator": " · ",
+    "matchHistoryPentakill": "🏆 Pentakill",
+    "matchHistoryPentakillCount": "🏆 %dx Pentakill",
+    "matchHistoryQuadrakill": "🏆 Quadrakill",
+    "matchHistoryQuadrakillCount": "🏆 %dx Quadrakill",
+    "matchHistorySurrender": "🏳️ Surrender",
+    "matchHistoryRemake": "🔁 Remake",
+    "matchHistoryArenaPlacement": "🥇 %d place",
+    "matchHistoryDamageMillions": "%.1fm",
+    "matchHistoryDamageThousands": "%.1fk",
+    "playerTagPooledQueuesSuffix": " (all queues)",
+    "playerTagRoleNormSuffix": " (%s norms)"
 }
