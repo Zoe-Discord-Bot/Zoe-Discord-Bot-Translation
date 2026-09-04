@@ -1925,5 +1925,10 @@
     "matchHistoryDamageMillions": "%.1fm",
     "matchHistoryDamageThousands": "%.1fk",
     "playerTagPooledQueuesSuffix": " (all queues)",
-    "playerTagRoleNormSuffix": " (%s norms)"
+    "playerTagRoleNormSuffix": " (%s norms)",
+    "playerProfileAwardTitleMostFf": "White Flag",
+    "playerProfileAwardValueMostFf": "%s surrenders",
+    "playerProfileAwardValueMostFfSingular": "%s surrender",
+    "playerProfileAwardDescriptionMostFf": "Most games lost by surrender",
+    "playerProfileAwardUnitTextMostFf": "surrenders"
 }
