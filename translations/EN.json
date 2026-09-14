@@ -1932,5 +1932,12 @@
     "playerProfileAwardDescriptionMostFf": "Most games lost by surrender",
     "playerProfileAwardUnitTextMostFf": "surrenders",
     "dashboardVerificationLinkedDM": "Your League account **%s** (%s) is now linked to you on **%s**. You can change your profile icon back whenever you like.",
-    "dashboardVerificationExpiredDM": "Zoe could not see the requested profile icon on **%s** (%s) within 15 minutes, so the link on **%s** was not made. Either the icon was not set on that account in the League client, or Riot is slow to show it right now. Please try again from the dashboard. If it keeps failing, tell us on the official Zoe server: <https://discord.gg/whc5PrC>"
+    "dashboardVerificationExpiredDM": "Zoe could not see the requested profile icon on **%s** (%s) within 15 minutes, so the link on **%s** was not made. Either the icon was not set on that account in the League client, or Riot is slow to show it right now. Please try again from the dashboard. If it keeps failing, tell us on the official Zoe server: <https://discord.gg/whc5PrC>",
+    "dashboardLinkBetBoard": "See the bet points board on Zoe Dashboard",
+    "dashboardLinkHistory": "See the full history on Zoe Dashboard",
+    "dashboardLinkLeaderboards": "See all leaderboards on Zoe Dashboard",
+    "dashboardLinkPlayers": "See all players on Zoe Dashboard",
+    "dashboardLinkServer": "Open the server on Zoe Dashboard",
+    "dashboardLinkPremium": "See Zoe Premium on the dashboard",
+    "dashboardLinkScout": "Open Scout on Zoe Dashboard"
 }
