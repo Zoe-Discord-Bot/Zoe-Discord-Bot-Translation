@@ -1939,5 +1939,8 @@
     "dashboardLinkPlayers": "See all players on Zoe Dashboard",
     "dashboardLinkServer": "Open the server on Zoe Dashboard",
     "dashboardLinkPremium": "See Zoe Premium on the dashboard",
-    "dashboardLinkScout": "Open Scout on Zoe Dashboard"
+    "dashboardLinkScout": "Open Scout on Zoe Dashboard",
+    "editionPublishedMessage": "📰 **%s** weekly, No. %s is out. %s games this week, %s%% won. On the cover: %s.",
+    "editionPublishedMessageNoCover": "📰 **%s** weekly, No. %s is out. %s games this week, %s%% won.",
+    "dashboardLinkEdition": "Read this week's edition on Zoe Dashboard"
 }
