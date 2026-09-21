@@ -1942,5 +1942,7 @@
     "dashboardLinkScout": "Open Scout on Zoe Dashboard",
     "editionPublishedMessage": "📰 **%s** weekly, No. %s is out. %s games this week, %s%% won. On the cover: %s.",
     "editionPublishedMessageNoCover": "📰 **%s** weekly, No. %s is out. %s games this week, %s%% won.",
-    "dashboardLinkEdition": "Read this week's edition on Zoe Dashboard"
+    "dashboardLinkEdition": "Read this week's edition on Zoe Dashboard",
+    "editionCommentAskStop": "Stop asking me",
+    "editionCommentAskStopped": "Done, the journal will not ask you again on this server. You can turn it back on from the Weekly tab."
 }
