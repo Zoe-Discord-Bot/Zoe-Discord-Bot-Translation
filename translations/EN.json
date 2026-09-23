@@ -1944,5 +1944,8 @@
     "editionPublishedMessageNoCover": "📰 **%s** weekly, No. %s is out. %s games this week, %s%% won.",
     "dashboardLinkEdition": "Read this week's edition on Zoe Dashboard",
     "editionCommentAskStop": "Stop asking me",
-    "editionCommentAskStopped": "Done, the journal will not ask you again on this server. You can turn it back on from the Weekly tab."
+    "editionCommentAskStopped": "Done, the journal will not ask you again on this server. You can turn it back on from the Weekly tab.",
+    "banAccountCommandVerificationValid": "Verification okay! You can now manage your account below.",
+    "editionCommentAskDM": "*Every week, Zoe writes a journal about what League Of Legends events happened on this server.*\n\nThe new edition of the **%s** journal (No. %s) goes out today at %s, and it writes about you. The journal would like a comment from you: read your story and leave your line with the button below (%s characters at most).",
+    "dashboardLinkEditionComment": "Answer on Zoe Dashboard"
 }
