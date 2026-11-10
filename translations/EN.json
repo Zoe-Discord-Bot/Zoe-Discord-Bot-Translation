@@ -1370,7 +1370,7 @@
     "addPlayerToTeamCommandNeedManageChannelPermission": "You cannot add players that are not yourself to a team without having permission to manage channels.",
     "addPlayerToTeamCommandSelfAddingOptionNotActivated": "You cannot add yourself to a team unless you have the \"Manage channel\" permission or the \"Team Self Adding\" option is enabled.",
     "removePlayerFromTeamCommandNeedManageChannelPermission": "You cannot remove players from a team that are not yourself without the permission to manage channels.",
-    "removePlayerFromTeamCommandSelfAddingOptionNotActivated": "You cannot remove yourself from a team if you dont have the \"Manage channel\" permission OR the enabled \"Team Self Adding\" config option.",
+    "removePlayerFromTeamCommandSelfAddingOptionNotActivated": "You cannot remove yourself from a team unless you have the \"Manage channel\" permission or the \"Team Self Adding\" option is enabled.",
     "joinHelpMessageSlashCommand": "Allows you to join a team",
     "leaveHelpMessageSlashCommand": "Allows you to leave the current team you are in",
     "playerAddedInTheTeamWithData": "%s has been added to team \"%s\"!",
