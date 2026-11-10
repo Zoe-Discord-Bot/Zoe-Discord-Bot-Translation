@@ -1967,5 +1967,14 @@
     "checkupLeaderboards": "Leaderboards",
     "checkupCleanChannel": "Clean channel",
     "checkupZoePlayerRole": "Zoe-Player role",
-    "checkupRankRoles": "Rank roles"
+    "checkupRankRoles": "Rank roles",
+    "editionPublishedCardTitle": "%s Weekly, No. %s",
+    "editionPublishedCardText": "%s games this week, %s%% won. On the cover: %s.",
+    "editionPublishedCardTextNoCover": "%s games this week, %s%% won.",
+    "editionReadersRoleName": "%s Weekly readers",
+    "editionReadersButton": "Notify me about new editions",
+    "editionReadersJoined": "Done. Zoe will ping you when the next issue of **%s Weekly** comes out. Press the button again to stop.",
+    "editionReadersLeft": "Done. Zoe will not ping you for new issues any more.",
+    "editionReadersOff": "This server no longer pings readers when a new issue comes out.",
+    "editionReadersUnavailable": "Zoe cannot hand out the readers role right now. Ask a server admin to check that Zoe has the Manage Roles permission and that its role sits above the readers role."
 }
