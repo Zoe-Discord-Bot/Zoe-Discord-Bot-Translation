@@ -1976,5 +1976,10 @@
     "editionReadersJoined": "Done. Zoe will ping you when the next issue of **%s Weekly** comes out. Press the button again to stop.",
     "editionReadersLeft": "Done. Zoe will not ping you for new issues any more.",
     "editionReadersOff": "This server no longer pings readers when a new issue comes out.",
-    "editionReadersUnavailable": "Zoe cannot hand out the readers role right now. Ask a server admin to check that Zoe has the Manage Roles permission and that its role sits above the readers role."
+    "editionReadersUnavailable": "Zoe cannot hand out the readers role right now. Ask a server admin to check that Zoe has the Manage Roles permission and that its role sits above the readers role.",
+    "rankChannelQueueFilterOptionName": "Rankchannel queue filter",
+    "rankChannelQueueFilterOptionDesc": "Filters rank channel messages by ranked queue (e.g. show only Solo/Duo updates)",
+    "rankChannelQueueFilterOptionUpdateMessage": "**%s**\n\nSelect the ranked queues you want to see in the rank channel. Updates from unselected queues will be hidden.",
+    "rankChannelQueueFilterOptionChanged": "✅ Queue filter updated. Only rank updates from the selected queue(s) will appear in the rank channel.",
+    "rankChannelQueueFilterOptionDisabled": "✅ Queue filter removed. All ranked queues will appear in the rank channel."
 }
